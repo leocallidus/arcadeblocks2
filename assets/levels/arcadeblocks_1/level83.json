@@ -1,0 +1,478 @@
+{
+  "name_ru": "Фрактальная Архитектура",
+  "description_ru": "Триадные треугольники. Разбирайте уровни структуры!",
+  "name_us": "Fractal Architecture",
+  "description": "Triadic triangles. Dismantle the structural levels!",
+  "layout": {
+    "brickColumns": 16,
+    "brickRows": 11,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 2,
+    "startY": 76
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 2,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 0,
+      "col": 10,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 0,
+      "col": 11,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 0,
+      "col": 12,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "color": "light_gray",
+      "health": 38,
+      "points": 1692
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 1,
+      "col": 10,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 1,
+      "col": 11,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 1,
+      "col": 12,
+      "color": "light_gray",
+      "health": 38,
+      "points": 1692
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "color": "light_gray",
+      "health": 38,
+      "points": 1692
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "color": "light_gray",
+      "health": 38,
+      "points": 1692
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "light_gray",
+      "health": 38,
+      "points": 1692
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "light_gray",
+      "health": 38,
+      "points": 1692
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "color": "light_gray",
+      "health": 38,
+      "points": 1692
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "pink",
+      "health": 36,
+      "points": 1604
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "light_gray",
+      "health": 38,
+      "points": 1692
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "light_gray",
+      "health": 38,
+      "points": 1692
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "light_gray",
+      "health": 38,
+      "points": 1692
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "color": "purple",
+      "health": 34,
+      "points": 1596
+    }
+  ]
+}

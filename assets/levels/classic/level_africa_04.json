@@ -1,0 +1,210 @@
+{
+  "name": "Sao Tome e Principe",
+  "description": "Original author: OFT\nLegacy Bonus Grid:\n..............\n..............\n..............\n..........2...\n.........2....\n..............\n.......!......\n........W.....\n...d.{........\n..->5.........\n..f~c.........\n..m*m.........\n..b}&.........\n..s<..........\n..++..........\n..w...........\n..............\n..w...........",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 4,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 15,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 17,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    }
+  ]
+}

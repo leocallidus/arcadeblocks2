@@ -1,0 +1,275 @@
+{
+  "name_ru": "Разрыв Континуума",
+  "description_ru": "Заряд сингулярности рвёт сетку. Держите траекторию!",
+  "name_us": "Continuum Break",
+  "description": "Singularity charge tears the grid. Keep the trajectory!",
+  "layout": {
+    "brickColumns": 16,
+    "brickRows": 11,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 2,
+    "startY": 76
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 0,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "color": "yellow",
+      "health": 40,
+      "points": 1980
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "color": "dark_blue",
+      "health": 39,
+      "points": 1956
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "color": "yellow",
+      "health": 40,
+      "points": 1980
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "explosive",
+      "health": 1,
+      "points": 1704
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "yellow",
+      "health": 40,
+      "points": 1980
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "color": "dark_blue",
+      "health": 39,
+      "points": 1956
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "yellow",
+      "health": 40,
+      "points": 1980
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "explosive",
+      "health": 1,
+      "points": 1704
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "color": "yellow",
+      "health": 40,
+      "points": 1980
+    },
+    {
+      "row": 6,
+      "col": 14,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    },
+    {
+      "row": 6,
+      "col": 15,
+      "color": "dark_blue",
+      "health": 39,
+      "points": 1956
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "color": "yellow",
+      "health": 40,
+      "points": 1980
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "color": "explosive",
+      "health": 1,
+      "points": 1704
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "yellow",
+      "health": 40,
+      "points": 1980
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "dark_blue",
+      "health": 39,
+      "points": 1956
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "color": "green",
+      "health": 37,
+      "points": 1888
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "color": "yellow",
+      "health": 40,
+      "points": 1980
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "color": "cyan",
+      "health": 38,
+      "points": 1892
+    }
+  ]
+}

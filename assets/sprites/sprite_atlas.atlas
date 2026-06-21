@@ -1,0 +1,362 @@
+sprite_atlas.png
+size: 8192,8192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plasma_shot
+  rotate: false
+  xy: 4, 4
+  size: 1024, 1530
+  orig: 1024, 1536
+  offset: 0, 1
+  index: -1
+bad_luck
+  rotate: false
+  xy: 1036, 4
+  size: 1017, 1017
+  orig: 1024, 1024
+  offset: 4, 1
+  index: -1
+slime_pw_paddle
+  rotate: false
+  xy: 2061, 4
+  size: 866, 916
+  orig: 1024, 1024
+  offset: 83, 89
+  index: -1
+trickster
+  rotate: false
+  xy: 2935, 4
+  size: 864, 837
+  orig: 1024, 1024
+  offset: 80, 58
+  index: -1
+freeze_paddle
+  rotate: false
+  xy: 3807, 4
+  size: 861, 755
+  orig: 1024, 1024
+  offset: 83, 183
+  index: -1
+fast_balls
+  rotate: false
+  xy: 4676, 4
+  size: 941, 649
+  orig: 1024, 1024
+  offset: 41, 184
+  index: -1
+score_rain
+  rotate: false
+  xy: 4, 1542
+  size: 786, 720
+  orig: 1024, 1024
+  offset: 119, 157
+  index: -1
+pw_paddle
+  rotate: false
+  xy: 5625, 4
+  size: 849, 627
+  orig: 1024, 1024
+  offset: 88, 209
+  index: -1
+gear
+  rotate: false
+  xy: 4, 2270
+  size: 727, 729
+  orig: 727, 729
+  offset: 0, 0
+  index: -1
+random
+  rotate: false
+  xy: 1036, 1029
+  size: 893, 502
+  orig: 1024, 1024
+  offset: 65, 270
+  index: -1
+penalties_magnet
+  rotate: false
+  xy: 6482, 4
+  size: 837, 533
+  orig: 1024, 1024
+  offset: 93, 240
+  index: -1
+reset
+  rotate: false
+  xy: 798, 1542
+  size: 800, 540
+  orig: 1024, 1024
+  offset: 112, 272
+  index: -1
+ball
+  rotate: false
+  xy: 739, 2270
+  size: 649, 649
+  orig: 1024, 1024
+  offset: 187, 186
+  index: -1
+plasma_weapon
+  rotate: false
+  xy: 1937, 1029
+  size: 913, 445
+  orig: 1024, 1024
+  offset: 55, 284
+  index: -1
+slime_paddle
+  rotate: false
+  xy: 1606, 1542
+  size: 879, 461
+  orig: 1024, 1024
+  offset: 73, 306
+  index: -1
+yellow_brick
+  rotate: false
+  xy: 1396, 2270
+  size: 865, 468
+  orig: 1024, 1024
+  offset: 79, 263
+  index: -1
+invisible_paddle
+  rotate: false
+  xy: 2858, 1029
+  size: 912, 438
+  orig: 1024, 1024
+  offset: 57, 292
+  index: -1
+call_ball_to_paddle_bonus
+  rotate: false
+  xy: 2493, 1542
+  size: 883, 448
+  orig: 1024, 1024
+  offset: 70, 285
+  index: -1
+bonus_magnet
+  rotate: false
+  xy: 3384, 1542
+  size: 881, 446
+  orig: 1024, 1024
+  offset: 71, 286
+  index: -1
+increase_paddle
+  rotate: false
+  xy: 3778, 1029
+  size: 896, 435
+  orig: 1024, 1024
+  offset: 64, 291
+  index: -1
+green_brick
+  rotate: false
+  xy: 2269, 2270
+  size: 838, 457
+  orig: 1024, 1024
+  offset: 93, 280
+  index: -1
+frozen_paddle
+  rotate: false
+  xy: 4273, 1542
+  size: 852, 443
+  orig: 1024, 1024
+  offset: 86, 283
+  index: -1
+chaotic_balls
+  rotate: false
+  xy: 4682, 1029
+  size: 882, 409
+  orig: 1024, 1024
+  offset: 72, 303
+  index: -1
+bonus_ball
+  rotate: false
+  xy: 5572, 1029
+  size: 884, 398
+  orig: 1024, 1024
+  offset: 71, 312
+  index: -1
+purple_brick
+  rotate: false
+  xy: 5133, 1542
+  size: 828, 411
+  orig: 1024, 1024
+  offset: 99, 303
+  index: -1
+extra_life
+  rotate: false
+  xy: 6464, 1029
+  size: 847, 389
+  orig: 1024, 1024
+  offset: 89, 310
+  index: -1
+pink_brick
+  rotate: false
+  xy: 7319, 1029
+  size: 822, 375
+  orig: 1024, 1024
+  offset: 103, 326
+  index: -1
+bonus_score200
+  rotate: false
+  xy: 5969, 1542
+  size: 811, 374
+  orig: 1024, 1024
+  offset: 111, 323
+  index: -1
+bonus_score500
+  rotate: false
+  xy: 6788, 1542
+  size: 790, 365
+  orig: 1024, 1024
+  offset: 114, 324
+  index: -1
+slow_balls
+  rotate: false
+  xy: 7327, 4
+  size: 796, 358
+  orig: 1024, 1024
+  offset: 114, 335
+  index: -1
+blue_brick
+  rotate: false
+  xy: 3115, 2270
+  size: 733, 380
+  orig: 1024, 1024
+  offset: 145, 320
+  index: -1
+weak_balls
+  rotate: false
+  xy: 4, 3007
+  size: 719, 385
+  orig: 1024, 1024
+  offset: 158, 322
+  index: -1
+bonus_add_five_second
+  rotate: false
+  xy: 3856, 2270
+  size: 784, 340
+  orig: 1024, 1024
+  offset: 121, 337
+  index: -1
+bonus_score
+  rotate: false
+  xy: 4648, 2270
+  size: 787, 338
+  orig: 1024, 1024
+  offset: 122, 338
+  index: -1
+sticky_paddle
+  rotate: false
+  xy: 5443, 2270
+  size: 763, 331
+  orig: 1024, 1024
+  offset: 132, 337
+  index: -1
+paddle
+  rotate: false
+  xy: 6214, 2270
+  size: 847, 258
+  orig: 1024, 1024
+  offset: 88, 381
+  index: -1
+bonus_wall
+  rotate: false
+  xy: 731, 3007
+  size: 616, 305
+  orig: 1024, 1024
+  offset: 219, 331
+  index: -1
+extra_wall
+  rotate: false
+  xy: 798, 2090
+  size: 1024, 150
+  orig: 1024, 558
+  offset: 0, 197
+  index: -1
+full_hp
+  rotate: false
+  xy: 7069, 2270
+  size: 1103, 100
+  orig: 1103, 100
+  offset: 0, 0
+  index: -1
+dark_blue_brick
+  rotate: false
+  xy: 4, 3396
+  size: 796, 385
+  orig: 1024, 1024
+  offset: 114, 311
+  index: -1
+darkness
+  rotate: false
+  xy: 808, 3396
+  size: 785, 603
+  orig: 1024, 1024
+  offset: 120, 89
+  index: -1
+decrease_paddle
+  rotate: false
+  xy: 1601, 3396
+  size: 848, 392
+  orig: 1024, 1024
+  offset: 88, 312
+  index: -1
+energy_ball
+  rotate: false
+  xy: 2457, 3396
+  size: 752, 766
+  orig: 1024, 1024
+  offset: 138, 127
+  index: -1
+energy_balls
+  rotate: false
+  xy: 3217, 3396
+  size: 955, 472
+  orig: 1024, 1024
+  offset: 34, 275
+  index: -1
+explosion_ball
+  rotate: false
+  xy: 4180, 3396
+  size: 673, 678
+  orig: 1024, 1024
+  offset: 182, 176
+  index: -1
+explosion_balls
+  rotate: false
+  xy: 4861, 3396
+  size: 927, 760
+  orig: 1024, 1024
+  offset: 49, 143
+  index: -1
+explosive_bricks
+  rotate: false
+  xy: 5796, 3396
+  size: 989, 797
+  orig: 1024, 1024
+  offset: 19, 149
+  index: -1
+extra_ball
+  rotate: false
+  xy: 6793, 3396
+  size: 688, 699
+  orig: 1024, 1024
+  offset: 168, 164
+  index: -1
+level_complete_bonus
+  rotate: false
+  xy: 4, 4201
+  size: 1003, 1017
+  orig: 1024, 1024
+  offset: 18, 1
+  index: -1
+light_gray_brick
+  rotate: false
+  xy: 1015, 4201
+  size: 814, 528
+  orig: 1024, 1024
+  offset: 105, 247
+  index: -1
+no_hp
+  rotate: false
+  xy: 1837, 4201
+  size: 1103, 100
+  orig: 1103, 100
+  offset: 0, 0
+  index: -1

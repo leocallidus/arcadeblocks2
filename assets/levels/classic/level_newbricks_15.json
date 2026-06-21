@@ -1,0 +1,77 @@
+{
+  "name": "Arrow",
+  "description": "Original author: OFT\nLegacy Bonus Grid:\n..............\n..............\n.....c........\n.....<........\n..............\n.....>..{.....\n.....s..}.....\n..............\n.....d..W..-..\n.....b..w..+..\n..............\n.....f..~.....\n.....g..g.....\n..............\n.....&........\n.....g........\n..............\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 3,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 12,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    }
+  ]
+}

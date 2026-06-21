@@ -1,0 +1,847 @@
+{
+  "name": "automobile",
+  "description": "Original author: migs\nLegacy Bonus Grid:\n...............\n...............\n...............\n.....!.+.>.....\n....1.2.0.}....\n.....<.?0......\n....+~p.0m+....\n.....2.-0......\n..}2...20.b1...\n....b?W...2.?<.\n..sw.-.>-c+....\n....2c.2.1.w.+.\n..1b.?-.~......\n....<.s..<>....\n.....W.....d...\n....-.d..{.....\n...+..w.-+.?...\n...............\nLevel:\nmigs\nrobot\nBricks:\n...............\n...............\n......aEEa.....\n......a**a.....\n......a**a.....\n......aaaa.....\n......ahha.....\n......ahha.....\n......aaaa.....\n......affa.....\n......affa.....\n......aEEa.....\n.......aa......\n.......aa......\n.......aa......\n.......aa......\n.....@@@@@@....\n...............\nBonus:\n...............\n...............\n......0..-.....\n......+.-c.....\n......0?.......\n.........0.....\n......0>.W.....\n......b.f0.....\n......0..b.....\n......-5.0.....\n......0<++.....\n......W..0.....\n.......s.......\n.......dw......\n.......f.......\n........>......\n...............\n...............\nLevel:\nmigs\nred-man\nBricks:\n...............\n......d*d......\n.....d*d*d.....\n.....*d*d*.....\n......*d*......\n.......*.......\n.......d.......\n.....*d*d*.....\n.....d*d*d.....\n.......*.......\n.......d.......\n.......*.......\n.......d.......\n......*.*......\n.....d...d.....\n....*.....*....\n...............\n...............\nBonus:\n...............\n......0.0......\n.....1.-.1.....\n.....2c.c2.....\n.......-.......\n.......3.......\n.......>.......\n......d.d......\n.....~.>.~.....\n...............\n.......f.......\n.......3.......\n.......W.......\n...............\n.....<...<.....\n...............\n...............\n...............\nLevel:\nmigs\nsand lorry\nBricks:\n...............\n...............\n...ddd.........\n..ddddd..eee...\n..dvvdd.eeeee..\n..dvvddeeeeeee.\n..dvvddeeeeeee.\nddddddddddddd.\nddddddddddddd.\nhd*dddddd*ddd.\nhdddddddddddd.\nddddddddddddd.\n..daaaddddaaad.\n...aja....aja..\n...aja....aja..\n...aaa....aaa..\n...............\n...............\nBonus:\n...............\n...............\n...............\n..}.W-l..+.s...\n...~.1....w.-..\n....c+?s.d.d.?.\n..~f5...b.-f...\n*.1?.}d.-1.?-.\n..?.!c.1&.g?.+.\n-b..w+.4...}..\n...+&?.?.<!*...\np...d.+-...c-.\n..1ms.<..!.....\n.....{....cW...\n....W.......s..\n...>.d....d.>..\n...............\n...............\nLevel:\nmigs\ndodge 'em\nBricks:\nv.............\n.....ddd*dd...v\n....dddddddd...\n...dd*ddddddd..\n..dddddddd*ddd.\nd*dddddddddddd\ndjjjjjjjjjjjjd\ndjd*dj*j*jj*jd\ndjjjdjdjdjjjjd\n*ddjdjdjdjjddd\ndjjjdjdjjjjddd\ndddddddddddddd\n..dddd*dddddd*.\n...dddddddddd..\n....ddddd*dd...\n.....dddddd....\n...............\n...............\nBonus:\n...............\n.....j0!.......\n....-!0!.>{0...\n...4c.!03d01-..\n..}w+?{.w!.f.1.\n{.!+.?+!.-?!>.\n..!*d>c.bc.!3&-\n?5~.!s.?.!g.!w\n!p!<?d--{!p!f?\n..!?3{1f?..!j??\n0+!?~+.w03s{!4\n-&f>c!4f!m0~0>\n..<0{!g!0c{!c..\n...b?-!jd?.?+..\n....~0?w!.!....\n.....{wd-<0....\n...............\n...............\nLevel:\nmigs\njet\nBricks:\n...............\n......v......@.\n......k........\n......k...@....\n...@..k........\n......k......k.\n......k......k.\n......k......k.\n...kkkkkkkkkkk.\n..kckckckckckc.\n...kkkkkkkkkkk.\n......k......k.\n......k......k.\n......k......k.\n..@...k........\n......k..@.....\n......k........\n......v........\nBonus:\n...............\n...............\n......w........\n......!........\n......<........\n.............?.\n......}........\n.............W.\n...-b.?-*.>b-s.\n..?0c1p2.2.1c0.\n...+&~?+>.d&+..\n......~......W.\n......{........\n.............?.\n......<........\n......!........\n......w........\n...............\nLevel:\nmigs\nchoo-choo\nBricks:\n.....j.........\n....j...ddddd..\n...dd...dvvvd..\n...dd...dvvvd..\n...dd...ddddd.d\n...dd...ddddd.d\n..ddddddddddd.d\n..ddddddddddd.d\n..ddddddddddd.d\n..ddddddddddd.d\n..ddddddddddddd\nddaEadddaEad.d\n...aaa...aaa...\n...aja...aja...\n...aaa...aaa...\n...aaa...aaa...\n..@##@#.#@#@@v.\n...............\nBonus:\n...............\n....4...0.W.?..\n...?.....?W.0..\n...c!...fm4....\n...-0...f.2s..!\n...2?....0.!W.0\n..->.<>0..2p..0\n..f00d.ss0Wd..0\n...?&+4?...0..f\n..4cs.c.b?>.W.W\n..!W>4W022.?cd1\nm0fdW---.5.0.+\n....2<...<0....\n...0}c.....b...\n....W....0-....\n...w5+...j.0...\n..f{gd0.4d{0.+.\n...............\nLevel:\nmigs\nchevron\nBricks:\n...............\n...............\n...............\njjjjjjjjjjjjjj\nh..hh..hh..hh.\n...hh..hh..hh..\n..hh..hh..hh..h\nhh..hh..hh..hh\nh..hh..hh..hh.\n...hh..hh..hh..\n..hh..hh..hh..h\nhh..hh..hh..hh\nh..hh..hh..hh.\njjjjjjjjjjjjjj\n...............\n...............\n...............\n...............\nBonus:\n...............\n...............\n...............\nw.?.f.bb.f.?.w\n~..11..&...00.\n...11......00..\n..11..?<..00..&\n11...-..00..+.\n1..?<..00..>?.\n....-..00..+...\n..?<..00..>?..2\n.....00......22\n*..00..}{..22.\nc.j.>.WW.>.jmc\n...............\n...............\n...............\n...............\nLevel:\nmigs\nall aboard!!\nBricks:\n.......j@.....v\n.......j@f.....\n......jj@f.....\n.....jjj@yf....\n.....jjj@yf....\n....jjjj@yyf...\n...jjjjj@yyf...\n...jjjjj@yyyf..\n..jjjjjj@fffff.\n.......v@v.....\n..eeeeeeeeeeee.\n...eeeeeeeeeee.\n....eeeeeeeee..\n.....eeeeeee...\n...!..!ee!e.!..\ngggggggggggggg\ngggggggggggggg\n...............\nBonus:\n.......0.......\n........1?.....\n.......?.......\n.....!-.j0.....\n.....0.1..W....\n......W.4}0....\n...01d<2pl.0...\n....b.?0jm2?...\n..?-.0.....1.0.\n........1......\n..21*?.0.W0.2!.\n....012w.0db...\n.....!.1{?.&1..\n......0.W.0....\n...>...~..>....\n0&0?{+.<.?010?\nf0.c0.>.0.!0.f\n...............\nLevel:\nmigs\nyello sub\nBricks:\n....hh.........\n...!vh..!..!g..\nEggghEgggEggEg\n.....h.........\n...y.h.....yy..\n@x..h....f..z.\nz...h.........\n....hhhhhhhhh..\n...hhhhhhhhhhh.\nx.hhhhhhhhhhh.\n...hhhhhhhhhhh.\n...hhhhhhhhhhh.\n...hhhhhhhhhhh.\n...hhhhhhhhhhh.\n....hhhhhhhhh..\nz.x...........\n..y........y...\n........@......\nBonus:\n...............\n...<42..?..d...\n..c<...<<...<l.\n...............\n............!..\n3?..2....f....\n...............\n....0.s.1.0....\n...+00.0f00&c..\nf.!.+.00*.000.\n...00000&00b00.\n...0w0.000.0-d.\n...&0p0000000..\n...d000!.fd.0f.\n....-0s0+0>....\n-.f...........\n...........>...\n........!......\nLevel:\nmigs\ntraffic\nBricks:\n...............\njjjjjjjjajajjj\n.........g!g...\n..ada....a.a...\n...............\nvjvjvjvjvjvjvj\n....a.a.....a.a\n....iii.....@@@\n....a.a.....a.a\ncccccccccccccc\na.a...........\nyyy.....afa...\na.a...........\nvjvjajajvjvjvj\n.....hhh..a.a..\n.....a.a..d*d..\n..........a.a..\njjjjjjjjjjjjjj\nBonus:\n...............\n2.?w.c.&...-.2\n.........W.....\n..Wl.......?...\n...............\n1-1?1.1.*.1w1.\n......3........\n.....m......p.5\n....3..........\n!2.s&.j-.?c2&!\n...............\n?w+.....Ws....\n...............\n..0+0.0.0.0+0?0\n.....Ws........\n..........+....\n...............\n>.b.>.<.>.b.>.\nLevel:\nmigs\nbridge o' troubled h2o\nBricks:\n..............v\nddd.......ff..\ndddd..v...fff.\ncccccccccccccc\na.ca.c..c.aca.\naaaaaaaaaaaaaa\nekkkkkvvkkkkke\nekkkk....kkkke\nekkk......kkke\nekk...v...vkke\nekk........kke\nek..........ke\nek....v..v..ke\nek.v........ke\nee..........ke\nee.........vee\neee.v......eee\neeeeeg!!ggeeee\nBonus:\n..............j\n?.*........p..\n+4.1..g...+.3.\n..>.{.{!2~&w?.?\n&..?......~W<.\n..w.s.ff.}-.c.f\n!-..?>.?4.1.2!\n...-0-....b-&..\n..<........c{>1\nc.f...W...?...\n..>.........~0m\n1.............\n..}....j..+..s~\n~..<........&1\n..{............\n?-.........b.?\n...?.>......c-.\n!0>0+0.?0<.W0!",
+  "layout": {
+    "brickColumns": 15,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 3,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 13,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 13,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 12,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 13,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 12,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 4,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 9,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 11,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 4,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 11,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 15,
+      "col": 4,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 15,
+      "col": 9,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 15,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 15,
+      "col": 11,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 16,
+      "col": 4,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 16,
+      "col": 6,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 16,
+      "col": 7,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 16,
+      "col": 8,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 16,
+      "col": 9,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 16,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 16,
+      "col": 11,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 16,
+      "col": 12,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    }
+  ]
+}

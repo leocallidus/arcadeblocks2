@@ -1,0 +1,21 @@
+{
+  "name": "aim straight",
+  "description": "Original author: Hans\nLegacy Bonus Grid:\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 12,
+      "col": 13,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    }
+  ]
+}

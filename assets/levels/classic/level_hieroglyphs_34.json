@@ -1,0 +1,364 @@
+{
+  "name": "Greek Sigma",
+  "description": "Original author: OFT\nLegacy Bonus Grid:\n.....2.2.2....\n....2.2.2.2...\n.....2........\n......2.......\n..............\n......2.......\n.......2......\n........2.....\n..............\n........2.....\n.......2......\n..............\n......W!......\n......{.......\n.....d>.......\n.....-....c...\n....fmb&*m~...\n....s+ww+<}...",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 6,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 15,
+      "col": 10,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 4,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 6,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 7,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 8,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 9,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 10,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 17,
+      "col": 4,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 17,
+      "col": 5,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 17,
+      "col": 6,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 17,
+      "col": 7,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 17,
+      "col": 8,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 17,
+      "col": 9,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 17,
+      "col": 10,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    }
+  ]
+}

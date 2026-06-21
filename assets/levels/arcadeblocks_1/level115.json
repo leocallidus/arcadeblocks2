@@ -1,0 +1,513 @@
+{
+  "name_ru": "Орион (Архитектор Цитадели)",
+  "description_ru": "Сначала созвездие, потом цитадель. Турели DB3 и EX-мины по краям.",
+  "name_us": "Orion (Citadel Architect)",
+  "description": "Constellation first, then citadel. DB3 turrets and EX mines on edges.",
+  "layout": {
+    "brickColumns": 16,
+    "brickRows": 8,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 190
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 190
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 193
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "color": "blue",
+      "health": 2,
+      "points": 223
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "color": "purple",
+      "health": 3,
+      "points": 283
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "color": "purple",
+      "health": 3,
+      "points": 283
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "color": "blue",
+      "health": 2,
+      "points": 223
+    },
+    {
+      "row": 1,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 193
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "color": "pink",
+      "health": 1,
+      "points": 196
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "blue",
+      "health": 2,
+      "points": 226
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 196
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "color": "purple",
+      "health": 3,
+      "points": 286
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "purple",
+      "health": 3,
+      "points": 286
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 196
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "blue",
+      "health": 2,
+      "points": 226
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "color": "pink",
+      "health": 1,
+      "points": 196
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "color": "pink",
+      "health": 1,
+      "points": 199
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "color": "blue",
+      "health": 2,
+      "points": 229
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 339
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 339
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 339
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 339
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 339
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 339
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "color": "blue",
+      "health": 2,
+      "points": 229
+    },
+    {
+      "row": 3,
+      "col": 14,
+      "color": "pink",
+      "health": 1,
+      "points": 199
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 342
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "yellow",
+      "health": 2,
+      "points": 272
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "red",
+      "health": 3,
+      "points": 332
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "color": "yellow",
+      "health": 2,
+      "points": 272
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "explosive",
+      "health": 1,
+      "points": 272
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "explosive",
+      "health": 1,
+      "points": 272
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "yellow",
+      "health": 2,
+      "points": 272
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "red",
+      "health": 3,
+      "points": 332
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "color": "yellow",
+      "health": 2,
+      "points": 272
+    },
+    {
+      "row": 4,
+      "col": 13,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 342
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 345
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 345
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 345
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "red",
+      "health": 3,
+      "points": 335
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "yellow",
+      "health": 2,
+      "points": 275
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "red",
+      "health": 3,
+      "points": 335
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "purple",
+      "health": 3,
+      "points": 295
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "purple",
+      "health": 3,
+      "points": 295
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "red",
+      "health": 3,
+      "points": 335
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "yellow",
+      "health": 2,
+      "points": 275
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "red",
+      "health": 3,
+      "points": 335
+    },
+    {
+      "row": 5,
+      "col": 13,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 345
+    },
+    {
+      "row": 5,
+      "col": 15,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 345
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "color": "explosive",
+      "health": 1,
+      "points": 278
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 348
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 348
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 348
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "yellow",
+      "health": 2,
+      "points": 278
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "red",
+      "health": 3,
+      "points": 338
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "yellow",
+      "health": 2,
+      "points": 278
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "explosive",
+      "health": 1,
+      "points": 278
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "explosive",
+      "health": 1,
+      "points": 278
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "yellow",
+      "health": 2,
+      "points": 278
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "color": "red",
+      "health": 3,
+      "points": 338
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "yellow",
+      "health": 2,
+      "points": 278
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 348
+    },
+    {
+      "row": 6,
+      "col": 15,
+      "color": "dark_blue",
+      "health": 3,
+      "points": 348
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "orange",
+      "health": 2,
+      "points": 291
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "orange",
+      "health": 2,
+      "points": 291
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "green",
+      "health": 2,
+      "points": 246
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "color": "green",
+      "health": 2,
+      "points": 246
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "green",
+      "health": 2,
+      "points": 246
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "green",
+      "health": 2,
+      "points": 246
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "color": "orange",
+      "health": 2,
+      "points": 291
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "color": "orange",
+      "health": 2,
+      "points": 291
+    }
+  ]
+}

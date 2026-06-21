@@ -1,0 +1,140 @@
+{
+  "name": "3 SquareExplosiveRows",
+  "description": "Original author: OFT\nLegacy Bonus Grid:\n..............\n..............\n..............\n..............\n..............\n..g...........\n..............\n..............\n..g.+.+.......\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 2,
+      "col": 2,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    }
+  ]
+}

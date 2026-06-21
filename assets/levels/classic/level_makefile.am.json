@@ -1,0 +1,13 @@
+{
+  "name": "Makefile.am",
+  "description": "Converted legacy level",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 14,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": []
+}

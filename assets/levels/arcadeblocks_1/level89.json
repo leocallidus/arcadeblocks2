@@ -1,0 +1,394 @@
+{
+  "name_ru": "Эфирный Шум",
+  "description_ru": "Симметричный хаос. Уничтожьте фокусные точки!",
+  "name_us": "Ethereal Noise",
+  "description": "Symmetric chaos. Destroy the focal points!",
+  "layout": {
+    "brickColumns": 16,
+    "brickRows": 11,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 2,
+    "startY": 76
+  },
+  "bricks": [
+    {
+      "row": 1,
+      "col": 2,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 1,
+      "col": 11,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 1,
+      "col": 12,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 1,
+      "col": 13,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "color": "explosive",
+      "health": 1,
+      "points": 1564
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "color": "explosive",
+      "health": 1,
+      "points": 1564
+    },
+    {
+      "row": 2,
+      "col": 13,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 3,
+      "col": 12,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 3,
+      "col": 13,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "explosive",
+      "health": 1,
+      "points": 1564
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "explosive",
+      "health": 1,
+      "points": 1564
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 7,
+      "col": 14,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "explosive",
+      "health": 1,
+      "points": 1564
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 8,
+      "col": 13,
+      "color": "explosive",
+      "health": 1,
+      "points": 1564
+    },
+    {
+      "row": 8,
+      "col": 14,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 9,
+      "col": 1,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    },
+    {
+      "row": 9,
+      "col": 13,
+      "color": "pink",
+      "health": 34,
+      "points": 1716
+    },
+    {
+      "row": 9,
+      "col": 14,
+      "color": "purple",
+      "health": 32,
+      "points": 1708
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+{
+  "name_ru": "Зашифрованное Ядро",
+  "description_ru": "Переработанная схема \"diamond\": плотные неоновые рисунки и свежие связки блоков.",
+  "name_us": "Encrypted Core",
+  "description": "Redesigned diamond layout: dense neon patterns and fresh block clusters.",
+  "layout": {
+    "brickColumns": 16,
+    "brickRows": 10,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 3,
+    "startY": 78
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 4,
+      "color": "indestructible",
+      "health": 5,
+      "points": 476
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "color": "indestructible",
+      "health": 5,
+      "points": 476
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "color": "orange",
+      "health": 3,
+      "points": 362
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "color": "yellow",
+      "health": 3,
+      "points": 369
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "color": "orange",
+      "health": 3,
+      "points": 361
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "color": "orange",
+      "health": 3,
+      "points": 349
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "color": "blue",
+      "health": 2,
+      "points": 339
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "color": "explosive",
+      "health": 1,
+      "points": 446
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "color": "explosive",
+      "health": 1,
+      "points": 446
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "color": "yellow",
+      "health": 3,
+      "points": 371
+    },
+    {
+      "row": 1,
+      "col": 10,
+      "color": "yellow",
+      "health": 4,
+      "points": 381
+    },
+    {
+      "row": 1,
+      "col": 11,
+      "color": "yellow",
+      "health": 4,
+      "points": 386
+    },
+    {
+      "row": 1,
+      "col": 12,
+      "color": "yellow",
+      "health": 4,
+      "points": 380
+    },
+    {
+      "row": 1,
+      "col": 13,
+      "color": "yellow",
+      "health": 4,
+      "points": 378
+    },
+    {
+      "row": 1,
+      "col": 14,
+      "color": "yellow",
+      "health": 4,
+      "points": 384
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "color": "yellow",
+      "health": 3,
+      "points": 373
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "color": "orange",
+      "health": 3,
+      "points": 352
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "blue",
+      "health": 2,
+      "points": 331
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "explosive",
+      "health": 1,
+      "points": 446
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "color": "purple",
+      "health": 2,
+      "points": 322
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "blue",
+      "health": 2,
+      "points": 334
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "color": "explosive",
+      "health": 1,
+      "points": 446
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "blue",
+      "health": 2,
+      "points": 341
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "color": "blue",
+      "health": 2,
+      "points": 340
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "color": "orange",
+      "health": 3,
+      "points": 347
+    },
+    {
+      "row": 2,
+      "col": 13,
+      "color": "orange",
+      "health": 3,
+      "points": 359
+    },
+    {
+      "row": 2,
+      "col": 14,
+      "color": "yellow",
+      "health": 3,
+      "points": 366
+    },
+    {
+      "row": 2,
+      "col": 15,
+      "color": "yellow",
+      "health": 4,
+      "points": 382
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "color": "yellow",
+      "health": 4,
+      "points": 376
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "color": "orange",
+      "health": 3,
+      "points": 364
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "color": "orange",
+      "health": 3,
+      "points": 354
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "color": "blue",
+      "health": 2,
+      "points": 344
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "blue",
+      "health": 2,
+      "points": 332
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "purple",
+      "health": 2,
+      "points": 312
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "dark_blue",
+      "health": 4,
+      "points": 426
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 4,
+      "points": 426
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "color": "purple",
+      "health": 2,
+      "points": 324
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "purple",
+      "health": 2,
+      "points": 315
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "color": "purple",
+      "health": 2,
+      "points": 320
+    },
+    {
+      "row": 3,
+      "col": 12,
+      "color": "blue",
+      "health": 2,
+      "points": 330
+    },
+    {
+      "row": 3,
+      "col": 13,
+      "color": "orange",
+      "health": 3,
+      "points": 351
+    },
+    {
+      "row": 3,
+      "col": 14,
+      "color": "yellow",
+      "health": 3,
+      "points": 368
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "color": "orange",
+      "health": 3,
+      "points": 360
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "color": "orange",
+      "health": 3,
+      "points": 349
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "color": "blue",
+      "health": 2,
+      "points": 335
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "color": "purple",
+      "health": 2,
+      "points": 325
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "explosive",
+      "health": 1,
+      "points": 446
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "purple",
+      "health": 2,
+      "points": 315
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "purple",
+      "health": 2,
+      "points": 318
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "color": "shielded",
+      "health": 4,
+      "points": 416
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "shielded",
+      "health": 4,
+      "points": 416
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "purple",
+      "health": 2,
+      "points": 306
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "purple",
+      "health": 2,
+      "points": 313
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "explosive",
+      "health": 1,
+      "points": 446
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "color": "blue",
+      "health": 2,
+      "points": 337
+    },
+    {
+      "row": 4,
+      "col": 13,
+      "color": "orange",
+      "health": 3,
+      "points": 356
+    },
+    {
+      "row": 4,
+      "col": 14,
+      "color": "yellow",
+      "health": 3,
+      "points": 375
+    },
+    {
+      "row": 5,
+      "col": 0,
+      "color": "orange",
+      "health": 3,
+      "points": 359
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "color": "orange",
+      "health": 3,
+      "points": 350
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "color": "blue",
+      "health": 2,
+      "points": 336
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "color": "blue",
+      "health": 2,
+      "points": 326
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "explosive",
+      "health": 1,
+      "points": 446
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "purple",
+      "health": 2,
+      "points": 316
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "purple",
+      "health": 2,
+      "points": 319
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "shielded",
+      "health": 4,
+      "points": 416
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "shielded",
+      "health": 4,
+      "points": 416
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "purple",
+      "health": 2,
+      "points": 306
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "purple",
+      "health": 2,
+      "points": 313
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "explosive",
+      "health": 1,
+      "points": 446
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "blue",
+      "health": 2,
+      "points": 337
+    },
+    {
+      "row": 5,
+      "col": 13,
+      "color": "orange",
+      "health": 3,
+      "points": 357
+    },
+    {
+      "row": 5,
+      "col": 14,
+      "color": "yellow",
+      "health": 3,
+      "points": 376
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "color": "yellow",
+      "health": 4,
+      "points": 377
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "orange",
+      "health": 3,
+      "points": 364
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "color": "orange",
+      "health": 3,
+      "points": 354
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "blue",
+      "health": 2,
+      "points": 344
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "blue",
+      "health": 2,
+      "points": 333
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "purple",
+      "health": 2,
+      "points": 311
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "dark_blue",
+      "health": 4,
+      "points": 426
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 4,
+      "points": 426
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "purple",
+      "health": 2,
+      "points": 325
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "purple",
+      "health": 2,
+      "points": 314
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "color": "purple",
+      "health": 2,
+      "points": 320
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "blue",
+      "health": 2,
+      "points": 330
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "color": "orange",
+      "health": 3,
+      "points": 352
+    },
+    {
+      "row": 6,
+      "col": 14,
+      "color": "yellow",
+      "health": 3,
+      "points": 369
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "yellow",
+      "health": 3,
+      "points": 372
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "orange",
+      "health": 3,
+      "points": 353
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "blue",
+      "health": 2,
+      "points": 332
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "color": "purple",
+      "health": 2,
+      "points": 321
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "purple",
+      "health": 2,
+      "points": 323
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "blue",
+      "health": 2,
+      "points": 335
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "orange",
+      "health": 3,
+      "points": 346
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "blue",
+      "health": 2,
+      "points": 342
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "color": "blue",
+      "health": 2,
+      "points": 339
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "color": "orange",
+      "health": 3,
+      "points": 347
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "color": "orange",
+      "health": 3,
+      "points": 358
+    },
+    {
+      "row": 7,
+      "col": 14,
+      "color": "yellow",
+      "health": 3,
+      "points": 367
+    },
+    {
+      "row": 7,
+      "col": 15,
+      "color": "yellow",
+      "health": 4,
+      "points": 383
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "color": "orange",
+      "health": 3,
+      "points": 361
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "orange",
+      "health": 3,
+      "points": 348
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "blue",
+      "health": 2,
+      "points": 338
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "explosive",
+      "health": 1,
+      "points": 446
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "explosive",
+      "health": 1,
+      "points": 446
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "color": "yellow",
+      "health": 3,
+      "points": 371
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "yellow",
+      "health": 4,
+      "points": 381
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "color": "yellow",
+      "health": 4,
+      "points": 385
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "color": "yellow",
+      "health": 4,
+      "points": 379
+    },
+    {
+      "row": 8,
+      "col": 13,
+      "color": "yellow",
+      "health": 4,
+      "points": 378
+    },
+    {
+      "row": 8,
+      "col": 14,
+      "color": "yellow",
+      "health": 4,
+      "points": 383
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "yellow",
+      "health": 3,
+      "points": 373
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "color": "orange",
+      "health": 3,
+      "points": 365
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "orange",
+      "health": 3,
+      "points": 363
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "yellow",
+      "health": 3,
+      "points": 370
+    }
+  ]
+}

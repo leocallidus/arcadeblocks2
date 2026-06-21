@@ -1,0 +1,78 @@
+# Build directories and generated CMake files
+build/
+out/
+linux-debug/
+linux-release/
+linux-asan-ubsan/
+windows-msvc-debug/
+windows-msvc-release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+DartConfiguration.tcl
+Testing/
+_deps/
+compile_commands.json
+
+# Build products
+*.a
+*.so
+*.so.*
+*.dll
+*.dylib
+*.lib
+*.exp
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.o
+*.d
+ArcadeBlocksII
+arcadeblocks2_foundation_tests
+
+# Ninja / Make / compiler byproducts
+.ninja_deps
+.ninja_log
+*.ninja
+Makefile
+*.gcda
+*.gcno
+*.gcov
+
+# Runtime output
+logs/
+test-data/
+arcadeblocks2-data/
+ArcadeBlocksIIData/
+settings.json
+settings.json.bak*
+*.log
+
+# Python helper cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE and editor state
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment files
+.env
+.env.*
+!.env.example

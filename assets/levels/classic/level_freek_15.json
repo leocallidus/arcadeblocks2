@@ -1,0 +1,28 @@
+{
+  "name": "untitled",
+  "description": "Original author: Freek\nLegacy Bonus Grid:\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n......>.......\n.......>......\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 8,
+      "col": 6,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    }
+  ]
+}

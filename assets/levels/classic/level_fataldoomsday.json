@@ -1,0 +1,602 @@
+{
+  "name": "Hard Walls",
+  "description": "Original author: Nethippy\nLegacy Bonus Grid:\n..............\n..............\n..............\n..............\n..............\nl....*..<.....\n..............\n...?.b........\n..............\nb.............\n........s.....\n...<.?........\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nBrick Bounce\nBricks:\nf.e.d.f.g.f.e.\nc.c.c.c.c.c.c.\n..............\n.d.g.h.h.d.h.g\n.c.c.c.c.c.c.c\n..............\nf.e.g.d.e.e.d.\nc.c.c.c.c.c.c.\n..............\n.h.d.g.e.d.h.f\n.c.c.c.c.c.c.c\n..............\nd.h.f.d.f.h.f.\nc.c.c.c.c.c.c.\n..............\n..............\n..............\n..............\nBonus:\n..............\n..b.s.......?.\n..............\n..............\n.....-...b....\n..............\n..>.......>...\n......-.......\n..............\n..............\n.....s........\n..............\n..............\n?.......>...+.\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nBigGray\nBricks:\n..............\ncccccccccccccc\ncddc......cddc\ncddc......cddc\ncddc......cddc\ncddc......cddc\ncddccc..cccddc\ncddchc..chcddc\ncddchc..chcddc\ncddchc..chcddc\ncddchc..chcddc\ncddchc..chcddc\ncccchc..chcccc\ncffchc..chcffc\ncffchc..chcffc\ncffchc..chcffc\ncffchc..chcffc\ncccccc..cccccc\nBonus:\n..............\np333333333333p\n..............\n..............\n..............\n..............\nl....l..l....l\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nTricky\nBricks:\n..............\n..............\n..............\ngggggggggggggg\nEjjjjjjjjjjjjE\ndddddddddddddd\n..............\ngggggggggggggg\nEjjjjjjjjjjjjE\ndddddddddddddd\n..............\ngggggggggggggg\nEjjjjjjjjjjjjE\ndddddddddddddd\n..............\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\n55555555555555\n......ll......\nb............b\n..............\nb............b\n..............\n..............\n..............\n..............\n..............\np.....>>.....p\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nArrrgh!\nBricks:\niiiiiiiiiiiiii\n..............\niiEEEEEEEEEEEE\n.............E\ngggggggggggggg\nE.............\nEEEEEEEEEEEEgg\nE.............\nhhhhhhhhhhhhhh\n.............E\nhhEEEEEEEEEEEE\n..............\ndddddddddddddd\nE.............\nEEEEEEEEEEEEdd\n..............\n..............\n..............\nBonus:\n..............\n..............\nb.............\n..............\nl5555555555555\n..............\n.............b\n..............\n4444444444444>\n..............\nb.............\n..............\n>.............\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nHard Shot\nBricks:\n.E..........gg\n.............g\n.E............\n.E............\n.E.....hh.....\n.E....iiii....\n.E...ajjjja...\n.E..ijcbbcji..\n.E.hijbvvbjih.\n.E.hijbvvbjih.\n.E..ijcbbcji..\n.E...ajjjja...\n.E....iiii....\n.E.....hh.....\n.E............\n.Eg..........g\n.Egg........gg\n..EEEEEEEEEEEE\nBonus:\n.............l\n..............\n..............\n..............\n..............\n......2222....\n.....333333...\n....23444432..\n...b23455432b.\n...b23455432b.\n....23444432..\n.....333333...\n......2222....\n..............\n..............\n..............\n..l..........l\n..............\nLevel:\nNethippy\nMadness\nBricks:\nE............E\nEggggE..EggggE\nEggggE.vEggggE\nEggggE..EggggE\nEEEhEEv.EEgEEE\nEhhhhE..EhhhhE\nEhhhhE.vEhhhhE\nEhhhhE..EhhhhE\nEchccEv.EcchcE\nEddddE..EddddE\nEddddE.vEddddE\nEddddE..EddddE\nEzzzzEv.EzzzzE\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n.5555....5555.\n.5555..l.5555.\n.5555....5555.\n...p..w...p...\n.>>>>....>>>>.\n.>>>>..>.>>>>.\n.>>>>....>>>>.\n..b...>....b..\n.2222....2222.\n.2222..w.2222.\n.2222....2222.\n......f.......\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nDevilish\nBricks:\n..............\n..............\nggggg@..@ggggg\nggzgg@..@ggzgg\nggzzg@..@gzzgg\nzzzzz@..@zzzzz\nzzzzz@..@zzzzz\nddzzd@..@dzzdd\nddzdd@..@ddzdd\nddddd@..@ddddd\nddddd@..@ddddd\nddddd@..@ddddd\nEEEEE@..@EEEEE\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n..............\n>>>>>....>>>>>\n>>l>>....>>l>>\n>>++>....>-->>\n+++++....-----\n+++++....-----\n..++......--..\n..f........f..\n..............\n55555....55555\n55555....55555\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nBricks Ahoy!\nBricks:\n..............\n!.!.!.!.!.!.!.\n..............\n.!.!.!.!.!.!.!\n..............\n!.!.!.!.!.!.!.\n..............\n.!.!.!.!.!.!.!\n..............\n!.!.!.!.!.!.!.\n..............\n.!.!.!.!.!.!.!\n..............\n!.!.!.!.!.!.!.\n..............\n.!.!.!.!.!.!.!\n..............\n!.!.!.!.!.!.!.\nBonus:\n..............\n5.5.5.5.5.5.5.\n..............\n.5.5.5.5.5.5.5\n..............\n?.............\n..............\n.............?\n..............\n>.>.>.>.>.>.>.\n..............\n.>.>.>.>.>.>.>\n..............\nl...........l.\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nBoom Boxes\nBricks:\n..............\nzzz.zzz.zzz...\nz*z.z*z.z*z...\nzzz.zzz.zzz...\n..............\n.zzz.zzz.zzz..\n.z*z.z*z.z*z..\n.zzz.zzz.zzz..\n..............\n..zzz.zzz.zzz.\n..z*z.z*z.z*z.\n..zzz.zzz.zzz.\n..............\n...zzz.zzz.zzz\n...z*z.z*z.z*z\n...zzz.zzz.zzz\n..............\n..............\nBonus:\n..............\nfff.???.555...\nf.f.?.?.5.5...\nfff.???.555...\n..............\n.+++.44l.ggg..\n.+.+.4.4.g.g..\n.+++.444.ggg..\n..............\n..WWW.bbb.-+-.\n..W.W.b.b.+.+.\n..WWW.bbb.-+-.\n..............\n...>>>........\n...>.>........\n...>>>........\n..............\n..............\nLevel:\nNethippy\nHell-O-Ween\nBricks:\n..............\n......yy......\n......yy......\n...eeeyyeee...\n..eeeeeeeeee..\n.eeeeeeeeeeee.\n.eee@eeee@eee.\n.ee@@@ee@@@ee.\n.eeeee@@eeeee.\n.e@e@e@@e@e@e.\n.e@@@eeee@@@e.\n.ee@@@@@@@@ee.\n.eee@e@@e@eee.\n..eeeeeeeeee..\n...eeeeeeee...\n.....eeee.....\n..............\n..............\nBonus:\n..............\n......ll......\n..............\n......mm......\n..............\n..............\n.....f..f.....\n......>>......\n...555..555...\n...5.5..5.5...\n.....5555.....\n..............\n..>..f..f..>..\n...>>>>>>>>...\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nWiggly\nBricks:\ndEEEEEEEEEEEEE\ndEhEgEiEgEhEdE\ndEhEgEiEgEhEdE\ndEhEgE...EhEdE\ndEhEgE...EhEdE\ndE...E.E.EhEdE\ndE...E.E.EhEdE\ndE.E.E.E...EdE\ndE.E...E...EdE\n...E...EgE.EdE\n...EgEiEgE.EdE\n.EhEgEiEgE.EdE\n.EhEgEiEgE.EdE\n.EhEgEiEgE.EdE\n.EhEgEiEgE...E\n.EhEgEiEgE...E\n.EhEgEiEgEhE.E\n.EEEEEEEEEEE.E\nBonus:\n..............\n..5.5.l.l.5.5.\n..5.5.5.5.5.5.\n..>.........5.\n..>.>.......5.\n..........>...\n>.........>...\n>.............\n>.............\n........>.....\n....>.>.......\n..>...........\n..>.........>.\n............>.\n..............\n..5.5.5.5.....\n..5.5.5.5.5...\n..............\nLevel:\nNethippy\nDiag-Wall\nBricks:\n..............\ngg............\nddgg..........\niiddgg........\nhhiiddgg......\nv@hhiiddgg....\n..v@hhiiddgg..\n....v@hhiiddgg\n......v@hhiidd\n........v@hhii\n..........v@hh\n............v@\n..............\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n55............\nl.55..........\n....55........\n.p....55......\n>.......55....\n..>.?.....55..\n....>.b.....55\n......>..*....\n........>.d...\n..........>...\n............>.\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nPot-O-Gold\nBricks:\n..............\n..............\n..............\n.cccc.........\nEhhhhE........\nEggggE........\nEddddE........\nEeeeeE........\n.EEEE.........\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\n..............\n.5555.........\n.5555.........\n.5555.........\n.5555.........\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nNot Pretty\nBricks:\n..............\n..............\n..............\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\nEEEEcEEEEcEEEE\nEddE..EE..EddE\nE............E\nE............E\nE............E\nEiiEii..iiEiiE\nEccEEE..EEEccE\n..............\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\nl555555555555l\n<555555555555<\n....>....>....\n.>>........>>.\n..............\n..............\n..............\n.>>.>>..>>.>>.\n.>>........>>.\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\n2 Close 4U\nBricks:\n..............\ncccccccccccccc\nc............c\nc.cccccccccc.c\nc.c........c.c\nc.c.iiiiii.c.c\nc.c.i....i.c.c\n..c.i.@@.i.c..\nE.c.i....i.c.E\n..............\nhhhhhhhhhhhhhh\n..............\nE.!.!.!.!.!..E\n..............\n!.!.!.!.!.!.!.\n..............\nvvvvvvvvvvvvvv\nvvvvvvvvvvvvvv\nBonus:\n..............\n444444ll444444\n4............4\n4............4\n4............4\n4...555555...4\nl...5....5...l\n....5....5....\n..p.5....5.p..\n..............\n..............\n..............\n..>.>.>.>.>...\n..............\n>.>.>.>.>.>.>.\n..............\n..............\n..............\nLevel:\nNethippy\nMisery\nBricks:\n..............\n..............\n..............\nEEEEEEEEEEEEEE\n.....iEEi.....\n......EE......\n....E.EE.E....\nhhhhE.EE.Ehhhh\nhhhEE.EE.EEhhh\nhhhEi.EE.iEhhh\nhhhE..EE..Ehhh\nEEEE.EEEE.EEEE\ni.....@@.....i\n......@@......\n......ii......\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\n..............\n.....>..>.....\n..............\n..............\n>5>5......5>5>\n5>5........5>5\n>5>.>....>.>5>\n5>5........5>5\n..............\n>............>\n..............\n......>>......\n..............\n..............\n..............\nLevel:\nNethippy\nEvil Face\nBricks:\n..............\n..............\n.E.E......E.E.\n.EhE......EhE.\n.EhE......EhE.\n.EEE......EEE.\n.....hhhh.....\n.....gggg.....\n.....ffff.....\n..............\n..............\n..............\n.dddddddddddd.\n.dddddddddddd.\n..............\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\n..f........f..\n..f........f..\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n.>>>>>>>>>>>>.\n.>>>>>>>>>>>>.\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nI.M.I.\nBricks:\n..............\n..............\nd.EEiiiiiiEE.d\nd.EgEiiiiEgE.d\nd.E..EiiE..E.d\nd.E...zz...E.d\nd.E...dd...E.d\nd.E...dd...E.d\nd.E........E.d\nd.E........E.d\nd.E........E.d\nd.E........E.d\nd.E........E.d\nd.E........E.d\nd.Eg......gE.d\ndEEE......EEEd\nv............v\n..............\nBonus:\n..............\n..............\n3...555555...3\n3....5555....3\n3.....55.....3\n3............3\n3.....>>.....3\n3.....--.....3\n3............3\n3............3\n3............3\n3............3\n3............3\n3............3\n3............3\n3............3\nf............f\n..............\nLevel:\nNethippy\nEasy My Butt\nBricks:\n..............\n..............\n..............\n..............\naaaaaaaaaaaaaa\n**************\naaaaaaaaaaaaaa\n..............\naaaaaaaaaaaaaa\n**************\naaaaaaaaaaaaaa\n..............\naaaaaaaaaaaaaa\n**************\naaaaaaaaaaaaaa\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\n..............\nffffffff..ffff\n..............\nffffff...fffff\n..............\nffff...fffffff\n..............\nfff...ffffffff\n..............\nffffff...fffff\n..............\nffff...fffffff\n..............\n..............\n..............\nLevel:\nNethippy\nNitey Nite!\nBricks:\n..............\na.a...a.a.....\n...........a..\n..a.a.a..a...a\n........a.....\n.a....a..a.a..\n...a......a...\n.a...a.a.....a\n...a......a...\n.a......a.....\n...a...a..a.a.\n.a...a........\n.......a......\n..a........a..\n.a..a.a..a...a\n..............\n...a..........\n..............\nBonus:\n..............\n>.d...d.5.....\n...........d..\n..5.>.d..d...>\n........5.....\n.d....d..d.d..\n...d......5...\n.d...>.d.....d\n...d......d...\n.5......d.....\n...5...>..d.d.\n.>...d........\n.......d......\n..5........d..\n.d..d.d..d...>\n..............\n...>..........\n..............\nLevel:\nNethippy\nMegawall\nBricks:\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\ndddddddddddddd\ndddddddddddddd\n..............\n.@.@.@.@.@.@.@\n..............\nhhhhhhhhhhhhhh\nhhhhhhhhhhhhhh\niiiiiiiiiiiiii\niiiiiiiiiiiiii\n..............\n!.!.!.!.!.!.!.\n..............\nffffffffffffff\nffffffffffffff\ngggggggggggggg\ngggggggggggggg\nBonus:\n55555555555555\n55555555555555\n55555555555555\n55555555555555\n..............\n..............\n..............\nl............l\nwffffffffffffw\nwffffffffffffw\nl............l\n..............\n5.5.5.5.5.5.5.\n..............\n?.....bb.....?\n?.....bb.....?\n>>>>>>>>>>>>>>\n>>>>>>>>>>>>>>\nLevel:\nNethippy\nSpiral Doom\nBricks:\nEEEEEEEEEEEEEE\nEa..........bE\nEa..........bE\nE.EEEEEEEEEE.E\nE.Ev.......E.E\nE.Ev.......E.E\nE.E.EEEEE..E.E\nE.E.Ehhhh..E.E\nE.E.Ehddh..E.E\nE.E.Ehddh..E.E\nE.E.Ehddh..E.E\nE.E.Ehddh..E.E\nE.E.Ehddh..E.E\nE.E.Ehhhh..E.E\nE.E.EEEEEEEE.E\nE.Ec........cE\nE.Ec........cE\nE.EEEEEEEEEEEE\nBonus:\n..............\n.>..........>.\n.>..........>.\n..............\n...>..........\n...>..........\n..............\n.....4444.....\n.....4554.....\n.....4554.....\n.....4554.....\n.....4554.....\n.....4554.....\n.....4444.....\n..............\n...>........>.\n...>........>.\n..............\nLevel:\nNethippy\n0-1-0\nBricks:\ng.....gg.....g\nEEEEE.EE.EEEEE\nE...E.hh.E...E\nE...E.hh.E...E\nE.E.E.hh.E.E.E\nE.E.E.hh.E.E.E\nh.E.i.hh.i.E.h\nh.E.i.hh.i.E.h\nh.E.i.hh.i.E.h\nh.E.i.hh.i.E.h\nE.E.E.hh.E.E.E\nE.E.E.hh.E.E.E\nE...E.hh.E...E\nE...E.hh.E...E\nEEEEE.EE.EEEEE\n..............\n..............\n..............\nBonus:\nl.....55.....l\n..............\n......>>......\n..............\n..............\n..............\n5............5\n5.....>>.....5\n5.....>>.....5\n5............5\n..............\n..............\n..............\n......>>......\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nIn Reverse\nBricks:\n..............\n..............\n..............\n.E..........E.\n.E..........E.\n.E..........E.\n.EggggggggggE.\n.EhhhhhhhhhhE.\n.EiiiiiiiiiiE.\n.EddddddddddE.\n.E..........E.\n.E..........E.\n.EEEEEEEEEEEE.\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\n..............\n..............\n..............\n..>>>>>>>>>>..\n..3333333333..\n..4444444444..\n..5555555555..\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nBooomb!\nBricks:\n..............\n..............\n.......jjjj...\n.......j..jj..\n......EjE..j..\n......E*E..jj.\n.....EE*EE..j.\n....Ezz*zzE.j.\n...Ezz***zzEjj\n...Ez**c**zE.j\n...Ez*c!c*zE.d\n...Ez**c**zE..\n...Ezz***zzE..\n....Ezz*zzE...\n.....EzzzE....\n......EEE.....\n..............\n..............\nBonus:\n..............\n..............\n..............\n..............\n.......l......\n..............\n..............\n.....ff.ff....\n....ff...ff...\n....f.....f...\n....f.....f...\n....f.....f...\n....ff...ff...\n.....ff.ff....\n......fff.....\n..............\n..............\n..............\nLevel:\nNethippy\nCrazywall\nBricks:\n...hhh!!hhh...\n@..h.d..d.h..@\n...h.d!!d.h...\niihh.d..d.hhii\n.....d!!d.....\n@@...d..d...@@\n.....d!!d.....\niiiddd..dddiii\n.....z!!z.....\n@@@..z..z..@@@\n.....z!!z.....\niiii.zzzz.iiii\n......cc......\n@@@@c.cc.c@@@@\n....cccccc....\n....g....g....\nggggg....ggggg\n.....vvvv.....\nBonus:\n...555..555...\n...5.5..5.5...\n...5.5..5.5...\n5555.5..5.5555\n.....5..5.....\n.....5..5.....\n.....5++5.....\nl..555..555..l\n.....b--b.....\n.....b..b.....\n.....bggb.....\n.....bbbb.....\n..............\n..............\n..............\n....>....>....\n>>>>>....>>>>>\n.....dddd.....\nLevel:\nNethippy\nDiamondeath\nBricks:\nvvvvvvvvvvvvvv\nvvvvvv..vvvvvv\nvvvvv....vvvvv\nvvvv......vvvv\nvvv........vvv\nvv..........vv\nv............v\n..............\n......dd......\n......dd......\n..............\nv............v\nvv..........vv\nvvv........vvv\nvvvv......vvvv\nvvvvv....vvvvv\nvvvvvv..vvvvvv\nvvvvvvvvvvvvvv\nBonus:\n555555ll555555\n555555..555555\n55555....55555\n5555......5555\n555........555\n55..........55\n5............5\n..............\n......pp......\n......pp......\n..............\n>............>\n>>..........>>\n>>>........>>>\n>>>>......>>>>\n>>>>>....>>>>>\n>>>>>>..>>>>>>\n>>>>>>>>>>>>>>\nLevel:\nNethippy\nBig Ass\nBricks:\n..............\n..............\n..............\n..............\n...bbbbbbb....\n..EhfffffhE...\n.EihfjjjfhiE..\nEihhfffffhhiE.\nEiheeeeeeehiE.\nEihe@ddd@ehiE.\nEihee@d@eehiE.\nEihhee@eehhiE.\n.Eihhh@hhhiE..\n..Eiih@hiiE...\n...EEh@hEEh...\n..Ehhh@hhhE...\n..Edgg@ggdE...\n...EEE@EEE....\nBonus:\n..............\n..............\n..............\n..............\n...0000000....\n....WWWWW.....\n..>.WdddW.>...\n.>..WWWWW..>..\n.>.bbbbbbb.>..\n.>.b.222.b.>..\n.>.bb.2.bb.>..\n.>..bb.bb..>..\n..>.......>...\n...>>...>>....\n..........l...\n..............\n...555.555....\n..............\nLevel:\nNethippy\nFargin A\nBricks:\n..............\nzz.EEEccEEE.zz\nzz.Egv..vgE.zz\nzz.E.v..v.E.zz\n...E.v..v.E...\nzEEE.v..v.EEEz\n...E.v..v.E...\nhh.EvvEEvvE.hh\nhh....EE....hh\nhh....vv....hh\nhh.EvvvvvvE.hh\n...E......E...\nEEEEvvvvvvEEEE\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n55....++....55\n55..l....l..55\n55..........55\n..............\n..............\n..............\n44..........44\n44..........44\n44....++....44\n44..-....-..44\n..............\n....>>>>>>....\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nPac Attack\nBricks:\n..............\n..............\n..............\n..............\n..hh..........\n.hhhhh..ccccc.\nhhhhh..ccvccvc\nhhhh...cvvcvvc\nhhh....ccccccc\nhhhh...ccccccc\nhhhhh..ccccccc\n.hhhhh.ccccccc\n..hh....c.c.c.\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\n..............\n..bb..........\n.bbbbb..55l55.\nbbbbb..55.55.5\nbbbb...5..5..5\nbbb....5555555\nbbbb...>>>>>>>\nbbbbb..>>>>>>>\n.bbbbb.~f~f~f~\n..bb....~.~.~.\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nChannels\nBricks:\n.dE.gEhhEg.Ed.\n.dE.gEhhEg.Ed.\n.dE.gEhhEg.Ed.\n.dE.gEhhEg.Ed.\n.dE.gEhhEg.Ed.\n.dE.EE..EE.Ed.\n.EE.E....E.EE.\n.E..E....E..E.\n.E.iE.EE.Ei.E.\n.E.EE.EE.EE.E.\n.E.E..EE..E.E.\n.E.E..EE..E.E.\n.E.E..EE..E.E.\n.E.E..EE..E.E.\n.E.E.EiiE.E.E.\n.E.E.E..E.E.E.\n.E.E......E.E.\n.E..........E.\nBonus:\n.3..4.ll.4..3.\n.3..4.55.4..3.\n.3..4.55.4..3.\n.3..4.55.4..3.\n.3..4.55.4..3.\n.3..........3.\n..............\n..............\n...>......>...\n..............\n..............\n..............\n..............\n..............\n......>>......\n..............\n..............\n..............\nLevel:\nNethippy\nGraybar\nBricks:\nv............v\n..............\n..............\n..............\nvvvvvvvvvvvvvv\n..............\nvvvvvvvvvvvvvv\n..............\nzzzzzzzzzzzzzz\nvvvvvvvvvvvvvv\ncccccccccccccc\nbbbbbbbbbbbbbb\naaaaaaaaaaaaaa\n..............\n..............\n..............\n..............\n..............\nBonus:\nl............l\n..............\n..............\n..............\n55555555555555\n..............\n?............?\n..............\n55555555555555\n>>>>>>>>>>>>>>\nf............f\nff..........ff\n>>>>>>>>>>>>>>\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nSpider\nBricks:\n@@..........@@\n@............@\n..............\n..............\n.aaa......aaa.\na...a....a...a\n.....a..a.....\n.aaa..cc..aaa.\na...bbhhbb...a\n......cc......\n....bbhhbb....\n.aaa..hh..aaa.\na...bbhhbb...a\n......cc......\n....bb..bb....\n.aaa......aaa.\na............a\n@@..........@@\nBonus:\n..............\n..............\n..............\n..............\n.555......555.\n5...5....5...5\n.....5..5.....\n.>>>..ll..>>>.\n>............>\n......ff......\n..............\n.>>>......>>>.\n>............>\n..............\n..............\n.>>>......>>>.\n>............>\n..............\nLevel:\nNethippy\nO.M.F.G.\nBricks:\n..............\n.EEEEEhhEEEEE.\n.EgggEhhEgggE.\n.EgggEhhEgggE.\n.EiiiEhhEiiiE.\n.EiiiEhhEiiiE.\n.E...EEEE...E.\n.E..........E.\n.E..........E.\n.E...E..E...E.\n.E...E..E...E.\n.EzzzE..EzzzE.\n.EzzzE..EzzzE.\n.EhhhE..EhhhE.\n.EhhhE..EhhhE.\n.EdddE..EdddE.\n.EdddE..EdddE.\n.EEEEE..EEEEE.\nBonus:\n..............\n......55......\n..~f~.55.~f~..\n......55......\n..>>>.55.>>>..\n..>>>.ll.>>>..\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..555....555..\n..555....555..\n..............\nLevel:\nNethippy\nBonus Round\nBricks:\neeeeeeeeeeeeee\niiiiiiiiiiiiii\niiiiiiiiiiiiii\niiiiiiiiiiiiii\niiiiiiiiiiiiii\ngggggggggggggg\ngggggggggggggg\ngggggggggggggg\ngggggggggggggg\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\nhhhhhhhhhhhhhh\nhhhhhhhhhhhhhh\nhhhhhhhhhhhhhh\nhhhhhhhhhhhhhh\nhhhhhhhhhhhhhh\nBonus:\nljljljlljljljl\n55555555555555\nj555555555555j\n55555555555555\n55555555555555\nj444444444444j\n44444444444444\n44444444444444\nj444444444444j\n33333333333333\n33333333333333\nj333333333333j\n33333333333333\n22222222222222\nj222222222222j\n11111111111111\n11111111111111\nj000000000000j\nLevel:\nNethippy\nBoom Bang\nBricks:\n.g...EEEE...g.\n.E.!******!.E.\n.E...*..*...E.\n.EEEE*..*EEEE.\n.E...*..*...E.\n.E.!**..**!.E.\n.E...*..*...E.\n.EEEE*..*EEEE.\n.E...*..*...E.\n.E.!**..**!.E.\n.E...*..*...E.\n.EEEE*..*EEEE.\n.E...*..*...E.\n.E.!**..**!.E.\nhE...*..*...Eh\nEEEEE*..*EEEEE\n..............\n..............\nBonus:\n.g..........g.\n...5......5...\n..............\n..............\n..............\n...5......5...\n..............\n..............\n..............\n...5......5...\n..............\n..............\n..............\n...5......5...\nl............l\n..............\n..............\n..............\nLevel:\nNethippy\nStars\nBricks:\n..............\n..............\n..E...E...E...\n.EgE.EeE.EdE..\n.ggg.eee.ddd..\n.EgE.EeE.EdE..\n..E...E...E...\n....E...E.....\n...EiE.EjE....\n...iii.jjj....\n...EiE.EjE....\n....E...E.....\n......E.......\n.....EhE......\n.....hhh......\n.....EhE......\n......E.......\n..............\nBonus:\n..............\n..............\n..............\n..5...5...5...\n.555.5l5.555..\n..5...5...5...\n..............\n..............\n....5...5.....\n...555.555....\n....5...5.....\n..............\n..............\n......5.......\n.....555......\n......5.......\n..............\n..............\nLevel:\nNethippy\n142\nBricks:\n..............\ncccccccccccccc\nc............c\nc..c.c.c.ccc.c\nc.cc.c.c...c.c\nc..c.c.c...c.c\nc..c.c.c.ccc.c\nc..c.ccc.c...c\nc..c...c.c...c\nc..c...c.c...c\nc.ccc..c.ccc.c\nc............c\ncccccccccccccc\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n>>>>>>>>>>>>>>\n>............>\n>..5.5.5.555.>\n>.55.5.5...5.>\n>..5.5.5...5.>\n>..5.5.5.555.>\n>..5.555.5...>\n>..5...5.5...>\n>..5...5.5...>\n>.555..5.555.>\n>............>\n>>>>>>>>>>>>>>\n..............\n..............\n..............\n..............\n..............\nLevel:\nNethippy\nThe End\nBricks:\n..............\nddddd.d.d.dddd\nd.d.d.d.d.d...\n..d...ddd.ddd.\n..d...d.d.d...\n..d...d.d.dddd\n..............\ndddd.d..d.ddd.\nd....dd.d..d.d\nddd..d.dd..d.d\nd....d..d..d.d\ndddd.d..d.ddd.\n..............\n..............\n!...!...!...!.\n..!...!...!...\n..............\nvvvvvvvvvvvvvv\nBonus:\n..............\nfffff.f.f.ffff\nf.f.f.f.f.f...\n..f...fff.fff.\n..f...f.f.f...\n..f...f.f.ffff\n..............\nffff.f..f.fff.\nf....ff.f..f.f\nfff..f.ff..f.f\nf....f..f..f.f\nffff.f..f.fff.\n..............\n..............\n~...~...~...~.\n..~...~...~...\n..............\n>>>>>>>>>>>>>>",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 5,
+      "col": 0,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 5,
+      "col": 13,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 0,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 0,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 1,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 9,
+      "col": 13,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 10,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 1,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 13,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 0,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 1,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 12,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 11,
+      "col": 13,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    }
+  ]
+}

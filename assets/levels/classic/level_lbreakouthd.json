@@ -1,0 +1,1022 @@
+{
+  "name": "Wall",
+  "description": "Original author: Michael Speck\nLegacy Bonus Grid:\n..............\n..............\n..b..1.c......\n.........1....\n.!.1..*.....j.\n..............\n..s.}0.>..m...\n..1...+....0..\n.<.-.1..-.l...\n.?.0..-.0..w..\n...+..1.<.+.{.\n..0..b..-..0..\n..-.f.+..0....\n..0+...b.>.p..\n..............\n..............\n..............\n..............\nLevel:\nMichael Speck\nCircles\nBricks:\n...heeeeeeh...\n..heggggggeh..\n..hegddddgeh..\n..hegddddgeh..\n..heggggggeh..\n...heeeeeeh...\n....hhhhhh....\nhhh........hhh\neeeh......heee\ngggeh....heggg\ndddgeh..hegddd\ndddgeh..hegddd\ndddgeh..hegddd\ngggeh....heggg\neeeh......heee\nhhh........hhh\n..............\n..............\nBonus:\n..............\n....2...d.....\n...b.!.2..W...\n..............\n..1..l...+.0..\n....-...w.....\n....f.m..-....\n.+.........p..\nb..*..........\n.<..-.......0.\n}..1......1..>\n.0..>...+..{..\n...+.f....<.b.\n..1........0..\n.?........+...\n..-.........1.\n..............\n..............\nLevel:\nMichael Speck\nU.F.O.\nBricks:\n..............\n...!......!...\n..............\n..............\n.!....bb....!.\n.....bkkb.....\n....kkkkkk....\n...gkggggkg...\n..kkkkkkkkkk..\n.cccccccccccc.\n..kkkkkkkkkk..\n...gkggggkg...\n....kkkkkk....\n.....bkkb.....\n......bb......\n..............\n..............\n..............\nBonus:\n....2.........\n..........c...\n..~......2....\n..............\n......l.....s.\n..*....-...&..\n....1..0......\n...-..+..>....\n..<.?...1.....\n...b.1.<..+...\n....-..w.0....\n....>...-.?...\n.....+.0......\n.....0..+.....\n......b.......\n..............\n..............\n..............\nLevel:\nMichael Speck\nFate\nBricks:\n..............\n.....jjjj.....\n....jjkkjj....\n...jjk..kjj...\n..jjk....jjj..\n..jjk.....jk..\n..jk......jk..\n..........jk..\n.........jjk..\n........jjk...\n.......jjk....\n......jjk.....\n......jj......\n......jk......\n......jk......\n..............\n......jk......\n......jk......\nBonus:\n..............\n.....?.?......\n......?.?.....\n....?....?....\n...?......?...\n..?........?..\n...?......?...\n...........?..\n..........?...\n.........?....\n........?.....\n.......?......\n......?.......\n.......?......\n......?.......\n..............\n.......?......\n......?.......\nLevel:\nMichael Speck\nPyramid\nBricks:\n..............\n..............\n......yy......\n......yy......\n.....eeee.....\n.....ehhe.....\n....ehhhhe....\n....eheehe....\n...ehheehhe...\n...ehheehhe...\n..bb######bb..\n..hhhhhhhhhh..\n..eeeehheeee..\n.hhhheeeehhhh.\n.aaaaaaaaaaaa.\n.abababababab.\n..............\n..............\nBonus:\n..............\n..............\n.......g......\n......2.......\n......-.f.....\n.....1.b......\n.....-..1.....\n....d...>.....\n...1.<.?......\n...+......+...\n..............\n..m...-...0...\n....+...0.-<..\n..-.1.0....0..\n.0.+.>w.1.b...\n....*..{.+....\n..............\n..............\nLevel:\nMichael Speck\nBubbles\nBricks:\n.....gg.......\n....gjgg......\n....gggg......\n....gggg......\n.....gg..gg...\n..gg....gjgg..\n.gjgg...gggg..\n.gggg...gggg..\n.gggg....gg...\n..gg..........\n......gg......\n.....gjgg.....\n.....gggg.....\n.gg..gggg..gg.\ngjgg..gg..gjgg\ngggg......gggg\ngggg......gggg\n.gg........gg.\nBonus:\n..............\n.....0.c......\n....j.........\n......*.......\n..............\n...1....+.1...\n..+......?.-..\n.>.p....g.<...\n.-..{....w....\n...0..........\n......f.......\n........1.....\n.....-.l......\n.s....+.......\n..0....>...}-.\n.-........b.1.\n..<b........+.\n.+.........0..\nLevel:\nMichael Speck\nLift\nBricks:\n..............\n..............\ngggggggggggggg\ngggggggggggggg\niiiiiiiiiiiiii\niiiiiiiiiiiiii\nffffffffffffff\nffff......ffff\ndddd......dddd\ndddd......dddd\n####......####\n..............\n..............\n....aeeeea....\n....aeeeea....\n....aeeeea....\n....######....\n..............\nBonus:\n..............\n..............\n....1..*...1.b\n}.c...........\n....m.d.b.-.~.\n.1.-.....+....\n..b..+..<..1..\n.-.>......b...\n..?.........-.\n1..+......+.<.\n..............\n..............\n..............\n....0.+.>0....\n....0-.f.0....\n....0.{1.0....\n..............\n..............\nLevel:\nMichael Speck\nMinefield\nBricks:\n..............\n..............\n.jggggg*ggggj.\n.kjg*ggggggjk.\n.kijgggg*gj*k.\n.ki*jg*ggjiik.\n.*iiijggjiiik.\n.kii*ijjiiiik.\n.kiiiii*i*i*k.\n.kiiiiiiiiiik.\n.ki*iijjiiiik.\n.k*ii*g*jiiik.\n.kiijgggg*ii*.\n.kijggggggjik.\n.kjgg*ggggg*k.\n.*gggggg*gggj.\n..............\n..............\nBonus:\n..............\n..............\n.....<........\n..j........>..\n..?...-.s..0..\n..........+...\n...w-..c-.....\n......+...p...\n..-..l.0.1.2..\n.+..~......-..\n...1..d..fb...\n.>2..0.1......\n...+........1.\n..........?...\n...b...+...1<.\n.1......b.....\n..............\n..............\nLevel:\nMichael Speck\nLePrechaun's Treasure\nBricks:\n.....fff......\n....fffff.....\n....fffff.....\n....fffff.....\n....fffff.....\n....fffff.....\n.fff.fff.fff..\nfffffffffffff.\nfffffffffffff.\nfffffffffffff.\nfffffffffffff.\nfffffffffffff.\n.fff.fffffff..\n....ffffff....\n....fffff.f...\n....fffff..f..\n....fffff..ff.\n.....fff.....f\nBonus:\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n......5.......\n..............\n..............\n..g.......g...\n..............\n..............\n..............\n......m.......\n......g.......\nLevel:\nMichael Speck\nLinux Rocks!\nBricks:\n....ee........\nd.....ee......\nd.e.....ee....\nd.ef......ee..\nd.eff.fg....ee\nd.eff.fg.gh...\nddef.ffg.gh.h.\n..ef.ffg.gh.h.\n...f..fg.gh.h.\nee....fg.g.h..\n..ee....g.h.h.\n....ee....h.h.\n......ee..h.hd\n........ee...d\ncccaaacca.accd\nc.ca.ac.aa.c.d\ncc.a.ac.aa..c.\nc.caaacca.accd\nBonus:\n..............\n.......1......\n..............\n>.2.......j...\n....<.........\n...-..>-......\n+....w....+.?.\n.......f.1....\n...b..+.......\n.......1...<..\n........b...2.\n.....f....b...\n.............b\n..............\n2-.?.......-..\n.........?....\n......1.+...>.\n....+.........\nLevel:\nMichael Speck\nMushroom\nBricks:\n..............\n.....ddd......\n...dddd!dd....\n..ddd!ddddd...\n.dd!dddd!ddd..\n.ddddd!ddd!d..\n.ddd!dddd!dd..\n.d!ddeeeddd!..\n.ddd.eee.ddd..\n.....eee......\n.....eee......\nf....eee......\n.f..feeee.f.f.\n.f.f.eeee..f..\nffffffeeeeffff\nffffffeeeeffff\nffffffffffffff\n..............\nBonus:\n..............\n.......2......\n.....j1..W....\n...b..-.<.....\n.2-.....-..!..\n..+.f..<..b...\n..1..l..1.....\n...2..0..+..}.\n.g.....-......\n......m.......\n..............\n.....p.+......\n.{..>.....c...\n.....-.1......\n.+..0.+..-..>.\n...b.1.?..+...\n..2.~.w..b....\n..............\nLevel:\nMichael Speck\nChest\nBricks:\n..............\n..............\n.cccccccccccc.\n.cddddddddddc.\n.cdeeeeeeeedc.\n.cdeffffffedc.\n.cdefggggfedc.\n.cdefggggfedc.\n.cdefg**gfedc.\n.cdefg**gfedc.\n.cdefggggfedc.\n.cdefggggfedc.\n.cdeffffffedc.\n.cdeeeeeeeedc.\n.cddddddddddc.\n.cccccccccccc.\n..............\n..............\nBonus:\n..............\n..............\n.101010101010.\n.0-..<.+...m1.\n.1.p......-.0.\n.0..+..>.?..1.\n.1!...-...>.0.\n.0.l.~...+..1.\n.1....33....0.\n.0..*.33..c.1.\n.1W.....{...0.\n.0.c...&.d..1.\n.1..}.+...-.0.\n.0.-.....w..1.\n.1<..s...+..0.\n.000101010101.\n..............\n..............\nLevel:\nMichael Speck\nDeath And Rebirth\nBricks:\n..............\n..............\n..............\n..............\n...!..!!..!...\n..*.*....*.*..\n.!...!**!...!.\n..*.*....*.*..\n...!..!!..!...\n..*.*....*.*..\n.!...!**!...!.\n..*.*....*.*..\n...!..!!..!...\n..*........*..\n.!..........!.\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\n......>...1...\n....+.........\n.......2c.....\n...........+<.\n.+.-.2..+.~...\n..1..-........\n......s.-.w.3.\n..b.d.........\n.>.-.<..f.?.-.\n......b.......\n...1+..?..b...\n..............\n..............\n..............\n..............\nLevel:\nMichael Speck\nEaster Egg\nBricks:\n..............\n..............\n......gg......\n....gggggg....\n...eeeeeeee...\n..eeeeeeeeee..\n..ffffffffff..\n.ffffffffffff.\n.hhffhhffhhff.\n.iihhiihhiihh.\n.iiiiiiiiiiii.\n.hhiihhiihhii.\n.ffhhffhhffhh.\n.ffffffffffff.\n.ffffffffffff.\n..eeeeeeeeee..\n...dddddddd...\n..............\nBonus:\n..............\n..............\n..............\n......0.......\n.....m..<.b...\n....1.-..2....\n..0...1..-....\n...+.f.....-..\n..1....2..p...\n.+..>.+....>..\n..b....b.+.-..\n....?...2.<...\n..1..m......*.\n.W..&.d.+.....\n...c.....~.1..\n.......-......\n.....0..w.....\n..............\nLevel:\nMichael Speck\nFountain of Youth\nBricks:\nffffffffffffff\nfjjj......jjjf\nfjj........jjf\nfj....yy....jf\nf....y..y....f\nf...y....y...f\nf..y..!!..y..f\nf.y..!!!!..y.f\nf.y.!!!!!!.y.f\nf.y.!!!!!!.y.f\nf.y..!!!!..y.f\nf..y..!!..y..f\nf...y....y...f\nf....y..y....f\nf.....yy.....f\nf............f\nfvvvvvvvvvvvvf\n..............\nBonus:\nl....!.....-..\n..........b...\n..+...........\n.c....b.....}.\n........f.....\n....>.........\n......33..W...\n.....3443.....\n<.~.345543.?.m\n....345543....\n.....3443.....\n...w.&33..-...\n*........<....\n.....+.......-\n.......b......\n..............\n....p.+.>..c..\n..............\nLevel:\nMichael Speck\nKnock Knock\nBricks:\n..............\n.*............\n..............\nEEEEEEE.ffffff\n......#.fddddf\n......#.eeeeee\nf....f#.eeeeee\nfggggf#.fdzzdf\nfddddf#.fdzzdf\nfdzzdf.#fddddf\nfdzzdf.#fggggf\neeeeee.#f....f\neeeeee.#......\nfddddf.#......\nffffff.EEEEEEE\n..............\n............*.\n..............\nBonus:\n..............\n.5............\n..............\n........!c....\n...........{..\n........1.?.l.\n........>....1\n...W.....*.m..\n.1...b......+.\nw...-...1-....\n..m.........b.\n.?..&.........\n..}..1........\n1..+..........\n.....>........\n..............\n............5.\n..............\nLevel:\nMichael Speck\nThe Iron Heart\nBricks:\n...b......b...\n....b....b....\nb...b....b...b\n.b...b..b...b.\n..b...bb...b..\n...b..cc..b...\n....cc..cc....\nbb..cd..dc..bb\n..bcddddddcb..\n...cddddddc...\n..bcddddddcb..\nbb..cddddc..bb\n....ccddcc....\n...bb.cc.bb...\n.bb........bb.\nb............b\n..............\n..............\nBonus:\n..............\n..............\n..............\n........-.....\n..2....f......\n......+.......\n....1....2....\n-...+...<...2.\n...2.?...+....\n...<..-.1.....\n....b.+..-....\n.-...p.l....>.\n....+..-......\n...>..1..+....\n..b.........2.\n..............\n..............\n..............\nLevel:\nMichael Speck\nPointers\nBricks:\n..............\n..............\n..............\n..............\ncccccc###ccccc\naaaeeee#ffffaa\naffaeee#fffaee\nafffaee#ffaeee\naffffae#faeeee\nafffffa#aeeeee\naffffae#faeeee\nafffaee#ffaeee\naffaeee#fffaee\naaaeeee#ffffaa\ncccccc###ccccc\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\n..............\n.2........+...\n....<.1.......\n..b........s.<\nw....f..?.....\n...-.....-..+.\n.->...l....j..\n2...........1.\n..+..1.....b.-\n...?....p.....\n-....+........\n...b......>.+.\n..............\n..............\n..............\nLevel:\nMichael Speck\nAgainst All Odds\nBricks:\n..............\n..............\n.jkgi#........\n.jkgi#........\n.jkgi#........\n.jkgi#...!*!..\n.kkgi#...*!*..\n.gggi#...!*!..\n.iiii#........\n.#####........\n........#####.\n........#dddd.\n..!*!...#deee.\n..*!*...#deff.\n..!*!...#defj.\n........#defj.\n........#defj.\n........#defj.\nBonus:\n..............\n..............\n.d..>.........\n..............\n.-.d....~.b.c.\n..............\n..c...........\n..............\n.>..f...~...c.\n..............\n..............\n.c...~...f..>.\n..............\n...........c..\n..............\n.c.b.~....d.-.\n..............\n.........>..d.\nLevel:\nMichael Speck\nNarrow Ways\nBricks:\n..............\n..............\n.eeeeeeeeeeee.\n..eeeeeeeeee..\n...gggggggg...\n....gggggg....\n....kkkkkk....\n....kkkkkk....\n....iiiiii....\n...iiiiiiii...\n..hhhhhhhhhh..\n.hhhhhhhhhhhh.\n..............\n#f#f#f#f#f#f#f\n#f#f#f#f#f#f#f\ndddddddddddddd\ndddddddddddddd\n..............\nBonus:\n..............\n..............\n.>.-...+...2..\n....2.l..-....\n...+.....<....\n.....-.1.+....\n....~.W.......\n.....j..w.....\n.......c......\n...b..2.......\n......p.+.1...\n.1..+.<..-..>.\n..............\n...1.....d....\n.?.?.?.?.?.?.?\n2...+...b...-.\n..b...>...+...\n..............\nLevel:\nMichael Speck\nNuke 'Em\nBricks:\n..............\n..............\n....hhhhhh....\n..hhhhhhhhhh..\n.hhhheeeehhhh.\n.hheeeeeeeehh.\n.hheeeeeeeehh.\n.hheeeeeeeehh.\n.hhhheeeehhhh.\n..hhheeeehhh..\n....hheehh....\n.....heeh.....\n.....heeh.....\n.....heeh.....\n.....heeh.....\n.....heeh.....\n...hheeeehh...\n.hheeeeeeeehh.\nBonus:\n..............\n..............\n.......s......\n...3.+..-.....\n....p.2...>...\n..W....~...m..\n.?.-.2..<.-...\n...<...+...+..\n..-..f...-....\n...+...{..2...\n.....2..+.....\n......>.......\n.....*..p.....\n.......}......\n......c.......\n.....-........\n....2..w.+....\n...+..-..2....\nLevel:\nMichael Speck\nSteaming Bowl\nBricks:\n......!.......\n.....*.....*..\n...!...*..!...\n....*...!.....\n.c..........c.\n.chhhhhhhhhhc.\n.chhhhhhhhhhc.\n.cggggggggggc.\n.cggggggggggc.\n.cddddddddddc.\n.c#ffffffff#c.\n..#ffffffff#..\n..##dddddd##..\n...##eeee##...\n....##ee##....\n.....####.....\n..............\n..............\nBonus:\n.......W......\n..f...........\n....d...3.....\n..3....c...~..\n..............\n.....-..+.....\n..............\n..2.b.<+..1...\n...+.....b....\n....>.f.w.-...\n...2..+.1.....\n....s....+....\n.....+..2.....\n.....-.?......\n..............\n..............\n..............\n..............\nLevel:\nMichael Speck\nRainbow\nBricks:\n.........ddddd\n.....ddddddddd\n..dddddddeeeee\ndddddeeeeeeeee\nddeeeeeeehhhhh\neeeeehhhhhhhhh\neehhhhhhhfffff\nhhhhhfffffffff\nhhfffffffiiiii\nfffffiiiiiiiii\nffiiiiiiiggggg\niiiiiggggggggg\niiggggggg..h..\nggggg....h....\ngg..h..h...h..\n..h..h......h.\n.h.....h.h....\n....h.......h.\nBonus:\n..............\n...........!..\n....~.W.......\n..........+.s.\n.-......c.....\n......>.......\n*...m....}.-.l\n......<.......\n...-....+..<..\n.w....f..-.+..\n..>.{..b....>.\n.-...+........\n..?........2..\n.+..b....2....\n....2..4...2..\n..2..2......2.\n.2.....2.2....\n....2.......2.\nLevel:\nMichael Speck\nCrazy Dead End\nBricks:\n..............\n..............\nffffffffffffff\nfff@@@@@@@@fff\nfff@......@fff\n...@kkkkkk@...\nddd@kkkkkk@ddd\nddd@kkkkkk@ddd\nddd@......@ddd\n...@gggggg@...\neee@gggggg@eee\neee@ffffff@eee\neee@ffffff@eee\n...@......@...\nggg@dddddd@ggg\nggg@dddddd@ggg\nggg@dddddd@ggg\n..............\nBonus:\n..............\n..............\n...d...f..j...\n~...........+.\n..3........3.}\n..............\n.+.....2...+..\n..2.3.m.{...1.\n.-...........-\n....f..-......\n..<........+..\n-.....+.>....c\n.2...2......2.\n..............\n..-.....<...+.\n......b....3..\n.+...2..W....p\n..............\nLevel:\nMichael Speck\nTricky\nBricks:\n..............\n.####....####.\n.#dd#....#ff#.\n.#dd#....#ff#.\n.#dd#....#ff#.\n.#dd#....#ff#.\n.#dd#....#ff#.\n.####....####.\n..............\n.####....####.\n.#ii#....#gg#.\n.#ii#....#gg#.\n.#ii#!..!#gg#.\n.#ii#....#gg#.\n.#ii#....#gg#.\n.####....####.\n..............\n..............\nBonus:\n..............\n..............\n..............\n..2........+..\n..........2...\n...2..........\n..?........2..\n..............\n..............\n..............\n..?.......b...\n...2.m..m..-..\n..+.......2...\n.....m..m.....\n..2........2..\n..............\n..............\n..............\nLevel:\nMichael Speck\nDungeon\nBricks:\n...cjjjjjjc...\n...cjjjjjjc...\n.#####jj#####.\n.....#kk#.....\n.....#kk#.....\n.ddd.#xx#.ggg.\n.d!d.#xx#.g!g.\n.ddd......ggg.\n..............\n####......####\n..............\n.bbbbb..bbbbb.\n.bhhhb..bfffb.\n.biiib..bhhhb.\n.bhhhb..bfffb.\n.bbbbb..bbbbb.\n..............\n###aaaaaaaa###\nBonus:\n.....4...4....\n..............\n.......4......\n..............\n..............\n.......?....-.\n.W5...+....5..\n...~......<...\n..............\n..............\n..............\n..+.2....+.>..\n.>..-.....*.+.\n.....+..p...2.\n.2.m......1...\n...w.....-.c..\n..............\n....f.f..f....\nLevel:\nMichael Speck\nButterfly\nBricks:\n..............\n..............\n..............\n.....i..i.....\n.hh...ii...hh.\n.hfhh.ii.hhfh.\n.hfffh##hfffh.\n.hfggf##fggfh.\n.hfggf##fggfh.\n..hfgf##fgfh..\n..hfgf##fgfh..\n..hfgf##fgfh..\n.hfggf##fggfh.\n.hfggf##fggfh.\n.hfffh##hfffh.\n.hfhh.##.hhfh.\n.hh........hh.\n..............\nBonus:\n..............\n..............\n..............\n.....4..4.....\n.2....-.......\n..<....f...1..\n.*.+......-...\n....2....4..>.\n.+..-.....+...\n...l....2.....\n..s..3.....-..\n...+.....-....\n..4.......w...\n....?...2...+.\n.-.>.......<..\n.1.+.....b....\n............~.\n..............\nLevel:\nMichael Speck\nThe Inner Chamber\nBricks:\n..............\n.*yy*.!!.*yy*.\n..............\n..EEEEEEEEEE..\nddE........Edd\nddEffffffffEdd\n..EddddddddE..\nggEggggggggEgg\nggEggggggggEgg\n..EddddddddE..\n..E........E..\ne.EEEccccEEE.e\nee..........ee\n.ee.iiiiii.ee.\n..eeffffffee..\n.!.effffffe.!.\n....iiiiii....\n.####....####.\nBonus:\n........4.....\n..-.~..p......\n.....c........\n..............\nm.............\n...f..3.....{.\n....-..>.3....\n.-...3..?.....\n<.....f...>..+\n....>..-.f....\n..............\n......*.......\n+...........+.\n.2..2.s..-.2..\n...+..<1..f...\n.d...f.+..2...\n.....2..b.....\n..............\nLevel:\nMichael Speck\nBe Smart!\nBricks:\nhh.zzzzzzzzzzz\nhh.zzxzxzxzxzz\nhh.zzxzxzxzxzz\nhh.zzxzxzxzxzz\nee.zzxxxzxzxzz\nee.zzxzxzxzxzz\nee.zzxzxzxzzzz\ndd.zzxzxzxzxzz\ndd.zzzzzzzzzzz\n..............\n###zzzzxzzzzzz\njj#zzzxzzzzzzz\nkk#zzxxxxxxxzz\njj#zzzxzzzzzzz\nvv#zzzzxzzzzzz\n..............\n..............\n..............\nBonus:\n....3.........\n.l.....?2.b...\n4..>........&.\n.....&...1....\n.4....c......3\n........~.&...\n....&.......}.\n4......p.?....\n.*...2..&....!\n..............\n....{.........\n**......1>.3..\n...2..&.....&.\n....b.....+..2\n.....+........\n..............\n..............\n..............\nLevel:\nMichael Speck\nThe Final\nBricks:\n..............\n..............\neeeeeeeeeeeeee\ncceeeeeeeeeecc\niccffffffffcci\niiccffffffccii\niiicccccccciii\niiiib....biiii\n....b....b....\n.@@.b.!!.b.@@.\n.@@.b.!!.b.@@.\n....b....b....\nddddb....bdddd\nddddbggggbdddd\nhhhaaggggaahhh\nhhaaggggggaahh\nhaa........aah\n##vvvv@@vvvv##\nBonus:\n..............\n..............\n..w.4.*..?....\n3....+.4..b.-.\n..-..<...l...b\n.b..p.f....4..\n..+..-..>.+...\n2.>.........s.\n....c.l..?....\n..............\n....{.........\n.......W.~....\n...4.......?..\n.?...b...+...4\n..-..+.3...-..\n.+..2.>.f.>.3.\n..b........d..\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 2,
+      "col": 1,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 12,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 1,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 1,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 1,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 12,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 1,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 4,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 5,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 9,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 12,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 1,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 4,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 6,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 9,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 11,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 12,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    }
+  ]
+}

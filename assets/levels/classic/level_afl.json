@@ -1,0 +1,735 @@
+{
+  "name": "AFL",
+  "description": "Original author: Latts\nLegacy Bonus Grid:\n..............\n..............\nb..3..........\n.....0....0...\n..............\n..............\n3..s.1.1....2.\n...?......s...\n*..+..........\n.10.......3...\n.....~0.......\n<....3....?...\n.....>.2....0.\n0.............\n...<.-....0.>.\n..............\n..s-f..>..+...\n..............\nLevel:\nLatts\nAdelaide Crows\nBricks:\nhhggddhhg!ddhh\nhh!g*dhhgg*dhh\nhhggddhhggddhh\nhhgEddhhEgddhh\nhhggddhhggddhh\nhhggddhhggddhh\nhhggddhhggddhh\nhhEgddhhgEddhh\nhhggddhhggddhh\nhhggddhh!gddhh\nhhggddhhggd*hh\nhhgEddhhEgddhh\nhhggddhhggddhh\nhh!gddhhggddhh\nhhggddhhggddhh\nhhEgddhhgEddhh\nhhggddhhggddhh\nhhggddhhggddhh\nBonus:\nb...5.*......1\n...?.1j.&.....\n2..3....1..2..\n......>.......\n..0.1.2..j.?0.\n.0....f2..2...\n2wcW......>4.2\n....+.1&......\n0...0.....5.0f\np.d......3...1\n5..3..0..<....\n.{.....1.d!.?g\n......0....0..\n~..2}........l\n40f....?f....1\n....1...0..4..\n.......1.0....\n...1>.2.+.....\nLevel:\nLatts\nBrisbane Lions\nBricks:\nhgggghgggggggh\nhggghhhggggggh\nhgghhhhggggggh\nhgghhhgggggggh\nhEEEhhhhhhheEh\niiiihhhhhiiiii\niiihhhhhhiiiii\niiihihihhhiiii\niiihihihiihiii\niiiihihhihiiii\n#iiiiiiiiiiii#\ni#iiiiiiiiii#i\nii##iiiiii##ii\niiiiiiiiiiiiii\niiiiiiiiiiiiii\niiiiiiiiiiiiii\niiiiiiiiiiiiii\niiiiiiiiiiiiii\nBonus:\n..........s>..\n.0.?..-.<.3.-.\n....Wf........\n~.l3.....2&.g.\n.......1...0..\n..+..4....0..~\n*1.-...2......\n...>...W.2.{.?\n..2.{.j.......\nw.2......2...1\n.0.....5..>.-.\n...f.4...f....\n........~1....\n..01<W........\n....3.-..W...5\n-....2....0...\n3....2..+.....\n..+.<.........\nLevel:\nLatts\nCarlton Blues\nBricks:\naaaaaajjjjcEaa\na!aaaajjjjaaa!\naaaa!Ejaaaaaaa\naaajjjjjjjjaaE\nEajjaajaaaajaa\nacjaaajaaEaaaa\naajaajjjjaaaaa\naajajajaEja!aa\naajaj!jaaaaaaa\nacjajajjjcaaca\n!ajcjajaEaaaaa\naEjajajcajaEaE\naajaajjjjaaaaa\naajE!ajaaaaaaa\naajjaajEa!aja!\naaajjjjjjjjaaa\naaaaaajaaaa!aa\naaaaaajaaaaaaa\nBonus:\n+..2-...w...2.\n.....*?1......\n.1.......3?...\n?.......-.....\n.-.1<....0.0<+\n..g..+.>......\n......0.......\n............g.\n1.30..51...-0.\n.0...........0\n..>..........-\n.....j?...0.3.\n.-..-......s..\n.....0....~...\n..w<.1..-.....\n.0.+..g....1.-\n.....1...0....\n..............\nLevel:\nLatts\nCollingwood Magpies\nBricks:\njj..jj..jj.vjj\njj..jj..jj..jj\njj.vjj..jj..jj\njj..jjv.jj..jj\njj..jj..jj..jj\njj..jj..jj..jj\njjv.jj.vjjv.jj\njj..jj..jj..jj\njj..jj..jj..jj\njj.vjjv.jj..jj\njj..jj..jj.vjj\njjv.jj.vjj..jj\njj..jj..jj..jj\njj..jj..jjv.jj\njj.vjj.vjj..jj\njj..jj..jjv.jj\njjv.jj..jj..jj\njj..jjv.jj.vjj\nBonus:\n.....5........\n4.............\n........2.....\ns....?s.....+.\n........+...4.\n.4......>....0\n............m.\n+-..0....-...>\n.....c........\n1.....0.......\n1...>...{...1.\n.{......j.....\n..............\n0.......b....0\n........-.....\n.....2...1..-?\n..............\n.>..+-........\nLevel:\nLatts\nEssendon Bombers\nBricks:\n............vd\n............dd\n.vv.......vddd\n.vv.......dddd\n.vv.....vddddd\n.vv.....ddddd#\n.vv...vddddd##\n......ddddd###\n....vddddd.vvv\nvvv.dddddv....\n###ddddd......\n##dddddv...vv.\n#ddddd.....vv.\ndddddv.....vv.\ndddd.......vv.\ndddv.......vv.\ndd............\ndv............\nBonus:\n.............j\n..............\n..1.......5...\n..>........p.0\n.1.......~.4..\n............l.\n..1...c.0.1+..\n.......W..>...\n....34.......g\n.&...?1f-d....\n....0..d......\n...3..>3...b..\n....{+........\n...1........?.\n-0.<..........\n..-........>..\n..............\nm.............\nLevel:\nLatts\nFremantle Dockers\nBricks:\nffffffvvdddddd\nffffff..dddddd\nffffff..dddddd\nffffffvvdddddd\nffffff..dddddd\nffffff..dddddd\nffffffvvdddddd\nffffff..dddddd\n...fff..ddd...\n..ffffvvdddd..\nv..fff..ddd..v\n.v.fff..ddd.v.\n.iv..fvvd..vi.\nii.v.f..d.v.ii\niii.v....v.iii\niiiivvvvvviiii\niiiii....iiiii\niiiiii..iiiiii\nBonus:\n......{...b...\n........3..d..\n-.3......0..+-\n.....<.-?.....\n<...+....-.<..\n...d1....j..0.\n.{....5.......\n...-....2.....\n....0.....>...\n..1....s.1....\n....>...?0...<\n.d.......d....\n..0...0....-..\n...1....0....>\n0.p.4......1..\n...-.2+<-...3.\n..>...........\n.....?..w.....\nLevel:\nLatts\nGeelong Cats\nBricks:\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\nEaaaaaaaaaaaaE\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\nEEaaaaaaaaaaEE\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\nEEEaaaaaaaaEEE\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\nBonus:\n....s..W.....4\n?.-...0.~1....\n.W.3.....-.>..\n..........s..*\n.0.f.g.>...{+.\n..+.d.......0.\nb....c...d0?sj\n5p..1.41.....l\n..-<...!...<..\n0.>2.....2..W.\n.....W.....fm2\nd4.d.f.....d..\n...{..0.<..0..\n.f.+<.~..>f.d5\n....W...W.....\n....2-...1dw..\n.1............\nf..<...3..-...\nLevel:\nLatts\nHawthorn Hawks\nBricks:\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\n@hh@hh@hh@hh@h\nBonus:\n.......5......\n.0......&..+..\n....0>..s.-s..\n..>....0...2..\n..?....2.....+\n.3<..s.<}.>...\n..c.1..w...-.0\n....b..>..w0.m\n.1..0..0..}...\n..c.W~..c.14..\n.lw.<..+...<.1\n.bj.-3..-..0..\n.-<.!s..<.g...\n.0&.2...1..c.c\n.....?.cW.>..?\n..c.{.........\n.+>.+>..1.....\n....w-.~..b+.+\nLevel:\nLatts\nKangaroos\nBricks:\njjggjjggjjggjj\njjggjjggjjggjj\njjggjjggjjggjj\njjggjjggjjggjj\njjggjjggjjggjj\njjggjjggjjggjj\njjggjjEEjjggjj\njjggjj..jjggjj\njjggjvvgjjggjj\njjggv..gjjggjj\njjggjvvgjjggjj\njjggjjvvjjggjj\njjggjv..vjggjj\nEEggggg..vggEE\nggggggvvvvgggg\ngggggv.ggvgggg\ngggg.vggg..vgg\n..............\nBonus:\n00000000000000\n0..<.-..-.<..0\n0.{........{.0\n0...?....?...0\n0..+c>ff..>..0\n0}!...l+>...}0\n0>.j~.....g!.0\n0.......>....0\n0-..!.......-0\n0..?....!.?..0\n0...>......>+0\n0>.f....>.f..0\n0............0\n..-.>.w....-..\n~..<......<>.~\n..............\n..............\n..............\nLevel:\nLatts\nMelbourne Demons\nBricks:\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\nadddddddddddda\nEEddddddddddEE\naaaddddddddaaa\naaaaddddddaaaa\nEEEEEddddEEEEE\naaaaaaddaaaaaa\naaaaaaaaaaaaaa\nEEEEEEEEEEEEEa\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\naEEEEEEEEEEEEE\nBonus:\n4...4..-.40..4\n...1......fp..\n.W-.p.0.1...-.\n..d.......W..0\n1..-.s-...-1d.\n..?....f......\n..0<.2...s<.1.\n..............\n.-.....d.-....\n1...f.2...0...\n..............\n.p<.s....<?.s.\nw.f.w0..2.w1..\n.............1\n.bbbbbbbbbbbb.\n1.0.<...2s<...\n.w.w.w.w.w.w.w\nw.............\nLevel:\nLatts\nPort Adelaide Power\nBricks:\nEgggg!gggggjjE\nbbgagbbgbgjjj!\nggbgagg!gjjjgb\ngag!gbggjjjaga\n!gbgbggjjjg!gg\nEbEaggjjjggEaE\nccccccjjcccccc\n.....jj.jjj...\n.....jjj.jj...\n.....jj.jjj...\n###.....jj.###\n.......jj.....\n......jj......\n......jj......\n.....jj.......\n.....jj.......\n....jj........\n....j.........\nBonus:\n.>..?...W..?..\n..-0..+..0..b.\n........-.....\n-.....?p......\n..+........-0.\n......-..>....\n.b0.W........0\n........0.0...\n.....>........\n......-.......\n........-.....\n..............\n..............\n......0.......\n..............\n..............\n..............\n....0.........\nLevel:\nLatts\nRichmond Tigers\nBricks:\n............hh\n...........hhh\n.vvv......hhhh\n.v.......hhhhh\n.v......hhhhhh\n.......hhhhhhh\n......hhhhhhh.\n#####hhhhhhhv.\n.vvvhhhhhhhvv.\n.vvhhhhhhhvvv.\n.vhhhhhhh#####\n.hhhhhhh......\nhhhhhhh.......\nhhhhhh......v.\nhhhhh.......v.\nhhhh......vvv.\nhhh...........\nhh............\nBonus:\n............m.\n..............\n..p.......+.?.\n.w.......<.w..\n........20...-\n...........b..\n......+.?.-...\n.....-.-.4....\n.<1...s.....c.\n...g..3!j>.2..\n...p>...f.....\n..s..-<.......\n0.12.0........\n+f..Ws........\n4..>0.........\nw0........c...\n.<-...........\n..............\nLevel:\nLatts\nSt Kilda Saints\nBricks:\ndd*ddv..vdd*dd\nddddd....ddddd\ndddddv..vddddd\nddddd....ddddd\ndddddv..vddddd\nddddd....ddddd\ndddddv##vddddd\nv.v.v.##.v.v.v\n....######....\n......##......\n.v.v.v##v.v.v.\njjjjjv..vjjjjj\njjjjj....jjjjj\njjjjjv..vjjjjj\njjjjj....jjjjj\njjjjjj..jjjjjj\njjjjjjvvjjjjjj\njjjjjjjjjjjjjj\nBonus:\n*.........1...\n.+.5..........\n.>......p.>3W.\n.-............\n3.?..c...f....\n....1....0-..4\nW....4.....!..\n..............\n..............\n..............\n........4.....\n..b01.......?1\n.4..>.....1...\nw..d....>....+\n..1.......-...\nf.W.....d....f\n...3-......4..\n........+.....\nLevel:\nLatts\nSydney Swans\nBricks:\ndjjjjjjjjjjjjd\nddjjjjjjjjjjdd\nddjjjjjjjjjjdd\nddjjjjjjjjjjdd\ndddjjjjjjjjddd\ndddjjjjjjjjdd*\nddddjjjjjjdddd\n*dddjjjjjjdddd\njdddjjjjjjdddj\njddddjjjjddddj\njddddjjjjddddj\njjddddjjddddjj\njjddddddddddjj\njjjdjddjdjdjjj\njjjjddjddjjjjj\njjjjjjdjjdjjjj\njjjjdjd*jjjjjj\njjjjjjdjdjjjjj\nBonus:\nf...4..w.5....\n.....f.....2..\n..-....4..>...\n3.>.<...+.....\n....2..f..-..f\n{.0........}..\n....~.....<...\n..<..0&.00..+.\n+.....!...>2..\n&~fg......g...\n.......0......\n......>...0f..\n-0...-.f....l-\n.>.4..5.~.+...\n<...........0<\n.+3<.f+.......\n...w.....s...3\n...........-..\nLevel:\nLatts\nWest Coast Eagles\nBricks:\nggggghhhhggggg\nggggghhhhggggg\ngggghhhhhhgggg\ngggghhhhhhgggg\nggghhhgghhhggg\nggghhhgghhhggg\ngghhhhgghhhhgg\ngghhhEEEEhhhgg\nghhhhgggghhhhg\nhhhhgggggghhhh\nhhhgggggggghhh\nhhgggghEgggghh\nhgggghEhgggggh\ngggggEhhhggggg\nggggEhhhgggggg\ngggggghghggggg\ngggggggggggggg\ngggggggggggggg\nBonus:\n.....?1...4.+.\n1.b....{2j?.0.\n.....0.f......\n.1<.<.+..W..>5\n>..W...>..f1..\n5~..s...0....f\n...?.4.l..>..-\n-.3}......-...\n.0.g...5..f5.3\n.>.~..<..{...0\n.f...0.2!.0...\n5<.2+.s...~.1.\n..W..f.d......\n.........-.<..\n.0.....f~.0.W.\n...1>0........\n...f.<2......s\ndd-d..?..+.2>.\nLevel:\nLatts\nWestern Bulldogs\nBricks:\njjjjjjjjjjjjjj\ndddddddddddddd\ndddddddjjjdddd\ndddddddjjjdddd\ndddddjjjjjjddd\nddddjj@jjjjjdd\ndddjj@@jjjjjjd\ngggjjjjjjjjjjg\nggggggggggjjjg\nggggjjjjjggjjg\nggggjgjjjjgjjg\nggEgggggjjggjg\ngEgggggggjgggg\nEgggjggggjjEgg\nggggjgjgggjgEg\nggggjjjjgggggE\nggggggjjjggggg\ngggggggggggggg\nBonus:\n+.c.>.gd..W..s\n.0......0.....\n}..0-.4.?....-\n...W......>W.4\n?......-.2.0..\n....2b.W......\n0.d.>...0d4...\n.-....-.....j.\n........{....?\n...........<..\n....&...20d.0.\n.~.2W.0..+...d\n5..d.......f..\n..f..4...<..l.\n....p.0......5\n.0.-.>....4...\n.......W......\n...<..........\nLevel:\nLatts\nMCG\nBricks:\n..............\n....ffffff....\n...ffffffff...\n..ffffgdffff..\n.gffxfgdfxffg.\nffgfyffffyfgff\njffgffffffgffj\nfffgffffffgfff\njjfgfjjjjfgfjj\nfffgfjddjfgfff\njjfgfjjjjfgfjj\nfffgffffffgfff\njffgffffffgffj\nffgfyffffyfgff\n.gffxfdgfxffg.\n..ffffdgffff..\n...ffffffff...\n....ffffff....\nBonus:\n..............\n....d.5W.d....\n......<.......\n......2.......\n........3.....\n..?...........\n.....j.......?\n......0.0.....\n....+...<.&.>.\n4.{.1.bb.1...4\n.>fl.?....}s..\n.....0.0......\n..............\n.+..~.>....+..\n.......W......\n..............\n...3....2.....\n....d.W..d....\nLevel:\nLatts\nwww.afl.com.au\nBricks:\nvv...djjd...vv\nv..dddddddd..v\n..dddddddddd..\n.dhhhdhhhdhdd.\nddhdhdhdddhddd\nddhhhdhhhdhddd\nddhdhdhdddhhhd\ndddddddddddddd\n##############\ndddddddddddddd\nddhhhdhhhdhdhd\nddhdddhdhdhhhd\nddhdddhdhdhdhd\nhdhhhdhhhdhdhd\n.dddddddddddd.\n..dddddddddd..\nv..dddddddd..v\nvv...dddd...vv\nBonus:\n5............5\n..............\n.........1....\n..>.0...df....\n...f-..>......\n.0...1..5.-.0.\n.0.0.12...2...\n.4.d....0..{..\nWWWWWWWWWWWWWW\n.....0.....d.>\n4.{0...1...1..\n.....>0m2.>.4.\n1.>0...-.f....\n.....5..0..0..\n...-..1.d.2...\n.....2..4.....\n...f...f......\n5.....0......5",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 2,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 7,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 1,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 12,
+      "col": 12,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 12,
+      "col": 13,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 13,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 3,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 11,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 13,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 10,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 11,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 13,
+      "color": "dark_blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 0,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 1,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 16,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 16,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 16,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 7,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 16,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 9,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 16,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 11,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 16,
+      "col": 12,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 16,
+      "col": 13,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    }
+  ]
+}

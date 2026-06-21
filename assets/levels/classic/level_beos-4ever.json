@@ -1,0 +1,896 @@
+{
+  "name": "beos",
+  "description": "Original author: neo\nLegacy Bonus Grid:\n..............\n..............\n.............l\nb...>.........\n........-..s..\n5....5....5..5\n..............\n+............0\n.....<........\n..............\n..............\n5.......5.....\n.s.0.........b\n..............\n............-.\n.+....>......5\n..............\n..............\nLevel:\nneo\nrules\nBricks:\n..............\n.fefefefefefe.\n.efefefefefef.\n.cccccccccccc.\n..............\n.ff.g.gd.eekk.\n.f.fg.gd.e.k..\n.f.fg.gd.eek..\n.ff.g.gd.e..k.\n.f.fg.gd.e..k.\n.f.f.g.ddeekk.\n..............\n.cccccccccccc.\n.gdgdgdgdgdgd.\n.dgdgdgdgdgdg.\n.gdgdgdgdgdgd.\n..............\n..............\nBonus:\n..............\n....-......p..\n..f...l..-....\n......+.......\n..............\n...........-..\n..............\n.......-..m...\n..............\n..............\n.....f........\n..............\n......+.......\n..-...b..f....\n..............\n..>...>...>...\n..............\n..............\nLevel:\nneo\nroots\nBricks:\n.e..dd..gk.k..\n.eeed.dg.kk...\n.e.edddg.k.k..\n.eeed.d.gk.k..\n.....f..h.....\n....fffh.h....\n.....f.h.h....\n.....f..h.....\ni.i.g..e..k.dd\nii.g.ge.ekkkd.\ni..g.ge.e.k..d\ni...g..e..k.dd\n..............\ncccccccccccccc\n..............\n..............\n..............\n..............\nBonus:\n.1......f.....\n..........5...\n.....>........\n..b........+..\n..............\n.....5...1....\n..............\n........>.....\n+............s\n..........0...\n0.............\n....f..5......\n..............\n.>...+..b...>.\n..............\n..............\n..............\n..............\nLevel:\nneo\nbeos dano\nBricks:\n..............\n..............\n.dd...........\n.d.d..........\n.d.d..........\n.d.d..........\n.d.d.ggff..kk.\n.d.dg.gf.fk.k.\n.d.dg.gf.fk.k.\n.dd.gggf.fkk..\n..............\n.eeeeeeeeeeee.\n..............\n..............\n##..#c..c#..##\n...#......#...\n..............\n..............\nBonus:\n..............\n..............\n.-l...........\n..............\n..............\n.+.1..........\n.....-..5...s.\n.5............\n.......s..1.5.\n....0......+..\n..............\n..>.5.+...<.-.\n..............\n..............\n.....f..-.....\n..............\n..............\n..............\nLevel:\nneo\nnext generation\nBricks:\n..............\n.kk.....g..f..\n.k#k...g#gf#f.\n.k#k.d.g#gf#..\n.kk.d#dg#gff..\n.k#kdddg#g.#f.\n.k#kd#.g#g.#f.\n.k#kd#dg#gf#f.\n.kk..d..g..f..\n..............\n....ee..hh....\n....e#eh#.....\n.jj.e#eh#h.jj.\n....e#e.hh....\n..............\n#jjjjjjjjjjjj#\n..............\n..............\nBonus:\n..............\n..-.....5..f..\n.>............\n.....g.j.<....\n..1........2..\n.....3...b....\n.5.....<....5.\n..............\n.....>.....>..\n..............\n.....-..-.....\n..............\n.>..........b.\n........5.....\n..............\n..-...-f...-..\n..............\n..............\nLevel:\nneo\nr6\nBricks:\n..............\n.gggggggggggg.\n.fdddffffddff.\n.fdffdffdffdf.\n.fdffdffdffff.\n.fdffdffdffff.\n.fdffdffddddf.\n.fdddfffdffdf.\n.fdfdfffdffdf.\n.fdffdffdffdf.\n.fdfffdffddff.\n.gggggggggggg.\n..............\n.ccbccbbccbcc.\n..............\n..............\n..............\n..............\nBonus:\n..............\n...1.......5..\n...>......>...\n.5..>.........\n..-.......+...\n....lw..0...<.\n...........>..\n..c0.f.+..1...\n.........5.-..\n..............\n..>.+..5..>...\n.5............\n..............\n.>..-.>.....-.\n..............\n..............\n..............\n..............\nLevel:\nneo\nfine logo\nBricks:\n..............\n.dddddddddddd.\n.ddddjjjjdddd.\n.dddjddddjddd.\n.ddjddddddjdd.\n.ddjddddddjdd.\n.ddddjjjjdjdd.\n.dddjddddjddd.\n.dddjddddjddd.\n.ddddjjjjdjdd.\n.dddddddddjdd.\n.dddddddddjdd.\n.ddddddddjddd.\n.ddddjddjdddd.\n.ddddjddjdddd.\n.dddddjjddddd.\n.dddddddddddd.\n..............\nBonus:\n..............\n...f..........\n.......j......\n..d.5......d5.\n..............\n.5.l..>..+....\n....b...4.....\n..<........1..\n.....f.d...<..\n.+............\n..1....5....5.\n...d.....b.+..\n..5...........\n........55....\n......f....d..\n.d.+5.........\n..............\n..............\nLevel:\nneo\nopen beos\nBricks:\n..............\n..g..d..k.ee..\n.gvgdvdkvkeve.\n.gvgdvdkkkeve.\n.gvgdvdkvveve.\n.gvgdd.kvkeve.\n..g.d...k.eve.\n..............\n.ff..i..h..jj.\n.fvfivihvhjvv.\n.ffviiihvhvjv.\n.fvfivvhvhvvj.\n.fvfivihvhjvj.\n.ff..i..h..j..\n..............\n..............\n..............\n..............\nBonus:\n..............\n..0........0..\n..+..l..b..-..\n..>...........\n.....<...+.>..\n..............\n..5.5...5...5.\n..............\n..............\n..p..>.....w..\n........b.....\n..........-...\n..b..+.....>..\n..5..5..5..5..\n..............\n..............\n..............\n..............\nLevel:\nneo\ntake me home\nBricks:\n..............\n....e.........\n...jje..ee..cv\nv.ejjjeeee..cv\nv.eejjjeee..cv\nv.eeejjeee..cv\nv.eeejjjee..cv\nv.eeeejje...cv\nv.eeeejje...cv\nv.eeeeeje...cv\nv.edeeeje...cv\nv.djdeeje...cv\nv.jajeejek..cv\nv.jajeeeekk.cv\nv.jaj.eekk..cv\nv.fff..ek...cv\n..............\n..............\nBonus:\n..............\n....b.........\n..............\n.........+...>\n.....l..2.....\n-......>....+.\n..-..........5\n...+.4......b.\np.............\n......+.-....~\n5...w.........\n...2........p.\n......5+......\n-..>..........\n.......b.....-\n>...........5.\n..............\n..............\nLevel:\nneo\nand the future\nBricks:\n..............\n..............\n..........ddd.\n.........dd.dd\nvdvv.fvv.dv.vd\nd....f.......d\nd...ff......kd\ndde.efe.eggkkd\nd.e.efe.eg.k.d\nd..eef.eeg..kd\n............dd\n...........dd.\n...........d..\n...........d..\n..............\n...........d..\nvvv.v.v.v.v.vv\n..............\nBonus:\n..............\n..............\n..........>+..\n..............\nb..5.swp....+l\n>.............\n..............\n+.2..>...5.3.>\n....5.5.......\n............s.\n..............\n..............\n...........+..\n..............\n..............\n..............\n5pw.+.s.b.5.<+\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 1,
+      "col": 0,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 12,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 13,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 0,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 13,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 0,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 0,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 13,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 0,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 1,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 0,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 1,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 12,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 13,
+      "color": "yellow",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 0,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 1,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 12,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 13,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 0,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 1,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 2,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 3,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 4,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 12,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 13,
+      "col": 13,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 0,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 1,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 2,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 4,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 8,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 10,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 11,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 12,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 13,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 15,
+      "col": 0,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 15,
+      "col": 1,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 15,
+      "col": 2,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 15,
+      "col": 7,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 15,
+      "col": 8,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 15,
+      "col": 11,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 15,
+      "col": 12,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    },
+    {
+      "row": 15,
+      "col": 13,
+      "color": "light_gray",
+      "health": 3,
+      "points": 300
+    }
+  ]
+}

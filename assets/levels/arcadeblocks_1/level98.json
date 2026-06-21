@@ -1,0 +1,345 @@
+{
+  "name_ru": "Рождение Сверхновой",
+  "description_ru": "Звезда взрывается лучами. Давите на оси и диагонали!",
+  "name_us": "Supernova Birth",
+  "description": "Star explodes with rays. Press on axes and diagonals!",
+  "layout": {
+    "brickColumns": 16,
+    "brickRows": 11,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 2,
+    "startY": 76
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 7,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "color": "cyan",
+      "health": 41,
+      "points": 2114
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "cyan",
+      "health": 41,
+      "points": 2114
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "cyan",
+      "health": 41,
+      "points": 2114
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "explosive",
+      "health": 1,
+      "points": 1834
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "explosive",
+      "health": 1,
+      "points": 1834
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 5,
+      "col": 13,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "cyan",
+      "health": 41,
+      "points": 2114
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "cyan",
+      "health": 41,
+      "points": 2114
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "cyan",
+      "health": 41,
+      "points": 2114
+    },
+    {
+      "row": 7,
+      "col": 14,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 8,
+      "col": 0,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 8,
+      "col": 15,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "orange",
+      "health": 38,
+      "points": 2072
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "color": "yellow",
+      "health": 39,
+      "points": 2096
+    }
+  ]
+}

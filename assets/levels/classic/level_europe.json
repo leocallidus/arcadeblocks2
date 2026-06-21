@@ -1,0 +1,630 @@
+{
+  "name": "Europe",
+  "description": "Original author: www.OFTanna.de\nLegacy Bonus Grid:\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nOFT\nEurope\nBricks:\n......d.d.....\n........d.....\n.........dd...\n...d...d.dd...\n...e..eeeee...\n......eeeee...\n.....hhhhhh...\n.....hhhhhh...\n...f..f.ffff..\n..ff.f.fffff..\n...g.gggggg...\n....gggggggg..\n...iiiiiiii...\n..iiiiiiiiii..\n..kkkkkkkk....\n..kk.k.kk.....\n..jj.jj.j.....\n......j.j.....\nBonus:\n..............\n........l.....\n.........l....\n..........l...\n...2...l.2....\n......2.2.2...\n.....2.2.2....\n......2.2.2...\n...2.....2.2..\n..2.....2.2...\n...2.2.2.2....\n......2.......\n..............\n..........!...\n..Wd-f~c>{....\n..m*.b.&m.....\n..s+.+<.}.....\n......w.w.....\nLevel:\nOFT\nNorge\nBricks:\n........dd....\n........dd....\n........d.....\n..............\n........d.....\n...d......d...\n.........dd...\n........jj....\n........g.....\n........g.....\n........j.....\n.......dd.....\n.......dd.....\n.......dd.....\n.......dc.....\n.......d......\n..............\n.....g........\nBonus:\n..............\n.........!....\n........W.....\n..............\n........{.....\n...d......>...\n.........-c...\n........f~....\n........m.....\n........*.....\n........m.....\n.......b&.....\n.......s}.....\n.......<+.....\n.......+5.....\n.......w......\n..............\n.....w........\nLevel:\nOFT\nUnited Kingdom\nBricks:\n...........g..\n..........g...\n........g.g...\n.........gd...\n.........dd...\n........d.j...\n........j.jj..\n..........dd..\n.........ddd..\n..........dc..\n.........dd...\n...........j..\n..g....d....g.\n.gjd..........\n.j.d..........\n......jd.....g\nj.....jd......\n...ggg........\nBonus:\n..............\n..............\n........2.2...\n.........2....\n..........2...\n..............\n........2.2...\n...........2..\n..............\n..........!5..\n.........W{...\n...........d..\n..-....c....>.\n.f*~..........\n.m.m..........\n......b}.....&\ns.....+<......\n...+ww........\nLevel:\nOFT\nNederland\nBricks:\n...........d..\n.........dd...\n...........dd.\n.........d.dd.\n.........d.dd.\n.........ddd..\n.........jcjj.\n.........jjjj.\n.........jjjj.\n........jjjj..\n........j.jj..\n...........j..\n...........g..\n.....g........\n....g.........\n......g.......\n.g............\n..gg..........\nBonus:\n..............\n.........2....\n............2.\n.........2.2..\n............2.\n.........2.2..\n..........5...\n.........W..!.\n.........d->{.\n........fm~c..\n........b.*m..\n...........&..\n...........}..\n.....s........\n....<.........\n......+.......\n.+............\n..ww..........\nLevel:\nOFT\nSverige\nBricks:\n.......gg.....\n......hgg.....\n......hgg.....\n......hgg.....\n......hgg.....\n......hgg.....\n.....ghg......\n.....hhh......\n.....hh.......\n.....hh.......\n.....hh.......\n.....ghg......\n.....ghc......\n.....gh.......\n.....gh.g.....\n.....gh.g.....\n.....gh.......\n.....g.g......\nBonus:\n.......2......\n......2.2.....\n.......2......\n......2.2.....\n.......2......\n......2.2.....\n.....2.2......\n......2.......\n..............\n.....W!.......\n.....d{.......\n.....-c>......\n.....f~5......\n.....*m.......\n.....mb.&.....\n.....s<.}.....\n.....++.......\n.....w.w......\nLevel:\nOFT\nPortugal\nBricks:\n...........d.d\n...........ddd\n...........ddd\n...........ddd\n...........dd.\nf..........dd.\n...........dd.\nf.........dd..\n..f.......ddd.\n...h......cdd.\n.ff.......ddd.\n..f........dd.\n....h......dd.\n.....d.....dd.\n....f......dd.\n........d.....\n.......d......\n........d.....\nBonus:\n...........2.2\n............2.\n...........2.2\n............2.\n...........2..\n2...........2.\n...........2..\n2.........2...\n...........2..\n...!......5...\n.Wd.......->{.\n..f........~c.\n....m......*m.\n.....b.....}&.\n....+......s<.\n........+.....\n.......w......\n........w.....\nLevel:\nOFT\nMonaco\nBricks:\n..........d...\n.........dd...\n........ddd...\n........ddd...\n........d.....\n.......dd.....\n.......dd.....\n......ddd.....\n.....dddd.....\n.....jjjj.....\n....jjj.......\n....jjj.j.....\n....jjjjj.....\n...jjjjj......\n...jjjj.......\n....jj........\n....jjj.......\n.....j........\nBonus:\n..............\n..........2...\n.........2....\n........2.2...\n..............\n........2.....\n.......2......\n......2.2.....\n.....2.2......\n......2.2.....\n.....2........\n........!.....\n....Wd->{.....\n...mf~cm......\n...b}*&.......\n....s<........\n....++w.......\n.....w........\nLevel:\nOFT\nFrance\nBricks:\n.......j......\n......jjj.....\n.....jjcjd....\n.....jjjjd....\n...g..jjj.....\n......jjjd....\n......jjjd....\n......jjjd....\n......jj..d...\n..........d...\n..gg..........\n.ggg..........\n....g.........\n....g.........\n....g.........\ng...g......d.d\ng..........dd.\n...........d..\nBonus:\n.......2......\n......2.2.....\n.....2.5.2....\n......2.2.....\n...2...2......\n......2.2.....\n..............\n........!.....\n......Wd..{...\n..........>...\n..-c..........\n.f~m..........\n....*.........\n....m.........\n....&.........\nb...s......<.}\n+..........+w.\n...........w..\nLevel:\nOFT\nSuomi\nBricks:\n........j.....\n......g.j.....\n......gjj.....\n.......jjj....\n.......jjj....\n.......jj.....\n.......jjj....\n........g.....\n.......ggg....\n.......ggg....\n......gggg....\n......gjjj....\n......gjjj....\n......gjjj....\n......gjj.....\n......gjj.....\n......gc.j....\n.....j..j.....\nBonus:\n..............\n......2.2.....\n.......2......\n........2.....\n.......2.2....\n........2.....\n.......2.2....\n........2.....\n.......2.2....\n........2.....\n..............\n......W.{!....\n......d-c>....\n......f~*m....\n......bm&.....\n......s<}.....\n......+5.+....\n.....w..w.....\nLevel:\nOFT\nShqiperia\nBricks:\n.....d........\n.....dd.......\n.....ddd......\n.....ddd......\n.....dkd......\n.....ddk......\n.....dkd......\n.....ddk......\n.....dcd......\n.....ddk......\n.....dkdd.....\n.....ddkd.....\n.....dkdd.....\n.....dddd.....\n.....dddd.....\n......dd......\n......dd......\n......d.......\nBonus:\n..............\n.....2........\n......2.......\n.....2.2......\n......2.......\n.....2.2......\n......2.......\n.....2.2......\n......5.......\n.....2.2......\n..............\n.....Wd{!.....\n.....-~c>.....\n.....mf*m.....\n.....bs}&.....\n......<+......\n......+w......\n......w.......\nLevel:\nOFT\nLiechtenstein\nBricks:\n......g.......\n......gg......\n......gg......\n......eg......\n......kgg.....\n.....gegg.....\n.....gkg......\n.....ggg......\n.....gggg.....\n......ddd.....\n......cddd....\n......dddd....\n......dddd....\n......dddd....\n......dddd....\n......ddd.....\n.....dddd.....\n.....d.d......\nBonus:\n......2.......\n.......2......\n......2.......\n.......2......\n......2.2.....\n.....2.2......\n......2.......\n.....2.2......\n......2.2.....\n.......2......\n......5.2.....\n..............\n......Wd{!....\n......-~c>....\n......mf*m....\n......b}&.....\n.....s+<+.....\n.....w.w......\nLevel:\nOFT\nItalia\nBricks:\n.....fj.......\n....ffjj......\n...fffjj......\n...fffj.......\n...fffj.......\n...f.fjj......\n.....fjj......\n....f.jj......\n......cjd.....\n.......jdd....\n....f.j.dd....\n....f...ddd...\n....f....dd...\n....f..j.d....\n.........d....\n.......jdd....\n.......jd.....\n.....f..d.....\nBonus:\n......2.......\n.....2.2......\n....2.2.......\n...2.2........\n....2.2.......\n...2.2.2......\n......2.......\n.......2......\n......5.2.....\n..............\n....W.{.!.....\n....d...-c>...\n....f....~m...\n....b..m.*....\n.........&....\n.......s<}....\n.......++.....\n.....w..w.....\nLevel:\nOFT\nDanmark\nBricks:\n....djd.......\n...ddjd.......\n...ddjdd......\n...ddjd.......\n...ddjd.......\n...ddjd.......\n.d.ddjd.......\n..dddjd.......\n.jjjjj........\n.jjjjj........\n.ddddj........\n.dd...........\n.d............\n.......d......\n.......d......\n.........d....\n.........dc...\n.........dd.d.\nBonus:\n....2.2.......\n...2.2........\n....2.2.......\n...2.2........\n....2.2.......\n...2.2........\n....2.2.......\n...2..........\n.....!........\n.Wd->{........\n.f~c*m........\n.m&...........\n.b............\n.......}......\n.......s......\n.........<....\n.........+5...\n.........ww.+.\nLevel:\nOFT\nMoldova\nBricks:\n...ggg........\n...gggh.......\n....gghh......\n....gghhd.....\n....gghhd.....\n.....gehd.....\n.....ghed.....\n.....gdhdd....\n......hgcd....\n......fhdd....\n......hdddd...\n......ehddd...\n......he.dd...\n......hh......\n......hh......\n......hh......\n......h.......\n......h.......\nBonus:\n....2.........\n...2.2........\n....2.2.......\n.....2.2......\n....2.2.2.....\n.....2.2......\n......2.2.....\n.....2.2.2....\n......2.5.....\n..............\n.......Wd{!...\n......-f~c>...\n......m*.&m...\n......b}......\n......s<......\n......++......\n......w.......\n......w.......\nLevel:\nOFT\nHrvatska\nBricks:\n.......d......\n......ddd.....\n......ddd.d...\n.....dcgdddd..\n...dddgggddd..\n...dddgdgddd..\n...j.jdj...j..\n...j.jj.......\n.....jd.......\n...j.jj.......\n...j.jdj......\n....j.jd......\n....g.gjg.....\n.....g.dg.....\n......g.gg....\n.......g.g....\n.......g.gg...\n........g.g...\nBonus:\n.......2......\n......2.2.....\n.......2......\n......5.2.2...\n...2.2.2.2.2..\n....2.2.2.2...\n...2.2.2...2..\n......2.......\n.....2........\n......2.......\n...W..........\n....d.{!......\n....-.~c>.....\n.....m.*f.....\n......b.&m....\n.......s.}....\n.......+.+<...\n........w.w...\nLevel:\nOFT\nEspana\nBricks:\n.....dddd.....\n.....dddddd...\n.....ddddddd..\n......dddddd..\n......hchhh...\n......hhhhh..h\n......dhhh..h.\n......hhhh..h.\n......jhhh.h..\n......dhhh....\n......hhh.....\n......j.......\n.........h....\n......dd......\n.......dddd...\nd...d.........\n.dd.d.........\nd..d..........\nBonus:\n.....2.2......\n......2.2.2...\n.....2.2.2.2..\n......2.2.2...\n.......5.2....\n......2.2.2...\n.......2.2....\n......2.2...2.\n...........2..\n......W.{!....\n......d->.....\n......c.......\n.........~....\n......mf......\n.......b&*m...\ns...}.........\n.<+.+.........\nw..w..........\nLevel:\nOFT\nMalta\nBricks:\n..jd..........\n..jkjj........\n..dkdj........\n..kkkj........\n....j.j.......\n..............\n......jj......\n......jj......\n......jjdd....\n......jjddd...\n......jjddd...\n......jjdddc..\n......jjddddd.\n......jjddddd.\n.......jddddd.\n........ddddd.\n........ddddd.\n.......j..dd..\nBonus:\n..2...........\n...2.2........\n..2.2.........\n...2.2........\n....2.2.......\n..............\n......2.......\n.......2......\n......2.2.....\n.......2.2....\n......2.2.2...\n.......2.2.5..\n..........2.2.\n......W!......\n.......d-~c>{.\n........bm*fm.\n........+s<}&.\n.......w..w+..\nLevel:\nOFT\nLetzebuerg\nBricks:\n.....dd.......\n.....dd.......\n.....dd.......\n....ddd.......\n....ddd.......\n....dddd......\n....jjjj......\n....jjjjj.....\n....jjjjj.....\n....jjjjjj....\n....jjjjjj....\n.....jjjjj....\n.....ggggg....\n.....ggcgg....\n.....gggg.....\n....ggggg.....\n....ggggg.....\n......g.g.....\nBonus:\n......2.......\n.....2........\n......2.......\n.....2........\n....2.2.......\n.....2.2......\n....2.2.......\n.....2.2......\n....2.2.2.....\n.....2.2.2....\n....2.2.2.....\n.....2.2......\n.........!....\n.....Wd5>{....\n.....-f~c.....\n....mb*&m.....\n....s+<+}.....\n......w.w.....\nLevel:\nOFT\nEire\nBricks:\n.........e....\n.......jje....\n.......jj.....\n.......jj.....\n.......j.e....\n.....ffjje....\n.....ffjjee...\n....f.fjjee...\n.....ffjjee...\n.....ffjjec...\n....f.fjjee...\n......fjjee...\n......fjjee...\n......fjjee...\n.....ffjjee...\n.....ffjj.....\n.....ffj......\n......f.......\nBonus:\n.........2....\n........2.....\n.......2......\n........2.....\n.......2.2....\n......2.2.....\n.....2.2.2....\n....2.2.2.2...\n.....2.2.2....\n......2.2.5...\n.......2.2....\n......2.......\n.........W!...\n......d-c>{...\n.....f~m*&m...\n.....bs<}.....\n.....++w......\n......w.......\nLevel:\nOFT\nSrbija\nBricks:\n.....dd.......\n....ddd.......\n....ddd.......\n....dddd......\n.....djdd.....\n....ddhh......\n.....gcdg.....\n....ggdjggg...\n....ggjdgg....\n.....gdjggg...\n....ggjdgg....\n.....gdjgg....\n....jjhhjjj...\n.....jdjjjj...\n......j.jjj...\n........jj....\n.........j....\n........jj....\nBonus:\n......2.......\n.....2........\n....2.2.......\n.....2.2......\n......2.2.....\n.....2.2......\n......5.2.....\n.....2.2.2....\n....2.2.2.....\n.....2.2.2....\n....2.2.2.....\n..............\n....Wd->{.!...\n.....m*mf~c...\n......b.s}&...\n........+<....\n.........+....\n........ww....\nLevel:\nOFT\nEllada\nBricks:\n.......g.g....\n.....ggggg....\n....ggj..j....\n...jggj.j.....\n...jjj.g.g....\n.j.jjjg.g.....\n...jgg.j.j....\n...jggj.j.j...\n..g.gggg.g....\n......c.g.g...\n..j.jj.j.j.j..\n....jjj.j.j...\n....gg.g.g.g..\n.....g..g.g.g.\n......j..j..j.\n..........j...\n......gg......\n.......ggg....\nBonus:\n.......2.2....\n......2.2.....\n.....2...2....\n....2.2.2.....\n...2.2.2.2....\n....2.2.2.....\n...2.2.2.2....\n....2.2.2.2...\n.....2.2.2....\n......5.2.2...\n...........2..\n....W.{.!.....\n....d-.~.c.>..\n.....m..*.m.f.\n......b..}..&.\n..........s...\n......+<......\n.......ww+....\nLevel:\nOFT\nCrna Gora\nBricks:\n.....ee.......\n.....dd.......\n....dddd......\n....dddd......\n....ddedd.....\n...edddedd....\n...eddeddde...\n...edddedde...\n...eddegd.....\n....ddgedd....\n...eddefdd....\n...eddce.d....\n...edde.......\n....ddd.......\n.....d........\n.....dd.......\n......d.......\n......e.......\nBonus:\n.....2........\n......2.......\n.....2.2......\n....2.2.......\n.....2.2......\n....2.2.2.....\n...2.2.2.2....\n....2.2.2.2...\n...2.2.2......\n..............\n...W...d{!....\n...-f~5c.>....\n...bm*m.......\n....s}&.......\n.....<........\n.....++.......\n......w.......\n......w.......\nLevel:\nOFT\nKosova\nBricks:\n......g.......\n.....gg.......\n......gg......\n.....gjjg.....\n.....jggj.....\n....jggggj....\n...gggeggg....\n...gggeecgg...\n...gggeeggg...\n...ggeeeegg...\n....geeeegg...\n....ggeeeg....\n.....geegg....\n.....geeg.....\n.....ge.g.....\n.....ge.......\n.....g........\n.....g........\nBonus:\n..............\n......2.......\n.......2......\n......2.2.....\n.....2.2......\n....2.2.2.....\n...2.2.2.2....\n....2.2.5.2...\n...2.2.2.2....\n....2.2.2.2...\n..............\n....W.d>{!....\n.....-f~cm....\n.....m*b&.....\n.....s<.}.....\n.....++.......\n.....w........\n.....w........\nLevel:\nOFT\nSan Marino\nBricks:\n..........j...\n.........jj...\n........jjj...\n.......ejjj...\n......jejj....\n......jejj....\n....jjfefj....\n...jjjfgfjj...\n...jjjfjfjj...\n...gggfgfgg...\n....ggcefgg...\n....ggfffg....\n...gggjjjg....\n...gggggg.....\n....ggggg.....\n....gggggg....\n...gg.ggg.....\n......gg......\nBonus:\n..........2...\n.........2....\n........2.2...\n.......2.2....\n......2.2.....\n.......2.2....\n....2.2.2.....\n...2.2.2.2....\n....2.2.2.2...\n...2.2.2.2....\n....2.5.2.2...\n.....2.2.2....\n..............\n...W.{..!.....\n....d-~c>.....\n....mb*fm&....\n...s+.<}+.....\n......ww......\nLevel:\nOFT\nDeutschland\nBricks:\n....k.k..k....\n......kk..k...\n....k.kkkk....\n.....kkkkkk...\n.....kkkkkk...\n.....kkkkck...\n.....dddddd...\n....ddddddd...\n....ddddddd...\n....ddddddd...\n....dddddd....\n....ddddd.....\n....eeeee.....\n.....eeeee....\n.....eeeee....\n.....eeeee....\n.....eeeee....\n.......ee.....\nBonus:\n....2.2.......\n.......2......\n....2.2.2.....\n.....2.2.2....\n......2.2.2...\n.....2.2.5....\n......2.2.2...\n.....2.2.2....\n....2.2.2.2...\n.....2.2.2....\n....2.2.2.....\n.....2.2......\n..............\n.....Wd{.!....\n.....-f~c>....\n.....b&m*m....\n.....++s<}....\n.......ww.....\nLevel:\nOFT\nBosna i Hercegovina\nBricks:\n...g.hh.......\n...ggghhhh....\n...ggjhhhhgg..\n...ggghhhhgg..\n...ggjhhhhg...\n....ggghhhg...\n....ggjhhhgg..\n....ggghhhgg..\n....ggjhhhgg..\n.....ggghcg...\n.....ggjhhgg..\n......gghhgg..\n......gjhhg...\n.......ggh....\n.......gjh....\n.......ggh....\n........jh....\n.........g....\nBonus:\n......2.......\n...2.2.2.2....\n....2.2.2.2...\n...2.2.2.2.2..\n....2.2.2.2...\n.....2.2.2....\n....2.2.2.2...\n.....2.2.2.2..\n....2.2.2.2...\n.....2.2.5....\n..............\n......Wd..{!..\n......-f~c>...\n.......m*m....\n.......b}&....\n.......+s<....\n........w+....\n.........w....\nLevel:\nOFT\nOesterreich\nBricks:\n..........d...\n..........dd..\n.......ddddddd\n.......ddddddd\n......ddddddcd\n......jjjjjjjj\n......jjjjjjjj\n....j.jjjjjjjj\nj.j.jjjjjjjjj.\njjjjjjjjjjjjj.\nddddddddddddd.\ndddd.dddddddd.\n..d..ddddddd..\n......dddd....\n........dd....\n..............\n..............\n..............\nBonus:\n..........2...\n...........2..\n........2.2.2.\n.......2.2.2.2\n......2.2.2.5.\n.......2.2.2.2\n......2.2.2.2.\n.......2.2.2.2\n2.2.2.2.2.2.2.\n.2.2.2.2.2.2..\n........2.....\nWd-c.>....{.!.\n..b..}m*f~&m..\n......++s<....\n........ww....\n..............\n..............\n..............\nLevel:\nOFT\nBelgie\nBricks:\n.......hh.....\n....k.hhhd....\n...kkkhhhdd...\n..kkkkhhhddd..\n..kkkkhhhdd...\n..kkkkhhhdd...\n..kkkkhchdd...\n....kkhhhddd..\n....kkhhhdddd.\n.....khhhdddd.\n.....khhhdddd.\n......hhhdddd.\n......hhhddd..\n......h.hddd..\n........hdd...\n........hdd...\n.........ddd..\n..........d...\nBonus:\n.......2......\n....2.2.2.....\n...2.2.2.2....\n..2.2.2.2.2...\n...2.2.2.2....\n..2.2.2.2.2...\n...2.2.5.2....\n....2.2.2.2...\n.....2.2.2.2..\n......2.2.2.2.\n.....2.2.2.2..\n..............\n......Wd->{!..\n......m.f~cm..\n........b&*...\n........s<}...\n.........w++..\n..........w...\nLevel:\nOFT\nSlovensko\nBricks:\n......j.......\n....j.j.j.jj..\n...jjjj.jjjjj.\n...jjjjjjjjjjj\n..jddddjjjjjjj\n..gdjjdggggggg\ngggjjjjggggggg\ngggdggdgggggg.\ngggjggjgg..gg.\nddddjjddd...g.\ncddddddd......\nddddddd.......\n.dddd.........\n..ddd.........\n..............\n..............\n..............\n..............\nBonus:\n......2.......\n...........2..\n....2.2.2.2.2.\n...2.2.2.2.2.2\n..2.2.2.2.2.2.\n...2.2.2.2.2.2\n2.2.2.2.2.2.2.\n.2.2.2.2.2.2..\n2.2.2.2.2...2.\n..............\n5Wd-c>{!......\nm*f~mb&.......\n.+s<}.........\n..+ww.........\n..............\n..............\n..............\n..............\nLevel:\nOFT\nBelarus\nBricks:\n.......dd.....\n......ddddd...\n......ddddd...\n......ddddd...\n.....dddddd...\n.....dddddd...\n.....dddddd...\n....dddddddd..\n..jddddcdddd..\n...dddddddddd.\n...dddddddddd.\n...dddddddd...\n...fffffffff..\n..dfffffffff..\n..jfffffffff..\n...ffffffff...\n..df..fffff...\n..........f...\nBonus:\n.......2......\n......2.2.2...\n.......2.2....\n......2.2.2...\n.....2.2.2....\n......2.2.2...\n.....2.2.2....\n....2.2.2.2...\n...2.2.5.2.2..\n....2.2.2.2.2.\n...2.2.2.2.2..\n....2.2.2.2...\n...2.2.2.2.2..\n........2.....\n..W.d>{....!..\n...-m&*mf~c...\n..bs..w++<}...\n..........w...\nLevel:\nOFT\nRossija\nBricks:\n......j...j.jj\n.......j.j..j.\n...j..j.jj..jj\ng.jj.j....jjjg\n.gjjj.jjjjjjgg\n.ggjjjjjjjjggg\n.gcggjjjjggggg\ndggggggggggg.d\n.dgggggggggg..\ndddggggggggd.d\ndd.ddggggdddd.\n.d...dddddddd.\n.....ddddd.dd.\n......dddd..d.\n............d.\n..............\n..............\n..............\nBonus:\n......2...2.2.\n.......2.2....\n......2.2...2.\n...2.2.....2.2\n..2.2.2.2.2.2.\n.2.2.2.2.2.2.2\n..5.2.2.2.2.2.\n.2.2.2.2.2.2.2\n..2.2.2.2.2...\n.2.2.2.2.2.2.2\n..............\n.W...d-~c>{!..\n.....b}m*m.&f.\n......w++s..<.\n............w.\n..............\n..............\n..............\nLevel:\nOFT\nEesti\nBricks:\n.......g......\n.....g..gg....\n.......ggggggg\n...g.gcggggggg\n....ggggggggg.\n.g..ggggggggg.\nkk.k.kkkkkkk..\n.k..kkkkkkkk..\n...k.kkkkkkk..\n.kk.kkkkkkkk..\nkkk.kkkkkkkk..\nkk...kkkkkkkk.\nj.j...jjjjjjj.\nj...j.jjjjjjj.\nj.....j.jjjjjj\n...j.....jjjj.\n..........jjj.\n..........j.j.\nBonus:\n.......2......\n........2.....\n.......2.2.2.2\n......5.2.2.2.\n.....2.2.2.2..\n....2.2.2.2.2.\n.2.2.2.2.2.2..\n....2.2.2.2...\n...2.2.2.2.2..\n..2.2.2.2.2...\n.2...2.2.2.2..\n2.....2.2.2.2.\n.........2.2..\n....W.{!......\nd.....m.*-f~c>\n...b.....s}&m.\n..........++<.\n..........w.w.\nLevel:\nOFT\nCitta del Vaticano\nBricks:\n.........j....\n........jj....\n.....hhjjjj...\n.....hhjjjjj..\n.....hhjjhjj..\n....hhhjjjjj..\n....hhhjhhhj..\n....hhhjjjhj..\n....hhhjjhjj..\n...hhhhjjdjj..\n...hhhhjhjhjj.\n...hhhhjhdjjj.\n..hhhhhjjjjjj.\n.hhhhhhjjdjjj.\n..hhhhhjjjjjj.\n...hhhhjjjj.j.\n...h..hjjjj...\n......hjjjj...\nBonus:\n.........2....\n........2.....\n.....2.2.2....\n......2.2.2...\n.....2.2.2.2..\n....2.2.2.2...\n.....2.2.2.2..\n....2.2.2.2...\n.....2.2.2.2..\n....2.2.2.2...\n...2.2.2.2.2..\n....2.2.2.2.2.\n...2.2.2.2.2..\n....2.2.2.2.2.\n..W...........\n...d-mf~c>{.!.\n...b..s}&*m...\n......ww++<...\nLevel:\nOFT\nAndorra\nBricks:\n....g.h.......\n...gghhh......\n....ghhhhdd...\n....ghhhhddd..\n..ggghhhhddd..\n..gggheehdddd.\n...gghdhhdddd.\n..ggghhdhddd..\n..gggheehddd..\n..ggghdhhddd..\n...gghhdhddd..\n...ggceehddd..\n...ggheehdd...\n..ggghhhhd....\n...gghhhhd....\n...gghhh......\n...ggh.h......\n...ggh........\nBonus:\n....2.2.......\n...2.2.2......\n....2.2.2.2...\n.....2.2.2.2..\n..2.2.2.2.2...\n...2.2.2.2.2..\n....2.2.2.2.2.\n...2.2.2.2.2..\n..2.2.2.2.2...\n...2.2.2.2.2..\n....2.2.2.2...\n...2.5.2.2.2..\n....2.2...2...\n..W.....!.....\n...d-f~c>{....\n...m*mb&......\n...s<}.+......\n...+ww........\nLevel:\nOFT\nLatvija\nBricks:\n.......dd.....\n......dddd....\n..d...dddd....\n.ddd..ddddddd.\n.ddd..ddddddd.\n.dddd.dddddddd\n.dddd.ddddddd.\njjjjjjcjjjjjj.\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\ndddddddddddddd\ndd..ddd.dddddd\nd.......dddddd\n.........ddddd\n..........ddd.\n..........dd..\n..............\n..............\nBonus:\n.......2......\n......2.2.....\n.......2.2....\n..2...2.2.2.2.\n.2.2...2.2.2..\n..2.2.2.2.2.2.\n.2.2...2.2.2..\n2.2.2.5.2.2.2.\n.2.2.2.2.2.2.2\n2.2.2.2.2.2.2.\n.........2.2.2\n.W..d{!.......\nm.......*-f~c>\n.........bsm}&\n..........+<+.\n..........ww..\n..............\n..............\nLevel:\nOFT\nPolska\nBricks:\n.....jj.......\n....jjjjjjj...\n..jjjjjjjjjj..\n..jjjjjjjjjj..\n..jjjjjjjjjj..\n..jjjjjjjjjj..\n..jjjjjjjjjj..\n..jjjjjjjjj...\n..jjjjjjcjjj..\n..dddddddddd..\n...ddddddddd..\n...ddddddddd..\n...ddddddddd..\n....dddddddd..\n....d.ddddd...\n......ddddd...\n.......dddd...\n..........d...\nBonus:\n......2.......\n.....2.2.2....\n..2.2.2.2.2...\n...2.2.2.2.2..\n..2.2.2.2.2...\n...2.2.2.2.2..\n..2.2.2.2.2...\n...2.2.2.2....\n..2.2.2.5.2...\n...2.2.2.2.2..\n....2.2.2.2...\n...2.2.2.2.2..\n..............\n....Wd>{...!..\n....m.*-f~c...\n......bs}&m...\n.......w++<...\n..........w...\nLevel:\nOFT\nUkrajina\nBricks:\n........g.....\n.ggg..ggg.....\n.ggggggggg....\n.ggggggggg....\n.gggggcggggg..\n.ggggggggggggg\ngggggggggggggg\ngggggggggggggg\nhhhhhhhhhhhhhh\nhhhhhhhhhhhhhh\n..h..hhhhhhhh.\n.....hhhhhhhh.\n.....hhhhhhh..\n......hhhhh...\n.....hh.hh....\n.....hh.......\n....hh........\n..............\nBonus:\n........2.....\n.2.2...2......\n..2.2.2.2.....\n.2.2.2.2.2....\n..2.2.5.2.2...\n.2.2.2.2.2.2.2\n2.2.2.2.2.2.2.\n.2.2.2.2.2.2.2\n2.2.2.2.2.2.2.\n.2.2.2.2.2.2.2\n..2...2.2.2...\n............!.\n.....Wd-~c>{..\n......f&m*m...\n.....bs.<}....\n.....++.......\n....ww........\n..............\nLevel:\nOFT\nCesko\nBricks:\n....j.j.......\n....jjj.......\n...jjjjjj.....\n..gjjjjjj.....\nggggjjjjj.j...\ngggggjjjjjjj..\nggggcgjjjjjjj.\n.ggggggjjjjjjj\ngggggggddddddd\n.gggggdddddddd\n.ggggddddddddd\n..ggddddddddd.\n..gdddddddddd.\n...ddd.ddddd..\n...ddd..ddd...\n....d.........\n..............\n..............\nBonus:\n....2.2.......\n.....2........\n....2.2.2.....\n...2.2.2......\n2.2.2.2.2.2...\n.2.2.2.2.2.2..\n2.2.5.2.2.2.2.\n.2.2.2.2.2.2.2\n2.2.2.2.2.2.2.\n.2.2.2.2.2.2.2\n..2.2.2.2.2.2.\n.........2....\n..W..d->...{!.\n...f~m.b*mc&..\n...s<w..++}...\n....w.........\n..............\n..............\nLevel:\nOFT\nSlovenija\nBricks:\n...........jj.\n...........jj.\n.........jjjjj\n......jjjjjjjj\n.jj...jjjjjjjj\n.jjggjjjjjjjj.\ngggjjggggggg..\ngggjjgggggg...\n.ggjjggggg....\n.ggggggggg....\ngggggcggggg...\n.gggggggggg...\n.dddddddddd...\n.ddddddddd....\n..ddddddd.....\n..ddddddd.....\n.dddd.ddd.....\n.dd....dd.....\nBonus:\n...........2..\n............2.\n.........2.2.2\n......2.2.2.2.\n.2.....2.2.2.2\n..2.2.2.2.2.2.\n.2.2.2.2.2.2..\n2.2.2.2.2.2...\n.2.2.2.2.2....\n..2.2.2.2.....\n.2.2.5.2.2....\n..2.2.2.2.2...\n.2.2.2.2.2....\n..2.....2.....\n....W{!.......\n..d-fm~c>.....\n.m*bs.<}&.....\n.++....ww.....\nLevel:\nOFT\nSchweiz\nBricks:\n.......dd.....\n........dd....\n.....dddddd...\n...dddjjdddd..\n...dddjjddd...\n...dddjjddd...\n..ddddjjdddd..\n..djcjjjjjjd.d\n.ddjjjjjjjjddd\n.ddjjjjjjjjddd\n.ddjjjjjjjjddd\nddddddjjddddd.\nddddddj.dd.dd.\nd.ddddj.dd..d.\nd.ddddj.dd....\n...dddd..d....\n...ddd...d....\n.........d....\nBonus:\n.......2......\n........2.....\n.....2.2.2....\n....2.2.2.2...\n...2.2.2.2....\n....2.2.2.2...\n...2.2.2.2.2..\n..2.5.2.2.2...\n.2.2.2.2.2.2.2\n..2.2.2.2.2.2.\n.2.2.2.2.2.2.2\n2.2.2.2.2.2.2.\n.....2........\n..W.....{...!.\nd.m-f~c.*>....\n...bs}&..m....\n...++w...<....\n.........w....\nLevel:\nOFT\nLietuva\nBricks:\n...hhhh..h....\n..hhhhhhhh....\n..hhhhhhhhhh..\n.hhhhhhhhhhh..\n.hhhhhhhhhhhh.\n.hhhhhhhhhhhh.\nf.fffffffffff.\nf.fffffffffff.\n..ffffffffffff\n...ffffffffff.\n.....ffffffff.\n.....fffffff..\n.....ddddddd..\n.....dddddcd..\n.....ddddddd..\n......dddd.d..\n......dddd....\n......ddd.....\nBonus:\n...2.2...2....\n..2.2.2.2.....\n...2.2.2.2.2..\n..2.2.2.2.2...\n.2.2.2.2.2.2..\n..2.2.2.2.2.2.\n...2.2.2.2.2..\n2.2.2.2.2.2.2.\n...2.2.2.2.2.2\n....2.2.2.2.2.\n.....2.2.2.2..\n......2.2.2...\n.......2.2....\n.....W....5!..\n.....d-f~c>{..\n......m*mb.&..\n......s<}+....\n......ww+.....\nLevel:\nOFT\nMakedonija\nBricks:\n........dd....\n......dhddd...\n....h.dhddh...\n...dhddhddhd..\n...dhhchdhhdd.\n...ddhdhdhddd.\n..ddddhdhdddd.\n..hddddhddddh.\n..hhhhdhdhhhh.\n..hhhhdhdhhhh.\n..hddddhddddh.\n..ddddhdhdddd.\n..dddhdhdhddd.\n..ddhhdhdhhd..\n..ddhddhddhd..\n...hhddhd.....\n...hdddh......\n....dd.h......\nBonus:\n........2.....\n.......2.2....\n....2.2.2.2...\n...2.2.2.2.2..\n....2.5.2.2.2.\n...2.2.2.2.2..\n..2.2.2.2.2.2.\n...2.2.2.2.2..\n..2.2.2.2.2.2.\n...2.2.2.2.2..\n..2.2.2.2.2.2.\n...2.2.2.2.2..\n..2.2.2.2.2.2.\n..............\n..Wd..-.c>{!..\n...mf~*m&.....\n...bs<+}......\n....+w.w......\nLevel:\nOFT\nMagyarorszag\nBricks:\n.........ddd..\n.........dddd.\n..d....ddddddd\n..d...dddddddd\n.ddddddddddddd\n.dddddddddddd.\n.jjjjjcjjjjjj.\n.jjjjjjjjjjjj.\njjjjjjjjjjjj..\njjjjjjjjjjjj..\njjjjjjjjjjjj..\n.fffffffffff..\n.ffffffffff...\n.ffffffffff...\n..ffffffff....\n..fffff.......\n...ff.........\n..............\nBonus:\n..........2...\n.........2.2..\n..2.....2.2.2.\n.......2.2.2.2\n..2.2.2.2.2.2.\n.2.2.2.2.2.2..\n..2.2.5.2.2.2.\n.2.2.2.2.2.2..\n2.2.2.2.2.2...\n.2.2.2.2.2.2..\n2.2.2.2.2.2...\n.2.2.2.2.2.2..\n....2.........\n.W....d->{!...\n..f~cm*b&m....\n..s<}++.......\n...ww.........\n..............\nLevel:\nOFT\nRomania\nBricks:\n.........dd...\n....ghh.hdd...\n...gghhhhdd...\n...gghhhhdd...\n...gghhhhddd..\n..ggghhhhddd..\n..ggghhhhddd..\n..ggghhhhddd..\n.gggghhhhddd..\n.gggghhhhddd..\n.gggghhhhddd..\n..ggghhhhddd.d\n..ggghhhhddddd\n..ggghhhhddddd\n...gghhhhdddd.\n....ghhhhcddd.\n....ghhhhd.dd.\n......hhh...d.\nBonus:\n..........2...\n.....2...2....\n....2.2.2.2...\n...2.2.2.2....\n....2.2.2.2...\n...2.2.2.2.2..\n..2.2.2.2.2...\n...2.2.2.2.2..\n..2.2.2.2.2...\n.2.2.2.2.2.2..\n..2.2.2.2.2...\n...2.2.2.2.2.2\n..2.2.2.2.2.2.\n.....2.2.2.2.2\n...W..........\n....d-f~c5>{!.\n....bs<m*}.&m.\n......ww+...+.\nLevel:\nOFT\nIsland\nBricks:\n..g.......g...\n..gj......ggg.\n.g.j.j.ggggg..\n.ggj.jggggggg.\ngggj.jggggggg.\ngggjdjgggggggg\n...jdjgggggggg\n..jjdjjjjjjjjj\n...ddddddddddd\n.ddddddddddddd\n..jjdjjjjjjjjj\n...jdjggggggg.\n...jdjggggggg.\n...jdjgggggg..\n..gcdjggggg...\n..gjdjgggg....\n.....jggg.....\n....d.gg......\nBonus:\n..............\n..2.......2.2.\n.2.2.2.2.2.2..\n..2...2.2.2.2.\n.2.2.2.2.2.2..\n2.2.2.2.2.2.2.\n...2.2.2.2.2.2\n..2.2.2.2.2.2.\n...2.2.2.2.2.2\n..2.2.2.2.2.2.\n...2.2.2.2.2.2\n....2.2.2.2.2.\n...2.2.2.2.2..\n..............\n..W5d-..>{!...\n..mb*mf~c&....\n.....+s<}.....\n....+.ww......\nLevel:\nOFT\nBalgarija\nBricks:\njj........j...\nj.......jjjj..\njjjj....jjjjj.\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\n.jjjjjjjjjjjj.\n.ffffffffffff.\n.ffffffffffff.\nfffffffffffff.\nffcfffffffff..\nffffffffffff..\nffffffffffff..\nddddddddddddd.\n.ddddddddd.dd.\n.dddddddd.....\n.dddddddd.....\n.ddd.dddd.....\n......dd......\nBonus:\n.2............\n2.......2.2...\n.2.2.....2.2..\n2.2.2.2.2.2.2.\n.2.2.2.2.2.2.2\n..2.2.2.2.2.2.\n.2.2.2.2.2.2..\n..2.2.2.2.2.2.\n.2.2.2.2.2.2..\n2.5.2.2.2.2...\n.2.2.2.2.2.2..\n2.2.2.2.2.2...\n.2.2.2.2.2.2..\n............2.\n...Wd{..!.....\n.-f~m*c>m.....\n.bs<.+}&+.....\n......ww......\nLevel:\nOFT\nEND\nBricks:\n.###.#.#.###..\n.#...#.#.#.#..\n.##..#.#.###..\n.#...#.#.##...\n.###.###.#.#..\n..............\n.@@@.@@@.@@@..\n.@.@.@.@.@....\n.@.@.@@@.@@...\n.@.@.@...@....\n.@@@.@...@@@..\n..............\n..............\n.EEE.E..E.EE..\n.E...EE.E.E.E.\n.EE..EEEE.E.E.\n.E...E.EE.E.E.\n.EEE.E..E.EE..\nBonus:\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 1,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 15,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 15,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 16,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 17,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 17,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 17,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 17,
+      "col": 7,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 17,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    }
+  ]
+}

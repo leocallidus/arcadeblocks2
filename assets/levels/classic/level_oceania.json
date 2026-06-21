@@ -1,0 +1,693 @@
+{
+  "name": "Oceania",
+  "description": "Original author: www.OFTanna.de\nLegacy Bonus Grid:\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nOFT\nOceania\nBricks:\n.....d.d.d....\n....d.d.d.d...\n.....e.e.e....\n....e.e.e.e...\n.....h.h.h....\n...hh.h.h.h...\n...fff.f.f....\n...fff........\n...ggg.g......\n...g..gg......\n......i.......\n..............\n..............\n.....ii.......\n.....kk.......\n.....kkkk.....\n.....jjjj.....\n.....jjj......\nBonus:\n.....l.l.2....\n....2.2.2.2...\n.....2.2.2....\n....2.2.2.2...\n.....2.2.2....\n......2.......\n..............\n..............\n...W!.........\n...d..>{......\n......-.......\n..............\n..............\n.....~c.......\n.....f*.......\n.....mbm&.....\n.....s<}+.....\n.....+ww......\nLevel:\nOFT\nBelau\nBricks:\n..........g...\n.........g....\n..........g...\n.........g....\n........g.g...\n.........gc...\n........g.g...\n.........g....\n........g.g...\n.........g....\n........g.....\n......h.......\n......h.......\n.....g........\n......g.......\n..............\n...g.g........\n.....g........\nBonus:\n..........!...\n.........W....\n..........{...\n.........d....\n........-.>...\n.........c5...\n........f.~...\n.........*....\n........m.m...\n.........&....\n........b.....\n......}.......\n......s.......\n.....<........\n......+.......\n..............\n...w.+........\n.....w........\nLevel:\nOFT\nKuki 'Airani\nBricks:\n..........g...\n.......g..g...\n....d...j.....\n....g.........\n.....d........\n......g.......\n......d.......\n..............\n......g.......\n......g.......\n.......j......\n.......g......\n........g.....\n.........g....\n..........g...\n.......g.j....\n.......c..g...\n.......g.g....\nBonus:\n..........!...\n.......W..{...\n....d...>.....\n....-.........\n.....c........\n......~.......\n......f.......\n..............\n......m.......\n......*.......\n.......m......\n.......&......\n........b.....\n.........}....\n..........s...\n.......<.+....\n.......5..+...\n.......w.w....\nLevel:\nOFT\nTonga\nBricks:\n.......d...d..\n...........d..\n.........d....\n..........d...\n..............\n..........d...\n.........d....\n........d.....\n.........d....\n........dd....\n........dd....\n.........d....\n........d..d..\n........c.....\n........dd....\n......d.......\n...d..........\n..d...........\nBonus:\n.......W...!..\n...........{..\n.........d....\n..........>...\n..............\n..........-...\n.........c....\n........~.....\n.........f....\n........*m....\n........m&....\n.........b....\n........s..}..\n........5.....\n........+<....\n......+.......\n...w..........\n..w...........\nLevel:\nOFT\nTuvalu\nBricks:\n...dg.........\n...dg.d.......\n......g.......\n....g.........\n....d.........\n......g.gh....\n......g.gh....\n..............\n.......g......\n.......g.g....\n.........c....\n.........h....\n..............\n..........g...\n..........g...\n..............\n..............\n.........g....\nBonus:\n...W!.........\n...d>.{.......\n......-.......\n....c.........\n....~.........\n......m.*f....\n......b.&m....\n..............\n.......}......\n.......s.<....\n.........5....\n.........+....\n..............\n..........+...\n..........w...\n..............\n..............\n.........w....\nLevel:\nOFT\nVanuatu\nBricks:\n.....d........\n......d.......\n......d.......\n.......d......\n.....k.d......\n.....khd......\n.....h.d......\n......kk......\n......kh......\n.......k......\n..............\n.......c......\n........f.....\n........f.....\n..............\n........f.....\n........f.....\n.........f....\nBonus:\n.....!........\n......W.......\n......{.......\n.......d......\n.....-.>......\n.....f~c......\n.....m.*......\n......bm......\n......}&......\n.......s......\n..............\n.......5......\n........<.....\n........+.....\n..............\n........+.....\n........w.....\n.........w....\nLevel:\nOFT\nKiribati\nBricks:\n..........d...\n..d........d..\n..c.........d.\nd.dd..........\n..d....h......\n...d..h.h.....\n.....j.j.j....\n......g.g...g.\n...........j..\n..............\n.............j\n............g.\n.............g\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n..W........!..\n..5.........{.\nd.->..........\n..~....c......\n...m..*.f.....\n.....b.&.m....\n......s.<...}.\n...........+..\n..............\n.............+\n............w.\n.............w\n..............\n..............\n..............\n..............\n..............\nLevel:\nOFT\nNew Zealand\nBricks:\n..........g...\n..............\n.......g..g...\n.......dg.....\n........g.....\n........gg....\n........gd....\n........d.....\n.......dc.....\n.......g......\n......gg......\n......gg..g...\n.....gg.......\n.....gg.......\n.........d....\n.....g........\n....g.g..g....\n.....g........\nBonus:\n..........2...\n..............\n..........2...\n.......2......\n..............\n.........!....\n........W{....\n........d.....\n.......>5.....\n.......-......\n......~c......\n......f*..m...\n.....m&.......\n.....b}.......\n.........s....\n.....<........\n....+.w..+....\n.....w........\nLevel:\nOFT\nMicronesia\nBricks:\n.g..........g.\ngg..g.........\ngg.g.gjggg....\n...g.gj..g....\n...g..g.g..gc.\n........g.g.g.\n........gj...g\n.........g....\n..............\n..............\n.........g....\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nBonus:\n............2.\n..............\nWd...>{!......\n...-.f~..c....\n...m..b.*..m5.\n........s.}.&.\n........+<...+\n.........w....\n..............\n..............\n.........w....\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nOFT\nAelon in Majel\nBricks:\n........g.....\n..........g...\n..............\n..j..g.g..g...\n......gg.g....\n.........ee...\n.g...g...e....\n..........j...\n.....gge..j...\n.......e...g..\n........j..g..\n.........g....\n........g..cg.\n..............\n.........g..g.\n.......g.g....\n..............\n........g.....\nBonus:\n..............\n..........2...\n..............\n..2.......2...\n.......2......\n..........!...\n.W...d...{....\n..........>...\n.....-f~..c...\n.......m...m..\n........*..&..\n.........b....\n........s..5}.\n..............\n.........<..+.\n.......w.+....\n..............\n........w.....\nLevel:\nOFT\nSolomon Islands\nBricks:\n....g.........\n..............\ng.............\nggj...........\ng.jg..g.......\n.g.gg.........\n.jg.g.g.h.....\n..g...hh......\n...g.c.f......\n.....hf.....f.\n.......f..ff..\n.......ff.f...\n.....f.....f..\n......f.....f.\n.............f\n..............\n..............\n..............\nBonus:\n..............\n..............\n..............\n2.2...........\n...2..........\n..............\n.W..!.........\n..d...>{......\n...-.5.c......\n.....fm.....~.\n.......*..m&..\n.......bs.}...\n.....+.....<..\n......w.....+.\n.............w\n..............\n..............\n..............\nLevel:\nOFT\nViti\nBricks:\n..g...........\n.......g......\n.........g....\n...d..gg..g...\n..d..dg..d....\n.....g.g..d...\n..d.....ded...\n....g..g.j....\n...dgdg..f.g..\n...ggc.g.dd...\n....g......g..\n.......g..j...\n....gg..j..g..\n....g..g......\n...........g..\n.........gg...\n.........g....\n.g............\nBonus:\n..2...........\n.......2......\n..............\n...2...2......\n..2...2.......\n.....2.2......\n..2.....2.2...\n.........2....\n......!.......\n...Wd5.-.>{...\n....~......c..\n.......*..f...\n....mb..&..m..\n....s..}......\n...........<..\n.........++...\n.........w....\n.w............\nLevel:\nOFT\nSamoa\nBricks:\n....g.........\n..gjg.........\nggjgjg........\ngggggg........\n.gggjgg.......\n..gjggg.......\n..gggg........\n..d..d...d....\n.......dddc...\n.......ddddd..\n........ddddd.\n........dddddd\n..........dddd\n..............\n..............\n..............\n..............\n..............\nBonus:\n....2.........\n...2..........\n2.2.2.........\n.2.2.2........\n..2.2.2.......\n...2.2........\n..2.2.........\n.....2...2....\n.......!..5...\n.......Wd->{..\n........m*f~c.\n........bs<}&m\n..........ww++\n..............\n..............\n..............\n..............\n..............\nLevel:\nOFT\nAustralia\nBricks:\n..g.g..g.g....\n.d.d..gg.g....\n.....gggggj...\n.....gggggg.g.\n....dddgggg...\n...ddddgggg...\n...ddggggggg..\n...dgdggjggg..\n...dggdggggg.g\n...ggggggggj..\n....gg.ggggg.g\n....g...ggc...\n.........gg...\n..............\n..........j...\n..........g...\n..............\ngg........g...\nBonus:\n.......2.2....\n......2.......\n.....2.2.2....\n......2.2.2.2.\n.....2.2.2....\n....2.2.2.2...\n...2.2.2.2.2..\n....2.2.2.2...\n.........2.2.2\n...W..{!......\n....dm.*-f~c.>\n....b...&m5...\n.........s}...\n..............\n..........<...\n..........+...\n..............\n+w........w...\nLevel:\nOFT\nPapua Niugini\nBricks:\n........d.....\n.....dd.......\n.k......dh.d..\n.kk.......d...\n.kkk.d....hd..\n.kkkk...h.hd..\n.kkjk.d..hh.d.\n.kkjkk.ddhh.d.\n.kkkkkk.dd..dd\nkjkkkjk......d\n.jkkkj........\n.kkkkkk.......\n.kkk.kkk.k....\n.kk...kk..kd..\n......ckkk....\n.......kk.k...\n........kk....\n...........kk.\nBonus:\n........2.....\n.....2........\n........2.....\n.2............\n..2.......2...\n.2.2.......2..\n..2.2.2...2.2.\n.2.2.2.2.2....\n..2.2.2.2...2.\n.2.2.2.......2\n..2.2.........\n..............\n.Wd>.{...!....\n.m*...-f..~c..\n......5bm&....\n.......s<.}...\n........++....\n...........ww.\nLevel:\nOFT\nNiue\nBricks:\n......dhh.....\n.....jjhhh....\n.....dghhh....\n.....jghhh....\n....hhdhhh....\n....djghhh....\n....ddghhhh...\n....hjjhhhh...\n....dgdhhhh...\n....chhhhhh...\n...hhhhhhhh...\n...hhhhhhhh...\n....hhhhhh....\n....hhhhhh....\n.....hhhh.....\n....hhhhh.....\n....hhhh......\n......h.......\nBonus:\n.......2......\n......2.2.....\n.....2.2.2....\n......2.2.....\n.....2.2.2....\n....2.2.2.....\n.....2.2.2....\n....2.2.2.2...\n.....2.2.2....\n....5.2.2.2...\n...2.2.2.2....\n....2.2.......\n.........!....\n....Wd-c>{....\n.....f~*m.....\n....bsm}&.....\n....++<w......\n......w.......\nLevel:\nOFT\nAntarctica\nBricks:\n...j...jj.....\n.j....jjjj....\n..j...jjjjjj..\n..j...jjjjjj..\n..jj.jjjjjjj..\n...jjjjjjjjj..\n...jjjjjjjjj..\n....jjjjjjjjj.\n.j.jjjjkjjjjj.\n...jjjjjjjjjj.\n....jjjjjjjjj.\n....jjjjjjjj..\n....jjjjjjjj..\n.....jjjjjjj..\n........jjjj..\n........jjj...\n........jjj...\n......jj......\nBonus:\n...2...2......\n......2.2.....\n.......2.2.2..\n..2...2.2.2...\n...2.2.2.2.2..\n....2.2.2.2...\n...2.2.2.2.2..\n....2.2.2.2.2.\n.2.2.2.2.2.2..\n....2.2.2.2.2.\n.....2.2.2.2..\n........2.2...\n....W!........\n.....d-f~c>{..\n........m*m&..\n........bs}...\n........++<...\n......ww......\nLevel:\nOFT\nNaoero\nBricks:\n.......ggg....\n......ggggg...\n......ggggg...\n.....ggggggg..\n.....ggggggg..\n....gggggggg..\n....gggggggg..\n...ggggggggg..\n...hhhhhhhh...\n...hhhhhhhh...\n...gggggggg...\n...gggggggg...\n...ggjggggg...\n...ggjggggg...\n...gggggggg...\n....gcgggg....\n.....ggggg....\n......ggg.....\nBonus:\n........2.....\n.......2.2....\n......2.2.2...\n.....2.2.2.2..\n......2.2.2...\n.....2.2.2.2..\n....2.2.2.2...\n...2.2.2.2.2..\n....2.2.2.2...\n...2.2.2.2....\n....2.2.2.2...\n...2.2.2.2....\n....2.2.2.2...\n..............\n...Wd-~c>{!...\n....b5m*fm....\n.....+s<}&....\n......ww+.....\nLevel:\nOFT\nEND\nBricks:\n.###.###.###..\n.#.#.#...#....\n.#.#.#...##...\n.#.#.#...#....\n.###.###.###..\n..............\n@@@.@..@.@.@@@\n@.@.@@.@.@.@.@\n@@@.@@@@.@.@@@\n@.@.@.@@.@.@.@\n@.@.@..@.@.@.@\n..............\n..............\n.EEE.E..E.EE..\n.E...EE.E.E.E.\n.EE..EEEE.E.E.\n.E...E.EE.E.E.\n.EEE.E..E.EE..\nBonus:\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 0,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 0,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 13,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 0,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 9,
+      "col": 13,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 0,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 10,
+      "col": 13,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 15,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 15,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 16,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 17,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 17,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 17,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 17,
+      "col": 7,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 17,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    }
+  ]
+}

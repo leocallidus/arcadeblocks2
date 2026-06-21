@@ -1,0 +1,758 @@
+{
+  "name_ru": "Преддверие Вечности",
+  "description_ru": "Символ бесконечности пульсирует. Держите баланс сторон!",
+  "name_us": "Threshold of Eternity",
+  "description": "Infinity symbol pulses. Maintain the balance of sides!",
+  "layout": {
+    "brickColumns": 16,
+    "brickRows": 11,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 2,
+    "startY": 76
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 0,
+      "col": 10,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 0,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 0,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 10,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 1,
+      "col": 13,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 13,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 2,
+      "col": 14,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 3,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 3,
+      "col": 13,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 3,
+      "col": 14,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 4,
+      "col": 13,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "light_gray",
+      "health": 42,
+      "points": 2148
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "explosive",
+      "health": 1,
+      "points": 1854
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "explosive",
+      "health": 1,
+      "points": 1854
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "light_gray",
+      "health": 42,
+      "points": 2148
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 7,
+      "col": 14,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 13,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 8,
+      "col": 14,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 9,
+      "col": 13,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "color": "purple",
+      "health": 39,
+      "points": 2036
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "name": "Уровень 1014: Сердце",
+  "description": "Разбитое сердце.",
+  "layout": {
+    "brickColumns": 16,
+    "brickRows": 12,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 60
+  },
+  "bricks": [
+    {
+      "row": 3,
+      "col": 4,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 3,
+      "col": 12,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 500
+    }
+  ]
+}

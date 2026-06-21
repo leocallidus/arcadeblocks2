@@ -1,0 +1,371 @@
+{
+  "name": "Уровень 1018: Кислотный дождь",
+  "description": "Капли падают сверху.",
+  "layout": {
+    "brickColumns": 16,
+    "brickRows": 12,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 60
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 0,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 10,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 11,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 12,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 13,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 13,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 14,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 14,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 0,
+      "col": 15,
+      "color": "light_gray",
+      "health": 3,
+      "points": 50
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 12,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 14,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 13,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 14,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 14,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "color": "green",
+      "health": 1,
+      "points": 100
+    }
+  ]
+}

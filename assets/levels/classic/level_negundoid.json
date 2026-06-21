@@ -1,0 +1,602 @@
+{
+  "name": "Stage 01",
+  "description": "Original author: Rado Negundo\nLegacy Bonus Grid:\n..............\n..............\n..............\n..333..3.33...\n...2.3..3.....\n..............\n.....3+.-2....\n....1.........\n..2...0+.0....\n..++..........\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nRado Negundo\nStage 02\nBricks:\n..............\n..............\n..e...e...e...\n.e.e.e.e.e.e.e\ne...e...e...e.\n..i...i...i...\n.i.i.i.i.i.i.i\ni...i...i...i.\n..g...g...g...\n.g.g.g.g.g.g.g\ng...g...g...g.\n..h...h...h...\n.h.h.h.h.h.h.h\nh...h...h...h.\n..............\n..............\n..............\n..............\nBonus:\n..............\n..............\n..2...w...-...\n.2.w...0.0....\n2...3...w...3.\n..W...+.......\n...0..........\n....+...3.....\n..............\n...w.0.....-..\nW.......1...-.\n..0...w.......\n.......+......\n2...1...1.....\n..............\n..............\n..............\n..............\nLevel:\nRado Negundo\nStage 03\nBricks:\ncccccccccccccc\ncccccccccccccc\n..............\ngggggggggggggg\ngggggggggggggg\n..............\niiiiiiiiiiiiii\niiiiiiiiiiiiii\n..............\ndddddddddddddd\ndddddddddddddd\n..............\neeeeeeeeeeeeee\neeeeeeeeeeeeee\n..............\nhhhhhhhhhhhhhh\nhhhhhhhhhhhhhh\n..............\nBonus:\ns5?.......5.?.\ns...5<<.<....s\n..............\n....4......4..\n4.....?.4.....\n..............\n..3.s..3333.3.\n3..?.3<.......\n..............\n222.2..2.s22..\n2..2.2...2..2.\n..............\n....1.1.1.1...\n1.1.11..1.....\n..............\n00...0.0......\n...0.....0.0..\n..............\nLevel:\nRado Negundo\nStage 04\nBricks:\nvvvvvvvvvvvvvv\n..............\n..............\nccccEccccEcccc\nggggEbbbbEgggg\nggggEbbbbEgggg\nggggEbbbbEgggg\nggggEbbbbEgggg\nggggEbbbbEgggg\nggggEbbbbEgggg\nggggEbbbbEgggg\nggggEbbbbEgggg\nggggEbbbbEgggg\nccccEccccEcccc\n..............\n..............\n..............\n..............\nBonus:\n33333333333333\n..............\n..............\n..0...?0......\n0..........*10\n.2.s.2?s..?...\np.w...1.0..1..\n.....W.p..w.20\n.1p..>w....ps.\n001....1......\n.0.....10..0.0\n.0.w.......1..\n..2?..1......p\n..............\n..............\n..............\n..............\n..............\nLevel:\nRado Negundo\nStage 05\nBricks:\n@@@@@@@@@@@@@@\n..............\n.!!!!!!!!!!!!.\n.!!!!!!!!!!!!.\n..............\nffffffffffffff\nzffffffffffffz\n*@@vvvvvvvv@@*\ndddddddddddddd\ndccccccccccccd\ndddddddddddddd\ndddddddddddddd\n@@@@vvvvvv@@@@\n..............\n..............\n..............\n..............\n..............\nBonus:\n..............\n..............\n.3w20<0<-4w-5.\n.wccc5550-225.\n..............\n..23.+.-....2.\n0W<<c<0.4www.2\n2..?www?s>f..2\n+p..W.--....22\n..+++.0..+.+.0\nw.+..--.2..0..\n.0w3<c02.+.www\n....0.........\n..............\n..............\n..............\n..............\n..............\nLevel:\nRado Negundo\nStage 06\nBricks:\n@@@@@@@@@@@@@@\n..............\nxxxx@xxxxExxxx\nhhhh@bbbbEhhhh\nhhhh@bbbbEhhhh\nhhhh@bbbbEhhhh\nhhhh@bbbbEhhhh\nhhhh@bbbbEhhhh\nhhhh@bbbbEhhhh\nhhhh@bbbbEhhhh\nhhhh@bbbbEhhhh\nhhhh@bbbbEhhhh\nhhhh@bbbbEhhhh\nxxxx@xxxxExxxx\n..............\n..............\n..............\n..............\nBonus:\n..............\n..............\n-.+..ww2..-www\n.2......-..--p\n......1p+....-\n.+.+.?....?p2.\n1??-......?<..\nw.0<.<0p..?<1.\n..p<......0<.+\n-w<<..+.+..<+.\n.w.2.-?0...<<+\n.1....?....+0.\n..............\n..0..0.-..2...\n..............\n..............\n..............\n..............\nLevel:\nRado Negundo\nStage 07\nBricks:\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\n..............\n##############\n##############\n##############\n##############\n##############\n##############\n##############\n######a#######\n..............\n..............\n..............\n..............\n..............\nBonus:\nmmmmmmmmmmmmmm\nmmmmmmmmmmmmmm\nmmmmmmmmmmmmmm\nmmmmmmmmmmmmmm\n..............\n3..3...3...333\n...3.3...3....\n..3..........3\n3.33..33...3..\n.....33.33...3\n..3.......3...\n3.......3...3.\n33..3.m...3...\n..............\n..............\n..............\n..............\n..............\nLevel:\nRado Negundo\nStage 08\nBricks:\n..............\n..............\n..EvvvvvvvvE..\n..EEvvvvvvEE..\n..EEEvvvvEEE..\n..EccccccccE..\n..EcbbbbbbcE..\n..EcbaaaabcE..\n..Ecba!!abcE..\n..EcbaaaabcE..\n..EcbbbbbbcE..\n..EccccccccE..\n..EEEvvvvEEE..\n..EEvvvvvvEE..\n..EvvvvvvvvE..\n..............\n..............\n..............\nBonus:\n..............\n..............\n....0...0.....\n.....0+0.0....\n..............\n...l...+..-...\n...-+0w..3p...\n...3.3..0.l...\n...pp.5+.0+...\n....0....33...\n.....03.0.....\n....-..3..0...\n..............\n....0..0.0....\n......0.0.....\n..............\n..............\n..............\nLevel:\nRado Negundo\nStage 09\nBricks:\nE@@@@@@@@@@@@E\nExxvxxxxvxxxxE\nEvxvxxvxxx*xxE\nEx**vxxvvxxxvE\nE*yyyy*yyvyyyE\nE*y**yyyyvyvyE\nEyy***yvyyyvyE\nEyyyyy*yy*yyyE\nEyy*yvv*vv*yvE\nE*y*yvvzzzz*zE\nE*vvvzzzz**zzE\nE*vzz*z*zz*vzE\nEzv*****zzzzzE\nEvzzzzz*vz*zvE\nEz**z*z*zzzzzE\nEvzzzz*zvvzvzE\nEzvzzvzzzzzzzE\nE####vvv#####E\nBonus:\n..............\n.pppppppppppp.\n.4m22??.2mmmm.\n.2mm4....mmpm.\n.m.m.1.?2...m.\n.mmm...4...m..\n.221.2....p2..\n.p.......m.mm.\n..?w4.2w....l.\n........p...2.\n..pp.24ww2....\n....?.....w...\n.w1..p.w1...2.\n....1.2....1..\n....2....p....\n..w...p.......\n....1w.w...p..\n.....www......\nLevel:\nRado Negundo\nBONUS STAGE\nBricks:\nEEEEEEEEEEEEEE\niii.iii.ii..i.\ni.i.i.i.i.i.i.\nii..i.i.i.i.i.\ni.i.i.i.i.i.i.\ni.i.i.i.i.i.i.\niii.iii.i..ii.\n..............\ni.i.iii.i.i.i.\ni.i.i...i.i.i.\ni.i.iii.i.i.i.\ni.i...i.......\niii.iii.i.i.i.\n..............\nhhhhhhhhhhhhhh\nhhhhhhhhhhhhhh\nhhhhhhhhhhhhhh\nhhhhhhhhhhhhhh\nBonus:\n..............\n555.555.55..5.\n5.5.5.5.5.5.5.\n55..5.5.5.5.5.\n5.5.5.5.5.5.5.\n5.5.5.5.5.5.5.\n555.555.5..55.\n..............\n4.4.444.4.4.4.\n4.4.4...4.4.4.\n4.4.444.4.4.4.\n4.4...4.......\n444.444.l.l.l.\n..............\n33333333333333\n33333333333333\n33333333333333\nwwwww+ss+wwwww\nLevel:\nRado Negundo\nStage 11\nBricks:\nvvvvvvvvvvvvvv\n..............\n......vv...v..\nv...v........v\n..v...........\n.v.....v...v..\n.....v........\n.........v....\n...v..........\n......v.......\n.v....v...v...\n.....v.......v\n...v...v......\n..............\n............v.\n.v......v.....\n...........v..\nv...v.....v...\nBonus:\n??????????????\n..............\n......??...?..\n?...?........?\n..?...........\n.?.....?...?..\n.....?........\n.........?....\n...?..........\n......?.......\n.?....?...?...\n.....?.......?\n...2...2......\n..............\n............2.\n.2......2.....\n...........2..\n2...2.....2...\nLevel:\nRado Negundo\nStage 12\nBricks:\nvv**vv**vv**vv\nvv**vv**vv**vv\nvddvvddvvddvvd\nvddvvddvvddvvd\niivviivviivvii\niivviivviivvii\nevveevveevveev\nevveevveevveev\nvvffvvffvvffvv\nvvffvvffvvffvv\nvggvvggvvggvvg\nvggvvggvvggvvg\nhhvvhhvvhhvvhh\nhhvvhhvvhhvvhh\nvvvvvvvvvvvvvv\nvvvvvvvvvvvvvv\n..............\n..............\nBonus:\n-2.-?4.1?51.1.\n??..5.?.?p....\n22.4......?.?4\n2p..+11.4...5?\n..?..?-.?.2.??\n.......2..4..5\n2.+.415.......\n.?......0.??+.\n?.21....????.4\n44...+....???.\n.2p.1....3..1.\n...4..0.?..4.4\n2?..?..-3+....\n...1.3........\n0w2w2w0wwww0ww\nww3w3ww3w00000\n..............\n..............\nLevel:\nRado Negundo\nStage 13\nBricks:\n!.!.!.!.!.!.!.\n.!.!.!.!.!.!.!\n..............\nj.j.j.j.j.j.j.\n.j.j.j.j.j.j.j\nj.j.j.j.j.j.j.\n..............\n.k.k.k.k.k.k.k\nk.k.k.k.k.k.k.\n.k.k.k.k.k.k.k\n..............\nv.v.v.v.v.v.v.\n.v.v.v.v.v.v.v\nv.v.v.v.v.v.v.\n.v.v.v.v.v.v.v\nv.v.v.v.v.v.v.\n.v.v.v.v.v.v.v\nv.v.v.v.v.v.v.\nBonus:\n?...?.4.4.3...\n.2.5.0.2...5..\n..............\n2.*...5...j...\n.5.0.3.4.5.3.5\n-.-...?.4.....\n..............\n.2.-.+.{...j.3\n2.5.3.+.1.3.5.\n.?.-.0.1.4....\n..............\n?.5.3.+.4.!...\n.2.}.+.-.!.j..\n2...........4.\n.?.0...+.1.!..\n..2.1.3.4.<.1.\n.0.?.......<..\n?.5.5.........\nLevel:\nRado Negundo\nStage 14\nBricks:\nEEEEEEEEEEEEEE\n..............\n..............\n..............\n...vvvvvvvv...\n...vzzzzzzv...\n...vziaaizv...\n...vz@aa@zv...\n...vz@@@@zv...\n...vzzzzzzv...\n...vvzzzzvv...\n....vzzzzv....\n....vzzzzv....\n....vzhzhv....\n....vhzhzv....\n....vzzzzv....\n....vvvvvv....\n..............\nBonus:\n..............\n..............\n..............\n..............\n...????????...\n...?333333?...\n...?3p00p3?...\n...?350053?...\n...?355553?...\n...?333333?...\n...??3333??...\n....?W33W?....\n....?3WW3?....\n....?3131?....\n....?1313?....\n....?3333?....\n....??????....\n..............\nLevel:\nRado Negundo\nStage 15\nBricks:\ngggggEaaaaaaaa\ngggggEaaaaaaaa\ngggggEaaaaaaaa\ngggggEaaaaaaaa\ngggggEaaaaaaaa\ngggggcaaaaaaaa\ngggggcaaaaaaaa\ngggggcaaaaaaaa\ngggggcaaaaaaaa\ngggggEaaaaaaaa\ngggggEaaaaaaaa\ngggggEaaaaaaaa\ngggggEaaaaaaaa\nEEEEEEEEEE....\n..............\n..............\n..............\n..............\nBonus:\n?????.????????\n02.00.?......?\n?...?.?.0.?.0?\n?...?.?...?..?\n??.??.?.?....?\n?...???.?.0..?\n3.0.???......?\n?...???0.0.?0?\n?..0???.?.?..?\n?0..?.?......?\n?023?.?..?.?.?\n?...?.?0.....?\n?????.????????\n..............\n..............\n..............\n..............\n..............\nLevel:\nRado Negundo\nStage 16\nBricks:\nv............v\n....*****.....\n...**ggg**....\n...*g**gg*....\n...*g**ggg*...\n...*gggggg*...\n...*gggggg**..\n...*ggggggg*..\n...*g***ggg*..\n...*g*gggg**..\n....**gg***...\n.....****.....\n.....****.....\n.....****.....\n..............\n..............\nv............v\n@@@@@vvvv@@@@@\nBonus:\n5............5\n....?????.....\n...??-+l??....\n...?f??ss?....\n...?f??~~~?...\n...?555555?...\n...?555555??..\n...?5????5f?..\n...?<???fff?..\n...?<?<<<<??..\n....??<<???...\n.....????.....\n.....????.....\n.....????.....\n..............\n..............\n5............5\n.....wwww.....\nLevel:\nRado Negundo\nStage 17\nBricks:\nEEEEEEEEEEEEEE\n..............\n.!..!..!..!..!\n..............\n..............\n.!..!..!..!..!\n..............\n..............\n.!..!..!..!..!\n..............\n..............\n.!..!..!..!..!\n..............\n..............\n.!..!..!..!..!\n..............\n..............\n.!..!..!..!..!\nBonus:\n..............\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\nLevel:\nRado Negundo\nStage 18\nBricks:\n..............\n.@....@.....@.\n@i@..@j@...@f@\n..............\n..............\n..............\n..............\n..............\n@g@..@e@...@a@\n.@....@.....@.\n..............\n..............\n..............\n@d@..@k@...@h@\n.@....@.....@.\n..............\n..............\n..............\nBonus:\n..............\n..............\n.?....?.....?.\n..............\n..............\n..............\n..............\n..............\n.4....4.....4.\n..............\n..............\n..............\n..............\n.2....2.....2.\n..............\n..............\n..............\n..............\nLevel:\nRado Negundo\nStage 19\nBricks:\nEEEEEEEEEEEEEE\nzEEEEEEEEEEEEE\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\nEEEEEEEEEEEEvv\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\nvvEEEEEEEEEEEE\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\nEEEEEEEEEEEEvv\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\naaaaaaaaaaaaaa\nvvEEEEEEEEEEEE\nBonus:\n..............\nl.............\nww????ww????ww\nww?ll?ww?ll?ww\nww????ww????ww\n............ww\nwwbbbbwwbbbbww\nwwbbbbwwbbbbww\nwwbbbbwwbbbbww\nww............\nwwbbbbwwbbbbww\nwwbbbbwwbbbbww\nwwbbbbwwbbbbww\n............ww\nwwbbbbwwbbbbww\nwwbbbbwwbbbbww\nwwbbbbwwbbbbww\nww............\nLevel:\nRado Negundo\nBONUS STAGE\nBricks:\nvvvvvvvvvvvvvv\nvvvvvvvvvvvvvv\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\niiiiiiiiiiiiii\niiiiiiiiiiiiii\niiiiiiiiiiiiii\neeeeeeeeeeeeee\neeeeeeeeeeeeee\neeeeeeeeeeeeee\nffffffffffffff\nffffffffffffff\njjjjjjjjjjjjjj\ngggggggggggggg\nkkkkkkkkkkkkkk\nBonus:\n55555555555555\n55555555555555\n44444444444444\n44444444444444\n44444444444444\n44444444444444\n44444444444444\n33333333333333\n33333333333333\n33333333333333\n22222222222222\n22222222222222\n22222222222222\n11111111111111\n11111111111111\nbbbbbbbbbbbbbb\nmmmmmmmmmmmmmm\nwwwwwwwwwwwwww\nLevel:\nRado Negundo\nStage PRO\nBricks:\nvvvvvv......vE\nvvvvvv.......E\nEEEEEE.EEEEE.E\n.vvvvvvvvv.E.E\n.vvvvvvvvv.E.E\n.EEEEEEEEE.E.E\n.EvvvvvvvE.E.E\n.E.EEvEE.E.E.E\n.E.EvvvE.E.E.E\n.E.EvvvE.E.E.E\n...EvgvE...E.E\nEEEEEEEEEEEE.E\n........v....E\n........v....E\nvEEEEEEEEEEEEE\n..............\n..............\n..............\nBonus:\n******......*.\n******........\n..............\n.*********....\n.*********....\n..............\n..*******.....\n.....*........\n....***.......\n....***.......\n....*5*.......\n..............\n........*.....\n........*.....\n*.............\n..............\n..............\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 0,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 12,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 0,
+      "col": 13,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "cyan",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "color": "orange",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "name": "Beginnings",
+  "description": "Original author: Morosoph\nLegacy Bonus Grid:\n..............\n..............\n..b..m..*..b..\n..w..l..p..w..\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..?..?..?..?..\n..............\n..............\nLevel:\nMorosoph\nHidden Danger\nBricks:\n..*..*..*..*..\n..............\nyyyyyyyyyyyyyy\nyxxxxxxxxxxxxy\n..............\nv.v...v..v.v..\n....v..v......\n..@..@..@..@.v\n.v.v..v..v..v.\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nvvvvvvvvvvvvvv\nBonus:\n..5..*..m..4..\n..............\n..?.?.jj.?.?..\n.f.+.f>>f.+.f.\n..............\nc.p...c..c.p..\n....c..c......\n.............c\n.c.c..c..c..c.\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n}{f}{!}{!}{f}{\nLevel:\nMorosoph\nThe Blues\nBricks:\n..............\n.c..........c.\n.c.vvvvvvvv.c.\n.c..........c.\n.c..........c.\n.c.EEEEEEEE.c.\n.c..........c.\n.c..x....x..c.\n.c..........c.\n.c.E@#..#@E.c.\n..............\nEEEE.EEEE.EEEE\n..............\n.!!!.vvvv.!!!.\n.!*!.vvvv.!*!.\n.!!!.vvvv.!!!.\n..............\nyyyyyyyyyyyyyy\nBonus:\n..............\n.m..........m.\n...34544543...\n..............\n..............\n..............\n..............\n....m....m....\n..............\n...clc..clc...\n..............\n..............\n..............\n..............\n..p...**...p..\n..............\n..............\n..w...>>...w..\nLevel:\nMorosoph\nPatience\nBricks:\nz.z.E.vv.E.z.z\nz.z.@....@.z.z\nzazaEaccaEazaz\nzazaEaccaEazaz\nzazaEaccaEazaz\nzazaEaccaEazaz\nzazaEaccaEazaz\nzazaEaccaEazaz\nzazaEaccaEazaz\nzazaEaccaEazaz\nzazaEaccaEazaz\nzazaEaccaEazaz\nEaEaEa@@aEaEaE\n..............\n..............\n..............\n..............\n..............\nBonus:\np.m...**...m.p\n....l....l....\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nMorosoph\nGreen is Good\nBricks:\n......@@......\nxxxxx.EE.xxxxx\nxyyyx.EE.xyyyx\nxyzyx.EE.xyzyx\nxyyyx.EE.xyyyx\nxxxxx.EE.xxxxx\n......##......\n......##......\n@@EEE.##.EEE@@\n..v........v..\n..v........v..\n.EEE@@@@@@EEE.\n..............\n*****.**.*****\n*...*.**.*...*\n*.d.*.**.*.d.*\n*...*.**.*...*\n*****.**.*****\nBonus:\n......ll......\nb...g....g...b\n.}.+......+.}.\n..m........m..\n.+.}......}.+.\nj...?....?...j\n..............\n......ww......\ncc..........cc\n..&........&..\n..f........f..\n....cccccc....\n..............\n{{{{{.W~.{{{{{\n{...{.{{.{...{\n{.~.{.{{.{.W.{\n{...{.{{.{...{\n{{{{{.{{.{{{{{\nLevel:\nMorosoph\nRed and Green\nBricks:\n......xx......\n.@....yy....@.\n..y.@.xx.@.y..\n......yy......\n..@.E.xx.E.@..\n..............\nxEEE.@@@@.EEEx\n....v....v....\n#@@@.EEEE.@@@#\n..............\n..............\n.x.x.x..x.x.x.\n..............\n.@.@.@..@.@.@.\n..............\ny.y.y.yy.y.y.y\n..............\n..v..v..v..v..\nBonus:\n..............\n..............\n..l........l..\n..............\n..............\n..............\n..............\n....m....m....\n..............\n..............\n..............\n...+......+...\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nMorosoph\nSpiral Carpet\nBricks:\nzzzzzzzzzzzzzz\nzv..........vz\nz............z\nz.zzzzzzzzzz.z\nz.zv......vz.z\nz.z........z.z\nz.z.zzzzzz.z.z\nz.z.z....z.z.z\nz.z.z.**.z.z.z\nz.z.b.**.z.z.z\nz.z......z.z.z\nz.zzzzzzzz.z.z\nz..........z.z\nzv........vz.z\nzzzzzzzzzzzz.z\n.............z\n............vz\nvzzzzzzzzzzzzz\nBonus:\nlddddddddddddm\ndf..........wd\nd............d\nd.cddddddddc.d\nd.dw......fd.d\nd.d........d.d\nd.d.cddddc.d.d\nd.d.d....d.d.d\nd.d.d.*>.d.d.d\nd.d.f.>*.d.d.d\nd.d......d.d.d\nd.cddddddc.d.d\nd..........d.d\ndf........wd.d\ncddddddddddc.d\n.............d\n............fd\nwddddddddddddc\nLevel:\nMorosoph\nBlind Man's Bluff\nBricks:\nv...@..v.Ev..v\n..v...........\n@....v.......@\nv......v.v.v..\n...vE....@....\n.............v\nEv...v..v.v..E\n..............\n...v@..v.E..v.\nv........v....\n@....v.......@\n..v.....v.v...\n....E....@..v.\n.....v........\nEv.v...v..v..E\n.............v\n....@....E....\nv.v...v..v.v..\nBonus:\nm...b..d..d..m\n..c...........\n&....-.......&\n>......c.>.{..\n...d.....w....\n.............>\n.~...>..-.>...\n..............\n...-l..{....d.\n~........~....\n&....-.......&\n..{.....d.~...\n.........p..c.\n.....~........\n.d.c...d..c...\n.............c\n....b.........\n{.c...{..c.~..\nLevel:\nMorosoph\nSecurity by Obscurity\nBricks:\n.....z..z.....\n...@......@...\n..E........E..\nv..@.E..E.@..v\n..E........E..\n...@......@...\n..E..E..E..E..\nv..@......@..v\n..E........E..\n...@.E..E.@...\n..E........E..\nv..@......@..v\n..E..@..@..E..\n.@.v......v.@.\n..@.@....@.@..\n.E!E.@..@.E!E.\nE............E\n..............\nBonus:\n.....m..m.....\n..............\n..............\n&............&\n..............\n..............\n..............\nw............w\n..............\n..............\n..............\nl............l\n..............\n...b......b...\n..............\n..............\n..............\n..............\nLevel:\nMorosoph\nMonkey Traps\nBricks:\n......EE......\n..@........@..\n.v.E!E..E!E.v.\n.#..E.vv.E..#.\n.....@..@.....\n......EE......\n..E.E....E.E..\n.E...E..E...E.\n.E.v.E..E.v.E.\n..E!E....E!E..\n.E.E.E..E.E.E.\n..............\n..............\n..@.@....@.@..\n.@...@..@...@.\n.@.v.@..@.v.@.\n..@!@....@!@..\n.@.@.@..@.@.@.\nBonus:\n..............\n..............\n.4..........4.\n...f.fllf.f...\n..............\n..............\n..............\n..............\n...m......m...\n..............\n..f.f....f.f..\n..............\n..............\n..............\n..............\n...*......*...\n..............\n..f.f....f.f..\nLevel:\nMorosoph\nRed Curse\nBricks:\n*............*\n*.!..!..!..!.*\n*............*\n**************\n..............\nbbbbbb..bbbbbb\n..............\n@EcE@EccE@EcE@\n..............\nvEEE.EEEE.EEEv\n..............\n**************\n..............\n@.@.@.@.@.@.@.\n.!.!.!.!.!.!.!\n.@.@.@.@.@.@.@\n..............\n**************\nBonus:\n-W-fW-fW-fW-f-\n*.?..?..?..?.*\n>f>Wf>Wf>Wf>W>\n{{{{{{{{{{{{{{\n..............\nW>->W-..-W>->W\n..............\n..m...ll...m..\n..............\nm............m\n..............\n{{{{{{{{{{{{{{\n..............\n.~w~.~.~w~.~.~\nW>W>W>W>W>W>W>\nf.f.fwf.f.fwf.\n..............\n{{{{{{{{{{{{{{\nLevel:\nMorosoph\nRed or Dead\nBricks:\ndddddddddddddd\n..............\n.*.*.*..*.*.*.\n.*.*.*..*.*.*.\n..............\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\n..............\n*.*.*.**.*.*.*\n*.*.*.**.*.*.*\n..............\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\ndddddddddddddd\nBonus:\nWWWWWWWWWWWWWW\n..............\n.*.*.*..*.*.*.\n.*.*.*..*.*.*.\n..............\ncccccccccccccc\n~~~~~~~~~~~~~~\n--------------\n{{{{{{{{{{{{{{\n..............\n*.*.*.**.*.*.*\n*.*.*.**.*.*.*\n..............\n>>>>>>>>>>>>>>\ncccccccccccccc\n--------------\n{{{{{{{{{{{{{{\n..............\nLevel:\nMorosoph\nHornets' Nest\nBricks:\n.b*bb*bb*bb*b.\n.@###@##@###@.\n.*...*...*...*\n*.*@*.*@*.*@*.\n.@.*.@.*.@.*.@\n*.*@*.*@*.*@*.\n.*...*...*...*\n..............\n@.*.@.*.@.*.@.\n.*@*.*@*.*@*.*\n@.*.@.*.@.*.@.\n.*.*.*.*.*.*.*\n....*...*...*.\n.*.@...@...@..\n*@*.*@*.*@*.*@\n.*.@.*.@.*.@.*\n*.*.*.*.*.*.*.\n...*...*...*..\nBonus:\n...ml....lm...\n..............\n.>...c...-...>\nW.{c*.>.{.Wc*.\n...-...*...{..\n{.>.W.-c>.c.>.\n.c...{...W...{\n..............\nc.-...c...W.c.\n.{c*.W.{.-.*.m\n..>.....c.>...\n...{.c.*.{...{\n....-...-...W.\n.{.c.......c..\nc.W.{.>.W.{.>.\n.-...-.c.>...{\n..{.W.{.-.W.c.\n...>.......{..\nLevel:\nMorosoph\nHot and Cold\nBricks:\n@@@@@@@@@@@@@@\nvvvvvvvvvvvvvv\n..............\naaaaaaaaaaaaaa\nvvvvvvvvvvvvvv\n..............\n@.*..*..*..*.@\n..............\nvvvvvvvvvvvvvv\nxxxxxxxxxxxxxx\nvvvvvvvvvvvvvv\n@.E..E..E..E.@\n..............\nEE..@@@@@@..EE\n..............\nvvvvvvvvvvvvvv\n@.*..*..*..*.@\nvvvvvvvvvvvvvv\nBonus:\n{{{{{{{{{{{{{{\nffffffffffffff\n..............\n!!!!!!!!!!!!!!\nffffffffffffff\n..............\nl.*..*..*..*.l\n..............\nffmffwffwffmff\n..............\nffwffmffmffwff\nl............l\n..............\n....{{{{{{....\n..............\nffffffffffffff\n*.*..*..*..*.*\nW.f..f..f..f.W\nLevel:\nMorosoph\nSnowed Under\nBricks:\n.!.!.!.!.!.!.!\n!v!v!v!v!v!v!v\n.!.!.!.!.!.!.!\n..............\n@.@.@.@.@.@.@.\n..............\n.@.@.@.@.@.@.@\n..............\ncccccccccccccc\n..............\nE.E.E.E.E.E.E.\n..............\n.E.E.E.E.E.E.E\n..............\n!.!.!.!.!.!.!.\n.!.!.!.!.!.!.!\n!.!.!.!.!.!.!.\n.v.v.v.v.v.v.v\nBonus:\nf~f~f~f~f~f~f~\nc?c?c?c?c?c?c?\nfWfWfWfWfWfWfW\n..............\n-.-.-.-.-.-.-.\n..............\n.-.-.-.-.-.-.-\n..............\n}p}w+m}!}l+<}s\n..............\n..............\n..............\n..............\n..............\ncfcfcfcfcfcfcf\nfWfWfWfWfWfWfW\n>f>f>f>f>f>f>f\n.{.{.{.{.{.{.{\nLevel:\nMorosoph\nNuclear Winter\nBricks:\n**************\n....E....E....\nvvvvvvvvvvvvvv\n....E....E....\n*********@****\n....E....E....\nvvvvvvvvvvvvvv\n....E....E....\n****@*********\n....E....E....\nvvvvvvvvvvvvvv\n....E....E....\n*********@****\n....E....E....\nvvvvvvvvvvvvvv\n....E....E....\n****@*********\n....E....E....\nBonus:\nffffffffffffff\n..............\n!!!!m!!!!m!!!!\n..............\nffffffffffffff\n..............\n!!!!?!!!!?!!!!\n..............\nffffffffffffff\n..............\n!!!!&!!!!&!!!!\n..............\nffffffffffffff\n..............\n!!!!<!!!!<!!!!\n..............\nffffffffffffff\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 1,
+      "col": 2,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "color": "green",
+      "health": 2,
+      "points": 400
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 15,
+      "col": 2,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 15,
+      "col": 8,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 15,
+      "col": 11,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    }
+  ]
+}

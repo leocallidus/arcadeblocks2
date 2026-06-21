@@ -1,0 +1,385 @@
+{
+  "name": "Train Harder - More Chi",
+  "description": "Original author: Tars\nLegacy Bonus Grid:\n..............\n.b.b.+..+.b.b.\n.c.c.c..c.c.c.\n..............\n..............\n..............\n....>....>....\n..............\n..............\n..............\n...>....>....>\n..............\n..............\n..............\n..>....>....>.\n..............\n..............\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 1,
+      "col": 1,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 10,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 12,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 10,
+      "col": 13,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 1,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 11,
+      "col": 12,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 11,
+      "col": 13,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 14,
+      "col": 2,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 8,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 14,
+      "col": 12,
+      "color": "purple",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 13,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 15,
+      "col": 0,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 15,
+      "col": 1,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 15,
+      "col": 2,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 15,
+      "col": 7,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 15,
+      "col": 10,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 15,
+      "col": 11,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    },
+    {
+      "row": 15,
+      "col": 12,
+      "color": "green",
+      "health": 3,
+      "points": 600
+    }
+  ]
+}

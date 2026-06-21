@@ -1,0 +1,686 @@
+{
+  "name": "Уровень 1010: Матрица 1010",
+  "description": "Цифровой дождь.",
+  "layout": {
+    "brickColumns": 16,
+    "brickRows": 12,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 60
+  },
+  "bricks": [
+    {
+      "row": 0,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 0,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 0,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 0,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 1,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 3,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 3,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 4,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 5,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 6,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 7,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 9,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 10,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 0,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 12,
+      "color": "dark_blue",
+      "health": 2,
+      "points": 200
+    },
+    {
+      "row": 11,
+      "col": 14,
+      "color": "blue",
+      "health": 1,
+      "points": 100
+    }
+  ]
+}

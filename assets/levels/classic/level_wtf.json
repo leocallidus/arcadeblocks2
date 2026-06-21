@@ -1,0 +1,693 @@
+{
+  "name": "Checkers",
+  "description": "Original author: Mench\nLegacy Bonus Grid:\n..............\n.>.~.>.~.>.~.>\n.w...........w\n5.............\n5.d.d.d.d.d.d.\n5.............\n5.f.f.f.f.f.f.\n5.............\n.b.b.b.b.b.b.b\n5.............\n5.d.d.d.d.d.d.\n5.............\n5.{.{.{.{.{.{.\n5.............\n.?.?.?.?.?.?.?\n..............\n..............\n..............\nLevel:\nMench\nPineApple\nBricks:\n@@@ff@@@@ff@@@\n@@fyyf@@fyyf@@\n@fyffyffyffyf@\nfyfxxfyyfxxfyf\nyfx##xffx##xfy\nfx####xx####xf\nx####hhhh####x\n@###hhhhhh###@\n@##hhhhhhhh##@\n@#hhxfhhfxhh#@\n@#hhfxhhxfhh#@\n@#hhhhhhhhhh#@\n@#hhhhhhhhhh#@\n@#hhhhhhhhhh#@\n@#hhhhhhhhhh#@\n@##hhhhhhhh##@\n@###hhhhhh###@\n@@@@@hhhh@@@@@\nBonus:\n...55....55...\n..5..5..5..5..\n.5.55.55.55.5.\n5.5.g5pp5g.5.5\n.5...b55b...5.\n5.....bb.....5\n.....llll.....\n....~~~~~~....\n..............\n..g.b5<<5b.g..\n....5bffb5....\n...WfWWWWfW...\n..............\n..............\n..~~~~~~~~~~..\n...c++gg++c...\n....{{gg{{....\n.....d>>d.....\nLevel:\nMench\nBunny Chow\nBricks:\nvxxEEEEEEEExxv\n..............\n..vv@@xx@@vv..\n.v..vEvvEv..v.\n.....vvvv.....\n.....@xx@.....\nxE..@xvvx@..Ex\n.@.@x*vv*x@.@.\n.@.@xvvvvx@.@.\nxE.@xvxxvx@.Ex\n.@.@xvvvvx@.@.\n.@..@xvvx@..@.\nxE...@xx@...Ex\n....EEEEEE....\n......vv......\nEEE........EEE\n..............\n..............\nBonus:\n*>b........b>*\n..............\n..55..>>..55..\n.5..5.WW.5..5.\n.....5WW5.....\n.....0550.....\n~...055550...~\n...05W55W50...\n...05555550...\n~..055>>550..~\n...05555550...\n....055550....\n~.....55.....~\n..............\n......dd......\n..............\n..............\n..............\nLevel:\nMench\nLonghorn\nBricks:\n@@@@@@@@@@@@@@\n@v...!!!!...v@\n@v...!!!!...v@\n@v...@vv@...v@\n@v...@vv@...v@\n@v...@xx@...v@\n@v...@@@@...v@\n@vvv......vvv@\n@EEv......vEE@\n@@Ev......vE@@\n@@Ev......vE@@\n@@EvvvvvvvvE@@\n@@EEEEvvEEEE@@\n@@@@@EvvE@@@@@\n@@@@@EvvE@@@@@\n@@@@@EvvE@@@@@\n@@@@@EvvE@@@@@\n@@@@@@vv@@@@@@\nBonus:\n..............\n.*..........*.\n.p..........p.\n......55......\n.w....55....w.\n.b....55....b.\n.b..........b.\n.ccc......ccc.\n..............\n...~......~...\n..............\n...gddllddg...\n......ff......\n......ff......\n......44......\n......>>......\n......>>......\n......>>......\nLevel:\nMench\nBucket\nBricks:\n*v...@@@@...v*\nvv..........vv\n..vvvvvvvvvv..\n..vvvvvvvvvv..\n..vv!!!!!!vv..\n..vv@!!!!@vv..\n..vv@!!!!@vv..\n..vv#!!!!#vv..\n..vv@!!!!@vv..\n..vv#!!!!#vv..\n..vv@!!!!@vv..\n..vv#!!!!#vv..\n..vv@!!!!@vv..\n..vv#!!!!#vv..\n..vv@!!!!@vv..\n..vvEEEEEEvv..\n..............\n..............\nBonus:\n5g..........g5\ng............g\n..fb*>.b.*.f..\n...>.......>..\n..........b...\n..b...........\n.....gg...>b..\n...b.g.dd.....\n.......dw.b...\n..{....dd.....\n..>>.f>f..>{..\n.....~w~......\n.....f~f......\n..b........>..\n.....5555.....\n..{d......d{..\n..............\n..............\nLevel:\nMench\n2 Easy\nBricks:\nvxvxvxvxvxvxvx\n..............\n*!*!*!*!*!*!*@\n@*@*@*@*@*@*@*\n*!*!*!*!*!*!*!\n@*@*@*@*@*@*@*\n*!*!*!*!*!*!*!\n@*@*@*@*@*@*@*\n*!*!*!*!*!*!*!\n@*@*@*@*@*@*@*\n*!*!*!*!*!*!*!\n@*@*@*@*@*@*@*\n*!*!*!*!*!*!*@\nvvvvvvvvvvvvvv\nxxxxxxxxxxxxxx\nvvvvvvvvvvvvvv\n..............\n..............\nBonus:\n.l.l.l.l.l.l.l\n..............\n*!*!*!*!*!*!*.\n..............\n..............\n..............\nW.W.W.W.W.W.W.\n.~.~.~.~.~.~..\n>.>.>.>.>.>.>.\n.b.b.b.b.b.b.b\nf.f.f.f.f.f.f.\n.{.{.{.{.{.{.{\ndgdgdgdgdgdgd.\ncccccccccccccc\nbbbbbbbbbbbbbb\ncccccccccccccc\n..............\n..............\nLevel:\nMench\nTime\nBricks:\nEEEE@@@@@@EEEE\nEEE@vvvvvv@EEE\nEE@vvv@vvvv@EE\nE@vvvv@vvvvv@E\n@vvvvv@vvvvvv@\n@vvvvv@vvvvvv@\n@vvvvv@vvvvvv@\n@vvvvv@vvvvvv@\n@vvvvv@vvvvvv@\n@vvvvvv@vvvvv@\n@vvvvvvv@vvvv@\n@vvvvvvvv@vvv@\n@vvvvvvvvv@vv@\nE@vvvvvvvvvv@E\nEE@vvvvvvvv@EE\nEEE@vvvvvv@EEE\nEEEEddddddEEEE\n..............\nBonus:\n..............\n....5>5df*....\n....>*.5555...\n..>d.d.fdfd...\n...~>..d.~.d..\n.>*..>.*{.f~f.\n.~>d....f...*.\n...~>..f.~fd~.\n.>5.d~.5d.w*..\n.d{~.....5d.f.\n..d.5>.5.f.d{.\n.>.>.d~d..f...\n.{5...5.>{.5f.\n..f5f.f5f.f5..\n...d5d5d5dd...\n....*g{g*g....\n......{.c.....\n..............\nLevel:\nMench\nLayers\nBricks:\nxyzxyzEEEEEEEE\n@xyzxyzEEEEEEE\ndexyzxyzEEEEEE\ngd@xyzxyzEEEEE\nhgdexyzxyzEEEE\njhgd@xyzxyzEEE\nkjhgdexyzxyzEE\nfkjhgd@xyzxyzE\n@fkjhgdexyzxyz\n@@fkjhgd@xyzxy\n@@@fkjhgdexyzx\n@*@@fkjhgd@xyz\n@**@@fkjhgdexy\n@*v*@@fkjhgd@x\n@*vv*@@fkjhgde\n@*vvv*@@fkjhgd\n@******@@fkjhg\n@@@@@@@@@@fkjh\nBonus:\n.p.p.l........\n.4???4........\n.??!!??p......\n4...??d?......\nd.???d???.....\n..?.?!!~?.p...\npp????4???.4..\n..?4??~????~..\nb!d??.???!!?..\nbbd!??.?!d4.~p\ndbb!!~??.!?!?.\n~5bb!!?!??.4p?\nd55bb.4.!.!4d?\n~555bbd?p.4d.?\nd5555bbd.?dd?d\n~55555bbd4??pm\nd555555bb.dddd\n~d~d~d~dbbcccc\nLevel:\nMench\nConfusion\nBricks:\n@@@@@@@@@@@@@@\n@ve.!!@@!!.ev@\n@ze.!!@@!!.ez@\n@ze.!!@@!!.ez@\n@ze@@@@@@@@ez@\n@ze.**@@**.ez@\n@ze.**@@**.ez@\n@ve.**@@**.ev@\n@@@@..@@..@@@@\n@v!@g@@@@g@!v@\n@!!@.g@@g.@!!@\n@!!@g@@@@g@!!@\n@!!@.g@@g.@!!@\n@!!@g@@@@g@!!@\n@@..........@@\n@............@\n@............@\n@............@\nBonus:\n..............\n.b..55..55..b.\n.l..55..55..l.\n.<..55..55..<.\n.<b........b<.\n.<b.fd..df.b<.\n.lW.ff..ff.Wl.\n..W.dc..cd.W..\n..............\n.~f.w....w.f~.\n.WW..>..>..WW.\n.b~.f....f.~b.\n.!d..>..>..d!.\n.dd.w....w.dd.\n..............\n..............\n..............\n..............\nLevel:\nMench\nPeppermint\nBricks:\n@@@@@@@@@@@@@@\nzx...vxxv...xz\nzx...xvvx...xz\n@!...@@@@...!@\nzx...xvvx...xz\n@!...vxxv...!@\nzx..z@@@@z..xz\n@!..@yyyy@..!@\nzx.!x....x!.xz\n@!.!x....x!.!@\nzx..@.xx.@..xz\n@!..@....@..!@\nzx!x@....@x!xz\n@z@z@y..y@z@z@\n..............\n..............\n..............\n..............\nBonus:\n..............\n.....d55d.....\n.....5bb5.....\n..............\nd....5bb5....d\n.....d55d.....\nd&..?....?..&d\n.....<dd<.....\n?f.{W....W{.f?\n...{W....W{...\n?~....>>....~?\n.~..........~.\n!{~{......{~{!\n.f.f.f..f.f.f.\n..............\n..............\n..............\n..............\nLevel:\nMench\nTop Vs Bottom\nBricks:\nEEEEExxxxEEEEE\nEEEExyyyyxEEEE\nEEExyzzzzyxEEE\nEExyzzzzzzyxEE\nExyyyyyyyyyyxE\nxxxxxxxxxxxxxx\n.....EEEE.....\n......vv......\n!*!*.@@@@.*!*!\n!*!*..zz..*!*!\n.....EEEE.....\nvvvvvvvvvvvvvv\n@vvvvvvvvvvvv@\n@@vvvvvvvvvv@@\n@@@vvvvvvvv@@@\n@@@@vvvvvv@@@@\n@@@@@vvvv@@@@@\n..............\nBonus:\n.....5dd5.....\n....5d..d5....\n...5d....d5...\n..5d..<<..d5..\n.5df<ffff<fd5.\n??????????????\n..............\n......55......\n.f.f......f.f.\n.f.f..55..f.f.\n..............\n?fcddddddddcf?\n.c*c000000c*c.\n..~>d>dd>d>~..\n...0f0ff0f0...\n....>dddd>....\n.....bWWb.....\n..............\nLevel:\nMench\nSmiley\nBricks:\n@vvvvvvvvvvvv@\nv....iiii....v\nv...iivviii..v\nv..iivvvvvi..v\nv..ivvvvvvii.v\nv..iv**v**vi.v\nv..iv**v**vi.v\n@..ivvvvvvvi.@\nv..i.vv@vv.i.v\nv..i...@...i.v\nv..i.......i.v\nv..ii!!!!!ii.v\nv...i.....i..v\nv...ii...ii..v\nv....iiiii...v\n@............@\n..............\n..............\nBonus:\n.************.\nw....dddd....d\nw...dd**ddd..d\nw..dd55555d..d\nw..d5555555d.d\nw..p5..p..5p.d\nw..d5..p..5d.d\n...d5555555p..\nd..d.55.55.d.w\nd..p.......d.w\nd..d.......d.w\nd..ddbbbbbdd.w\nd...j.....p..w\nd...dd...dd..w\nd....ddddd...w\n..............\n..............\n..............\nLevel:\nMench\nDark Days\nBricks:\n@zzzzzzzzzzzz@\n@.@..vvvv..@.@\n@.v..@@@@..v.@\n@.v..xxxx..v.@\n@.v..xxxx..v.@\n@.@..xxxx..@.@\n@.z..xxxx..z.@\n@.z..x@@x..z.@\n@.z..@vv@..z.@\n@.z..vvvv..z.@\nE.EEEEvvEEEE.E\nxxxxxxxxxxxxxx\n**************\nyyyyyyyyyyyyyy\n**************\nzzzzzzzzzzzzzz\n**************\n..............\nBonus:\n.bbbbbbbbbbbb.\n.....<cc<.....\n..>........>..\n..>..dddd..>..\n..>..d55d..>..\n.....d55d.....\n..d..d55d..d..\n..d..d..d..d..\n..d...WW...d..\n..d..WllW..d..\n......WW......\nfdddddffdddddf\n..............\n?{{{{{ff{{{{{?\n..............\n?>>f>f??f>f>>?\ndddddddddddddd\n..............\nLevel:\nMench\n????????\nBricks:\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\njjjjjjjjjjjjjj\nxxxxxxxxxxxxxx\nz.vvvvvvvvvv.z\nz.vvzzzzzzvv.z\nz*vvz*zz*zvv*z\nz.vv@@@@@@vv.z\nz.v........v.z\nz.v........v.z\nz*v........v*z\nz.v........v.z\nEEEEEvvvvEEEEE\n..............\n..............\n..............\nBonus:\n??????????????\n??????????????\n??????????????\n??????????????\n??????????????\n?d?d?d?d?d?d??\n?.5555555555.?\n?.5.dcdddc55.?\n?.5.cddddc.5.?\n?.5b......b5.?\n?.5........5.?\n?.5........5.?\n?.w........w.?\n?.s........s.?\n.....>>>>.....\n..............\n..............\n..............\nLevel:\nMench\nBlue Wall\nBricks:\nExEyExEyExEyEx\n!x!y!x!y!x!y!x\n!x!y!x!y!x!y!x\n!x!y!x!y!x!y!x\n!x!y!x!y!x!y!x\n!x!y!x!y!x!y!x\nExEyExEyExEyEx\nExEyExEyExEyEx\n@xEyEx@yExEy@x\n@xEyEx@yExEy@x\nExEyExEyExEyEx\n.v.v.v.v.v.v.v\nv.v.v.v.v.v.v.\n.v.v.v.v.v.v.v\n..............\n..............\n..............\n..............\nBonus:\n...d.d.d.d....\nWpWpWpWpWpWpWp\n.}.p.{.p.p.p.p\ncwc!cwc!cwc!cw\n+b+b+blblblblb\nfbfbfbfbmbfbfb\n.?.{.?.?.?.d.?\n.?.?.?.?.{.?.?\n.d.d.d.d.d.d.d\n.f.{.f.{.f.{.f\n.w.w.w.w.w.w.w\n.>.b.~.b.d.>.d\nf.c.d.c.d.{.f.\n.j.b.j.b.~.>.j\n..............\n..............\n..............\n..............\nLevel:\nMench\nU cant c me\nBricks:\n@@@@@....*vvvv\n@v......#.*vvv\n@vv....*...*v#\n@vvv..#.....*.\n@vvvv*.....#.v\nvvvv#.....*.v.\nvvv*.....#.v..\nvv#.....*.v...\nv*.....#.v....\n#.....*.v.....\nvvv..#.v......\nvvv.*.v.......\nvvv#.v........\nvv*.v.........\nv#.v..........\n*.v...........\n.v............\nv.............\nBonus:\n..........5555\n.5........?...\n..5....?....b.\n...5........?.\n....b........>\n..........?.>.\n...?.......>..\n.b........>...\nb........>....\n......?.>.....\n555....>......\n555...>.......\n555..>........\n55?.>.........\n5..>..........\n..>...........\n.>............\n>.............\nLevel:\nMench\nOff Centre\nBricks:\nc@yyyy@yyyyy@c\ncE....E.....Ec\nx.dddddddddd.x\nx..E......E..x\nx..@......@..x\nx....***.....x\nx....*!*.....x\nxE...!E!....Ex\nx@...*@*....@x\nx...*****....x\nx..*..!..*...x\n!!!E..!..E!!!!\n...@..!..@....\n......!.......\n......!.......\n.E....E.....E.\n.@....@.....@.\n..............\nBonus:\nl..5......5..l\ns............s\n......*.......\n?............?\n..............\n5....b.b.....5\n5.....p......5\n..............\n..............\n!...?.w.?....!\nw.....d......w\nddd...f...dddd\n......f.......\n......p.......\n......f.......\n..............\n..............\n..............\nLevel:\nMench\nBlack & Blue\nBricks:\nxcc!E!!!!E!ccx\nc..!E****E!..c\nc..!E****E!..c\nc..!!!!!!!!..c\nc..!EEEEEE!..c\nc..vvvxxvvv..c\nc..vvv@@vvv..c\nxvvvvv@@vvvvvx\nEEEEvv@@vvEEEE\nidefvv@@vvfedi\ndef.vv@@vv.fed\nef..vvxxvv..fe\nf..vEEEEEEv..f\n...v......v...\n...v......v...\n@@@v......v@@@\n..............\n..............\nBonus:\nbgg........ggb\n>....~W~W....>\n>....W~W~....>\n>............>\n>............>\n>.....df.....>\n>.....dd.....>\nb.....ld.....b\n{...g.dd.g....\n{dbgg.fl.ggbd{\n{db.g.dd.g.bd{\n{d..g.ld.g..d{\n{..d......d..{\n...d......d...\n...m......m...\nd~dW......Wd~d\n..............\n..............\nLevel:\nMench\n8 tiles\nBricks:\n@.!........!.@\n@.#........#.@\n@.#........#.@\n@.!...!!...!.@\n@@@!@@@@@@!@@@\n......@@......\n..............\n..............\n@...@....@...@\n..............\n..............\n..............\n..@...@@...@..\n..............\n..............\n..............\n..............\n..............\nBonus:\n..?........?..\n..............\n..............\n..w...bb...w..\n...b......b...\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nMench\nRain\nBricks:\n@@*!*@@@@@@@@@\n@!!*!*!!!!!!!@\n@!*!*!*!!!!!!@\n@!!*!*!*!!!!!@\n@!!!*!*!*!!!!@\n@!!!!*!*!*!!!@\n@!!!!@*!*!*!!@\n@!!!!@!*!*!*!@\n@!!!!@!!*!*!*@\n@!!!!@!!!!!zzz\n@!!!!@!!!!!zzz\n@!!!!@!!!!!zzz\n@!!!!@!!!!!zzz\n@!!!!@!!!!!zzz\n@@@@@@@@@@@@@z\n@@@@@@@@@@@@@z\n..............\n..............\nBonus:\n..dgd.........\n.gglf~g{dd.Wb.\n..bdlf~g555.-.\n.5?bdlf~{d*5..\n.-d{gdlf~dd.5.\n.5.5{bdlf~.-*.\n..{-..gdlf~...\n.W?5d..bglf~..\n.d55d.-5b{l...\n..5W{..W{-.{{{\n.*-{..d..55ff>\n....-.+-5{.>.W\n..*d..d*..-.{f\n.b..?.d.-*.>>b\n.............w\n.............b\n..............\n..............\nLevel:\nMench\nRainbow\nBricks:\nzzzz@@@@@@zzzz\nfghje....ejhgf\nfghje....ejhgf\nfghje....ejhgf\nfg!*E.vv.E*!gf\nf!*@e.vv.e@*!f\n!*Eje....ejE*!\n*@hje....ejh@*\nEghje@@@@ejhgE\nfghje....ejhgf\nfghje....ejhgf\nfg!*EvvvvE*!gf\nf!*@......@*!f\n!*EvvvvvvvvE*!\n*@..........@*\nE............E\n..............\n..............\nBonus:\nc.c........cf.\n?..f......f..d\n.wb?d....d.b..\nddf.?.....?dw.\n......5l....df\nf.....l5......\n...d?....d....\n..d.......f...\n...d.....d.?..\n.wdd?....f?d?d\nd.f!!....!!dfc\n.fd..b>b<.....\nb...........db\n...bWb>bWb>...\n..............\n..............\n..............\n..............\nLevel:\nMench\n2 Towers\nBricks:\n@@@@@@vv@@@@@@\n@@zc@@vv@@cz@@\n..zc..vv..cz..\n..zc..vv..cz..\n..zc..vv..cz..\n..zc..vv..cz..\n..zc..vv..cz..\n..zc..vv..cz..\n..zc..vv..cz..\n..zc..vv..cz..\n..zc..vv..cz..\n..zc..vv..cz..\n..zc..vv..cz..\n..zc..vv..cz..\n..zc@@vv@@cz..\n..zc@@@@@@cz..\n..............\n..............\nBonus:\n......55......\n......55......\n...b..55..b...\n...d..55..d...\n..>?..55..?>..\n...b..55..b...\n...d..55..d...\n..>?..55..?>..\n...b..55..b...\n..{d..55..d{..\n..>?..55..?>..\n...b..55..b...\n...d..55..d...\n..>?..55..?>..\n..cb..??..bc..\n..............\n..............\n..............\nLevel:\nMench\nPyramids\nBricks:\nEEEEEEEEEEEEEE\nxxxxxxxxxxxxxx\n@.@.@*@*@.@.@.\niiiiiiiiiiiiii\niiiiiiiiiiiiii\nf@ggggccgggg@f\nzf@gggccggg@fz\nff*@*gccg*@*ff\nfzff@gggg@ffzf\nfffff@..@fffff\nzfzff....ffzfz\nfffff@..@fffff\nfzff@....@ffzf\nff*@......@*ff\nff@........@fz\nf@..........@f\n@............@\n..............\nBonus:\n..............\nm.>.>m..>m..>m\n..............\n.b..b?..b?.b..\n?.d.d..d..d.d?\n...<??ww??<...\n.b..??ww??..b.\n.d...?ww?...d.\n?fbb.<??<.bbf?\n.?........d...\n!..d?....?..?!\n...d......d..?\n?*~........~*d\ndf..........fd\n.f..........f.\n!............!\n..............\n..............\nLevel:\nMench\nBlue Balls\nBricks:\nEEEEEEEEEEEEEE\n**.d.!..!.d.**\n**.d.Ev.E.d.**\n**.d.E.vE.d.**\n**.d.E..E.d.**\nEEEE!Ev.E!EEEE\n.....E..E.....\ndddddE.vEddddd\n.....E..E.....\n.@@@@Ev.E@@@@.\n.....E..E.....\n.....E.vE.....\ncccccE..Ezzzzz\ncccccEv.Ezzzzz\nEEEEEE..EEEEEE\n..............\n..............\n..............\nBonus:\n..............\n5f..........d5\n5f..........dj\njf.m...c..m.d5\n5j..........j5\n......>.......\n..............\n??.??..>.?????\n..............\n.~~~~.c..~~~~.\n..............\n.......>......\nwwwww....bbbbb\njddjj.>..5j555\n..............\n..............\n..............\n..............\nLevel:\nMench\nGet up There\nBricks:\nx@x@ffffff@x@x\n.@.@ffffff@.@.\n.@.@ffffff@.@.\nx@x@ffEEff@x@x\n.@.@!!!!!!@.@.\n.@.@!v**v!@.@.\nx@x@!!!!!!@x@x\n.@.@EExxEE@.@.\n.@.@vvvvvv@.@.\nx@x@......@x@x\n.@.@......@.@.\n.@.@..EE..@.@.\nx@x@......@x@x\nf@f@......@f@f\nf@f@EE..EE@f@f\n..............\n..............\n..............\nBonus:\nl............l\n....bbbbbb....\n....W.WW.W....\nb.b.ww..ww.b.b\n....ffffff....\n....!d..d!....\nw.b.bf!!fb.b.w\n......bb......\n....g>g>g>....\n>.>........>.>\n..............\n..............\nd.d........d.d\nf.c........c.f\nf.f........f.f\n..............\n..............\n..............\nLevel:\nMench\nThe Hole\nBricks:\n........x.x.x.\n..@x.x.x.x.x.x\n..E.x.x.x.x.x.\n..@x.x.x.x.x.x\n..E.x.x.x.x.x.\n..@x.x.x.x.x.x\n..E.x.x.x.x.x.\n..@x.x.x.x.x.x\n..E@E@E@E@E@E@\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nBonus:\n........>.5.b.\n...5.5.5.5.5.5\n....5.5.b.5.5.\n...b.>.?.5.>.5\n....5.5.5.b.5.\n...5.5.c.5.5.5\n....5.b.5.5.5.\n...>.5.5.b.5.5\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nMench\nGreen Hell\nBricks:\nxxxxxxxxxxxxxx\nz@@@@@yy@@@@@z\nz.f.f.yy.f.f.z\nz.f.f.yy.f.f.z\nz@@@@@yy@@@@@z\nz...x@yy@x...z\nz.@.xf@@fx.@.z\nz...x@yy@x...z\nz@@@@@yy@@@@@z\nz.f.f.yy.f.f.z\nz.f.f.yy.f.f.z\nz@@@@@yy@@@@@z\nxxxxxxxxxxxxxx\n..............\n..............\n..............\n..............\n..............\nBonus:\n001005cc500100\nc............c\ng.b.b....b.b.g\n..b.b....b.b..\n..............\n....w.55.w....\nl...>l..l>...l\n....w.55.w....\n......**......\ng.b.b....b.b.g\nd.b.b....b.b.d\nd.....ff.....d\n+>>>>>++>>>>>+\n..............\n..............\n..............\n..............\n..............\nLevel:\nMench\nHow the F@#$\nBricks:\n.**.vvvvvv.**.\n.E!!!!!!!!!!@.\n.@!********!E.\n.E!*!!!!!!*!@.\n.@!*!****!*!E.\n.E!*!*!!*!*!@.\n.@!*!*!!*!*!E.\n.E!*!****!*!@.\n.@!*!!!!!!*!E.\n.E!********!@.\n.@!!!!!!!!!!E.\n.Ezzzzzzzzzz@.\n.@@z@@@@@@z@E.\n....@....@....\n...@......@...\n..............\n..............\n..............\nBonus:\n.??.!!!!!!.??.\n..<<<<<<<<<<..\n..<dddddddd<..\n..cd{5bb5{dc..\n...d5dddd5d...\n..pd{df5d{dp..\n..pd{d5fd{dp..\n...d5dddd5d...\n..cd{5bb5{dc..\n..>ddffdfdd>..\n..c..ddfd..c..\n..5555555555..\n..............\n..............\n..............\n..............\n..............\n..............\nLevel:\nMench\nSwiss Roll\nBricks:\nddd*x**x**x**!\nddd*x**x**x**!\nd@@@@@@@@@@@@!\nd@ihhhhhhhhh@!\nd@ihhhhhhhhh@!\n*@i@@@@@@@@h@!\n*@i@hhhhhh@h@!\n*@i@h@hhhh@h@!\n*@i@h@hhhh@h@!\n*@i@h@@@@@@h@!\nx@i@hhhhhhhh@!\nx@i@hhhhhhhh@!\nx@i@@@@@@@@@@!\nx@icjjjjjjjjjj\nx@icjjjjjjjjjj\nx@@@@@@@@@@@@@\n..............\n..............\nBonus:\ncddwfwwfwwfww~\ncddwfwwfwwfww~\nc............~\nc.?bbbbd>>>>.~\nc.?bbbbdf>f>.~\nf.?........>..\nf.?.>>>>>>.>.~\nf.?.>.***f.>.~\n5.}.>.ffff.>.~\nj.}.>......>.~\nb.}.>>****f>.~\nb.{.>>*****f.~\nb.{..........~\n<.{.??????????\n?.}.??????????\n<.............\n..............\n..............\nLevel:\nMench\nPM II\nBricks:\n@@@@@@@@@@@@@@\n@...xyzzyx...@\n@.v.xyzzyx.v.@\n@...xyzzyx...@\n@xxx@@@@@@xxx@\n@...yxvvxy...@\n@.v.yxvvxy.v.@\n@...yxvvxy...@\n@yyy@@@@@@yyy@\n@...zyxxyz...@\n@.v.zyxxyz.v.@\n@...zyxxyz...@\n@zzz@@@@@@zzz@\n@....@..@....@\n@............@\n@...@@..@@...@\n..............\n@............@\nBonus:\n..............\n....s.&&.s....\n..w.b.bb.b.w..\n....&.**.&....\n.~~~......~~~.\n.....?55?.....\n..b.-.ll.-.b..\n.....?55?.....\n.f{f......f{f.\n....WddddW....\n..w.gggggg.w..\n....W????W....\n.ddd......ddd.\n..............\n..............\n..............\n..............\n..............\nLevel:\nMench\nIrratation\nBricks:\nzzz@@@@@@@@zzz\nzzz@vv@@vv@zzz\nzz@v......v@zz\nz@vvvvvvvvvv@z\nz@vvvvvvvvvv@z\nzz@v......v@zz\nzzz@..@@..@zzz\nzzz@..@@..@zzz\nzz@v......v@zz\nz@vvvvvvvvvv@z\nz@vvvvvvvvvv@z\nzz@v......v@zz\nzzz@..@@..@zzz\nzzz@..@@..@zzz\nzz@v......v@zz\nz@v........v@z\n..............\n..............\nBonus:\nb.l........l.b\n....55..55....\ndddg......g.dd\n....>>dd>>....\n....>dWWd>....\n+c.g......g.++\n..b........b..\n++b........bc+\nf..g......g..f\nf...WWWWWW...f\nf.*>d>dd>d>*.f\nf..g......g..f\n.db........bd.\nd.b........b.d\n.d.w......w.d.\n{.g........g.{\n..............\n..............\nLevel:\nMench\nYing Yang\nBricks:\n@@@@jjjjj@@@@@\n@@@@a@jjjj@@@@\n@@@aaa@jjjj@@@\n@@aaaaa@jjjj@@\n@aaajjaa@jjjj@\naaajjjja@jjjjj\naaajjjja@jjjjj\naaaajjaa@jjjjj\naaaaaaa@jjjjjj\naaaaaa@jjjjjjj\naaaaa@jjkkjjjj\naaaaa@jkkkkjjj\naaaaa@jkkkkjjj\n@aaaa@jjkkjjj@\n@@aaaa@jjjjj@@\n@@@aaaa@jjj@@@\n@@@@aaaa@j@@@@\n@@@@@aaaaa@@@@\nBonus:\n.....>>.f.....\n........fd....\n...>f..>.dd...\n..dd....d>dd..\n.d~df{~d..g>..\ndd>f55ld.>fddd\nf~d{55~~..gdfd\n*fd~gfdd.gffd>\nd>>dg~d..>fdd.\ndd~ff~..>d{d>f\n>gddd.{{.>df{f\ndfg~~.{f55.{{d\ndff.>.fl55>.f.\n.~ddg.{~f.~{..\n..~>~g.dd~{{..\n...d{d{.d{d...\n....d{dd.d....\n.....d{d{d....\nLevel:\nMench\nX\nBricks:\nccc@@@@@@@@xxx\ncccc@@@@@@xxxx\n#cccc@@@@xxxx#\n##cccc@@xxxx##\n###cccxcxxx###\n####ccxcxx####\n#####cxcx#####\n######xc######\n######xc######\n######cx######\n######cx######\n#####xcxc#####\n####xxcxcc####\n###xxxcxccc###\n##xxxx@@cccc##\n#xxxx@@@@cccc#\nxxxx@@@@@@cccc\nxxx@@@@@@@@ccc\nBonus:\n555........555\n5555......5555\n..............\n.....~..~.....\n.....~bb~.....\n.....~WW~.....\n.....~WW~.....\n......WW......\n......ll......\n......ll......\n......WW......\n.....{WW{.....\n....{.WW.{....\n...{..bb..{...\n..{..c..c..{..\n.++.c....c.++.\ndddd......cccc\nddd........>>>\nLevel:\nMench\nIn & Out\nBricks:\nE.@@@@@@@@@@.E\n@.@xxxxxxxx@.@\nE.@........@.E\n@.@........@.@\nE.@.xxxxxx.@.E\n@.@.@@@@@@.@.@\nE.....EE.....E\n@.@...@@...@.@\nE.@vvvxxvvv@.E\n@.@vvvxxvvv@.@\nE.@vvvxxvvv@.E\n@.@...@@...@.@\nE.....EE.....E\n@.@.@@@@@@.@.@\nE.@........@.E\n@.@........@.@\nE.@xxxxxxxx@.E\n@.@@@@@@@@@@.@\nBonus:\n..............\n...b>.cc.>b...\n..............\n..............\n....dddddd....\n..............\n..............\n..............\n......dd......\n....d.bb.d....\n......{{......\n..............\n..............\n..............\n..............\n..............\n...b>5555>b...\n..............\nLevel:\nMench\nFrozen Time\nBricks:\n@@@@@@@@@@@@@@\n.vvv...vvv.vvv\n.vvv...vvv.vvv\n.vvv...vvv.vvv\n.@@@...v@v.@@@\n.@vv...@@v.@v@\n.@vv.@.v@v.@v@\n.@vv.@.v@v.@v@\n.@@@.v.v@v.@c@\n.vv@.v.v@v.@v@\n.vv@.@.v@v.@v@\n.vv@.@.v@v.@v@\nv@@@v.v@@@v@@@\n..............\n..............\n..............\n..............\n..............\nBonus:\nffffffffffffff\n.{g....>g..{dm\n.>.>....{>.d{d\n.d{....>dd.{{m\n.fff....fg.fff\n.f.d...ff{.f5f\n.f>g.f..f..d5d\n.f.{.f.gf..f5f\n.fff.>.{f>.d5d\n.g.f.g..f..f5f\n.{gf.f.>f{.d5d\n.>{f.f..fd.f{f\n.fff...fdf.fff\n..............\n..............\n..............\n..............\n..............",
+  "layout": {
+    "brickColumns": 14,
+    "brickRows": 18,
+    "brickWidth": 60,
+    "brickHeight": 30,
+    "brickSpacing": 4,
+    "startY": 90
+  },
+  "bricks": [
+    {
+      "row": 1,
+      "col": 1,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 9,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 11,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 1,
+      "col": 13,
+      "color": "pink",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 2,
+      "col": 13,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 5,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 5,
+      "col": 13,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 7,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 8,
+      "col": 0,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 8,
+      "col": 13,
+      "color": "explosive",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 9,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 11,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 11,
+      "col": 1,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 11,
+      "col": 13,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 12,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 12,
+      "col": 4,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 12,
+      "col": 12,
+      "color": "light_gray",
+      "health": 4,
+      "points": 400
+    },
+    {
+      "row": 13,
+      "col": 0,
+      "color": "red",
+      "health": 1,
+      "points": 100
+    },
+    {
+      "row": 14,
+      "col": 0,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 1,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 14,
+      "col": 2,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 14,
+      "col": 4,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 14,
+      "col": 8,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 14,
+      "col": 10,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 11,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    },
+    {
+      "row": 14,
+      "col": 12,
+      "color": "indestructible",
+      "health": 9999,
+      "points": 0
+    },
+    {
+      "row": 14,
+      "col": 13,
+      "color": "green",
+      "health": 1,
+      "points": 200
+    }
+  ]
+}
