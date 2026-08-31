@@ -66,7 +66,11 @@ jobs:
             libxinerama-dev \
             libxkbcommon-dev \
             libxrandr-dev \
+            libxrender-dev \
             libxss-dev \
+            libxtst-dev \
+            libxv-dev \
+            libxxf86vm-dev \
             wayland-protocols \
             rpm \
             zstd \
@@ -77,7 +81,9 @@ jobs:
         run: |
           cmake -B build/linux-release -G Ninja \
             -DCMAKE_BUILD_TYPE=Release \
-            -DBUILD_TESTING=ON
+            -DBUILD_TESTING=ON \
+            -DSDL_X11_XTEST=OFF \
+            -DSDL_X11_XSCRNSAVER=OFF
 
       - name: Build Project
         run: |
@@ -85,7 +91,7 @@ jobs:
 
       - name: Run Tests
         run: |
-          ctest --test-dir build/linux-release --output-on-failure
+          ctest --test-dir build/linux-release --output-on-failure --timeout 30
 
       - name: Build DEB Package
         run: |
@@ -157,9 +163,16 @@ jobs:
         run: |
           cmake --build build/windows-release
 
+      - name: Copy Runtime DLLs
+        shell: pwsh
+        run: |
+          Get-ChildItem -Path build/windows-release -Filter "*.dll" -Recurse | ForEach-Object {
+            Copy-Item $_.FullName build/windows-release -Force -ErrorAction SilentlyContinue
+          }
+
       - name: Run Tests
         run: |
-          ctest --test-dir build/windows-release --output-on-failure
+          ctest --test-dir build/windows-release --output-on-failure --timeout 30
 
       - name: Package Windows ZIP
         shell: pwsh

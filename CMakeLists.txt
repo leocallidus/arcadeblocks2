@@ -31,6 +31,8 @@ else()
     find_package(SDL3 3.4.10 CONFIG QUIET)
     if(NOT SDL3_FOUND)
         set(SDL_INSTALL OFF CACHE BOOL "" FORCE)
+        set(SDL_X11_XTEST OFF CACHE BOOL "" FORCE)
+        set(SDL_X11_XSCRNSAVER OFF CACHE BOOL "" FORCE)
         FetchContent_Declare(
             SDL3
             GIT_REPOSITORY https://github.com/libsdl-org/SDL.git
@@ -245,6 +247,15 @@ target_link_libraries(ArcadeBlocksII
 
 arcadeblocks_apply_project_options(ArcadeBlocksII)
 
+if(WIN32)
+    add_custom_command(TARGET ArcadeBlocksII POST_BUILD
+        COMMAND ${CMAKE_COMMAND} -E copy_if_different
+            $<TARGET_RUNTIME_DLLS:ArcadeBlocksII>
+            $<TARGET_FILE_DIR:ArcadeBlocksII>
+        COMMAND_EXPAND_LISTS
+    )
+endif()
+
 if(BUILD_TESTING)
     add_executable(arcadeblocks2_foundation_tests
         tests/FoundationSmokeTest.cpp
@@ -270,14 +281,31 @@ if(BUILD_TESTING)
 
     arcadeblocks_apply_project_options(arcadeblocks2_foundation_tests)
 
+    if(WIN32)
+        add_custom_command(TARGET arcadeblocks2_foundation_tests POST_BUILD
+            COMMAND ${CMAKE_COMMAND} -E copy_if_different
+                $<TARGET_RUNTIME_DLLS:arcadeblocks2_foundation_tests>
+                $<TARGET_FILE_DIR:arcadeblocks2_foundation_tests>
+            COMMAND_EXPAND_LISTS
+        )
+    endif()
+
     add_test(
         NAME foundation.version
         COMMAND arcadeblocks2_foundation_tests
+    )
+    set_tests_properties(foundation.version
+        PROPERTIES
+            TIMEOUT 30
     )
 
     add_test(
         NAME app.version
         COMMAND ArcadeBlocksII --version
+    )
+    set_tests_properties(app.version
+        PROPERTIES
+            TIMEOUT 30
     )
 
     add_test(
@@ -286,7 +314,8 @@ if(BUILD_TESTING)
     )
     set_tests_properties(app.stage9-level-no-audio-smoke
         PROPERTIES
-            ENVIRONMENT "SDL_VIDEODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data"
+            ENVIRONMENT "SDL_VIDEODRIVER=dummy;SDL_AUDIODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data"
+            TIMEOUT 30
     )
 
     add_test(
@@ -295,7 +324,8 @@ if(BUILD_TESTING)
     )
     set_tests_properties(app.stage9-menu-no-audio-smoke
         PROPERTIES
-            ENVIRONMENT "SDL_VIDEODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data"
+            ENVIRONMENT "SDL_VIDEODRIVER=dummy;SDL_AUDIODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data"
+            TIMEOUT 30
     )
 
     add_test(
@@ -305,6 +335,7 @@ if(BUILD_TESTING)
     set_tests_properties(app.stage9-audio-smoke
         PROPERTIES
             ENVIRONMENT "SDL_VIDEODRIVER=dummy;SDL_AUDIODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data"
+            TIMEOUT 30
     )
 
     add_test(
@@ -314,6 +345,7 @@ if(BUILD_TESTING)
     set_tests_properties(app.stage10-level1-vertical-slice
         PROPERTIES
             ENVIRONMENT "SDL_VIDEODRIVER=dummy;SDL_AUDIODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data"
+            TIMEOUT 30
     )
 
     add_test(
@@ -323,6 +355,7 @@ if(BUILD_TESTING)
     set_tests_properties(app.stage10-boss-level-smoke
         PROPERTIES
             ENVIRONMENT "SDL_VIDEODRIVER=dummy;SDL_AUDIODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data"
+            TIMEOUT 30
     )
 
     function(add_stage15_smoke_test test_name scenario)
@@ -338,8 +371,9 @@ if(BUILD_TESTING)
         )
         set_tests_properties("${test_name}"
             PROPERTIES
-                ENVIRONMENT "SDL_VIDEODRIVER=dummy;XDG_DATA_HOME=${test_data_dir}/xdg"
+                ENVIRONMENT "SDL_VIDEODRIVER=dummy;SDL_AUDIODRIVER=dummy;XDG_DATA_HOME=${test_data_dir}/xdg"
                 LABELS "stage10;smoke"
+                TIMEOUT 30
         )
     endfunction()
 
@@ -363,9 +397,10 @@ if(BUILD_TESTING)
     )
     set_tests_properties(app.stage11-settings-cycle-smoke
         PROPERTIES
-            ENVIRONMENT "SDL_VIDEODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data/app.stage11-settings-cycle-smoke/xdg"
+            ENVIRONMENT "SDL_VIDEODRIVER=dummy;SDL_AUDIODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data/app.stage11-settings-cycle-smoke/xdg"
             PASS_REGULAR_EXPRESSION "load_attempts=1 .*ui_transitions=4"
             LABELS "stage11;performance;smoke"
+            TIMEOUT 30
     )
 
     add_test(
@@ -380,9 +415,10 @@ if(BUILD_TESTING)
     )
     set_tests_properties(app.stage11-help-cycle-smoke
         PROPERTIES
-            ENVIRONMENT "SDL_VIDEODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data/app.stage11-help-cycle-smoke/xdg"
+            ENVIRONMENT "SDL_VIDEODRIVER=dummy;SDL_AUDIODRIVER=dummy;XDG_DATA_HOME=${CMAKE_CURRENT_BINARY_DIR}/test-data/app.stage11-help-cycle-smoke/xdg"
             PASS_REGULAR_EXPRESSION "textures=2 .*load_attempts=2 .*ui_transitions=4"
             LABELS "stage11;performance;smoke"
+            TIMEOUT 30
     )
 
     add_test(
@@ -392,6 +428,7 @@ if(BUILD_TESTING)
     set_tests_properties(app.invalid-assets-dir
         PROPERTIES
             WILL_FAIL TRUE
+            TIMEOUT 30
     )
 endif()
 
