@@ -294,13 +294,33 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           TAG="v${{ steps.version.outputs.version }}"
-          echo "Creating or updating release for tag ${TAG}..."
-          if gh release view "${TAG}" >/dev/null 2>&1; then
-            echo "Release ${TAG} exists. Uploading assets..."
-            gh release upload "${TAG}" release-assets/* --clobber
-          else
-            echo "Creating new release ${TAG}..."
-            gh release create "${TAG}" release-assets/* \
+          echo "Ensuring release exists for tag ${TAG}..."
+          if ! gh release view "${TAG}" >/dev/null 2>&1; then
+            echo "Creating release ${TAG}..."
+            gh release create "${TAG}" \
               --title "Arcade Blocks II ${TAG}" \
               --generate-notes
           fi
+
+          echo "Uploading release assets individually with retry support..."
+          for asset in release-assets/*; do
+            if [ -f "$asset" ]; then
+              echo "==> Uploading $asset..."
+              uploaded=0
+              for attempt in 1 2 3; do
+                if gh release upload "${TAG}" "$asset" --clobber; then
+                  echo "==> Successfully uploaded $asset"
+                  uploaded=1
+                  break
+                else
+                  echo "==> Upload attempt $attempt failed for $asset. Retrying in 5s..."
+                  sleep 5
+                fi
+              done
+              if [ "$uploaded" -ne 1 ]; then
+                echo "Error: Failed to upload $asset after 3 attempts" >&2
+                exit 1
+              fi
+            fi
+          done
+          echo "==> All release assets published successfully!"
