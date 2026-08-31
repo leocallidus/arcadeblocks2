@@ -49,9 +49,13 @@ jobs:
             ninja-build \
             pkg-config \
             libasound2-dev \
+            libpulse-dev \
+            libpipewire-0.3-dev \
             libdbus-1-dev \
             libegl1-mesa-dev \
             libgl1-mesa-dev \
+            libdrm-dev \
+            libgbm-dev \
             libudev-dev \
             libwayland-dev \
             libx11-dev \
@@ -62,6 +66,7 @@ jobs:
             libxinerama-dev \
             libxkbcommon-dev \
             libxrandr-dev \
+            libxss-dev \
             wayland-protocols \
             rpm \
             zstd \
