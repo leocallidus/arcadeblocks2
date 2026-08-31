@@ -474,12 +474,14 @@ set(CPACK_PACKAGE_HOMEPAGE_URL "https://github.com/leocallidus/arcadeblocks2")
 
 set(CPACK_DEBIAN_PACKAGE_MAINTAINER "leocallidus <leoalekseev27@gmail.com>")
 set(CPACK_DEBIAN_PACKAGE_SECTION "games")
-set(CPACK_DEBIAN_PACKAGE_SHLIBDEPS ON)
+set(CPACK_DEBIAN_PACKAGE_SHLIBDEPS OFF)
+set(CPACK_DEBIAN_PACKAGE_DEPENDS "libc6, libasound2, libgl1")
 set(CPACK_DEBIAN_FILE_NAME "arcadeblocks2_${PROJECT_VERSION}_amd64.deb")
 
 set(CPACK_RPM_PACKAGE_LICENSE "Proprietary")
 set(CPACK_RPM_PACKAGE_GROUP "Amusements/Games")
-set(CPACK_RPM_PACKAGE_AUTOREQPROV ON)
+set(CPACK_RPM_PACKAGE_AUTOREQPROV OFF)
+set(CPACK_RPM_PACKAGE_REQUIRES "glibc, alsa-lib, mesa-libGL")
 set(CPACK_RPM_FILE_NAME "arcadeblocks2-${PROJECT_VERSION}-1.x86_64.rpm")
 
 include(CPack)
