@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Arcade Blocks II
+GenericName=Brick Breaker Game
+Comment=Native C++ brick-breaker game with Box2D physics
+Exec=ArcadeBlocksII
+Icon=arcadeblocks2
+Terminal=false
+Categories=Game;ArcadeGame;
+Keywords=arcade;breakout;brickbreaker;
+StartupNotify=true

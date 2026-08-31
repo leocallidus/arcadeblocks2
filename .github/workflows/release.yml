@@ -1,0 +1,288 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release version (e.g. 0.1.0)'
+        required: false
+        default: '0.1.0'
+
+permissions:
+  contents: write
+
+jobs:
+  build-linux:
+    name: Build Linux Packages (AppImage, DEB, RPM, Pacman)
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Determine Version
+        id: version
+        shell: bash
+        run: |
+          if [ -n "${{ github.event.inputs.version }}" ]; then
+            VER="${{ github.event.inputs.version }}"
+          elif [[ "${{ github.ref }}" == refs/tags/v* ]]; then
+            VER="${GITHUB_REF#refs/tags/v}"
+          else
+            VER="0.1.0"
+          fi
+          echo "version=${VER}" >> "$GITHUB_OUTPUT"
+          echo "Building version ${VER}"
+
+      - name: Install build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            build-essential \
+            cmake \
+            ninja-build \
+            pkg-config \
+            libasound2-dev \
+            libdbus-1-dev \
+            libegl1-mesa-dev \
+            libgl1-mesa-dev \
+            libudev-dev \
+            libwayland-dev \
+            libx11-dev \
+            libxcursor-dev \
+            libxext-dev \
+            libxfixes-dev \
+            libxi-dev \
+            libxinerama-dev \
+            libxkbcommon-dev \
+            libxrandr-dev \
+            wayland-protocols \
+            rpm \
+            zstd \
+            file \
+            curl
+
+      - name: Configure CMake
+        run: |
+          cmake -B build/linux-release -G Ninja \
+            -DCMAKE_BUILD_TYPE=Release \
+            -DBUILD_TESTING=ON
+
+      - name: Build Project
+        run: |
+          cmake --build build/linux-release
+
+      - name: Run Tests
+        run: |
+          ctest --test-dir build/linux-release --output-on-failure
+
+      - name: Build DEB Package
+        run: |
+          cpack --config build/linux-release/CPackConfig.cmake -G DEB -B dist/
+
+      - name: Build RPM Package
+        run: |
+          cpack --config build/linux-release/CPackConfig.cmake -G RPM -B dist/
+
+      - name: Build Pacman Package (pkg.tar.zst)
+        run: |
+          ./tools/packaging/arch/build_pacman.sh "${{ steps.version.outputs.version }}" dist build/linux-release
+
+      - name: Build AppImage Package
+        run: |
+          ./tools/packaging/linux/build_appimage.sh "${{ steps.version.outputs.version }}" dist build/linux-release
+
+      - name: List Linux Packages
+        run: |
+          ls -la dist/
+
+      - name: Upload Linux Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: linux-packages
+          path: |
+            dist/*.deb
+            dist/*.rpm
+            dist/*.pkg.tar.zst
+            dist/*.AppImage
+          if-no-files-found: error
+
+  build-windows:
+    name: Build Windows Package
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Determine Version
+        id: version
+        shell: bash
+        run: |
+          if [ -n "${{ github.event.inputs.version }}" ]; then
+            VER="${{ github.event.inputs.version }}"
+          elif [[ "${{ github.ref }}" == refs/tags/v* ]]; then
+            VER="${GITHUB_REF#refs/tags/v}"
+          else
+            VER="0.1.0"
+          fi
+          echo "version=${VER}" >> "$GITHUB_OUTPUT"
+          echo "Building version ${VER}"
+
+      - name: Setup Ninja
+        uses: ashutoshvarma/setup-ninja@v1.1
+        with:
+          version: 1.11.1
+
+      - name: Setup MSVC developer environment
+        uses: ilammy/msvc-dev-cmd@v1
+
+      - name: Configure CMake
+        run: |
+          cmake -B build/windows-release -G Ninja -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=ON
+
+      - name: Build Project
+        run: |
+          cmake --build build/windows-release
+
+      - name: Run Tests
+        run: |
+          ctest --test-dir build/windows-release --output-on-failure
+
+      - name: Package Windows ZIP
+        shell: pwsh
+        run: |
+          tools/packaging/windows/build_windows_zip.ps1 -Version "${{ steps.version.outputs.version }}" -OutputDir "dist" -BuildDir "build/windows-release"
+
+      - name: List Windows Packages
+        shell: bash
+        run: |
+          ls -la dist/
+
+      - name: Upload Windows Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: windows-package
+          path: dist/*.zip
+          if-no-files-found: error
+
+  build-macos:
+    name: Build macOS DMG
+    runs-on: macos-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Determine Version
+        id: version
+        shell: bash
+        run: |
+          if [ -n "${{ github.event.inputs.version }}" ]; then
+            VER="${{ github.event.inputs.version }}"
+          elif [[ "${{ github.ref }}" == refs/tags/v* ]]; then
+            VER="${GITHUB_REF#refs/tags/v}"
+          else
+            VER="0.1.0"
+          fi
+          echo "version=${VER}" >> "$GITHUB_OUTPUT"
+          echo "Building version ${VER}"
+
+      - name: Setup Ninja
+        run: brew install ninja
+
+      - name: Configure CMake
+        run: |
+          cmake -B build/macos-release -G Ninja -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=ON
+
+      - name: Build Project
+        run: |
+          cmake --build build/macos-release
+
+      - name: Run Tests
+        run: |
+          ctest --test-dir build/macos-release --output-on-failure
+
+      - name: Build macOS DMG
+        run: |
+          ./tools/packaging/macos/build_dmg.sh "${{ steps.version.outputs.version }}" dist build/macos-release
+
+      - name: List macOS Packages
+        run: |
+          ls -la dist/
+
+      - name: Upload macOS Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: macos-package
+          path: dist/*.dmg
+          if-no-files-found: error
+
+  release:
+    name: Create GitHub Release
+    needs: [build-linux, build-windows, build-macos]
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/v') || github.event_name == 'workflow_dispatch' || github.ref == 'refs/heads/main'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Determine Version
+        id: version
+        shell: bash
+        run: |
+          if [ -n "${{ github.event.inputs.version }}" ]; then
+            VER="${{ github.event.inputs.version }}"
+          elif [[ "${{ github.ref }}" == refs/tags/v* ]]; then
+            VER="${GITHUB_REF#refs/tags/v}"
+          else
+            VER="0.1.0"
+          fi
+          echo "version=${VER}" >> "$GITHUB_OUTPUT"
+          echo "Release version: ${VER}"
+
+      - name: Download Linux Packages
+        uses: actions/download-artifact@v4
+        with:
+          name: linux-packages
+          path: release-assets/
+
+      - name: Download Windows Package
+        uses: actions/download-artifact@v4
+        with:
+          name: windows-package
+          path: release-assets/
+
+      - name: Download macOS Package
+        uses: actions/download-artifact@v4
+        with:
+          name: macos-package
+          path: release-assets/
+
+      - name: Inspect Release Assets
+        run: |
+          ls -la release-assets/
+
+      - name: Publish GitHub Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="v${{ steps.version.outputs.version }}"
+          echo "Creating or updating release for tag ${TAG}..."
+          if gh release view "${TAG}" >/dev/null 2>&1; then
+            echo "Release ${TAG} exists. Uploading assets..."
+            gh release upload "${TAG}" release-assets/* --clobber
+          else
+            echo "Creating new release ${TAG}..."
+            gh release create "${TAG}" release-assets/* \
+              --title "Arcade Blocks II ${TAG}" \
+              --generate-notes
+          fi

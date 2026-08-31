@@ -82,6 +82,34 @@
       "cacheVariables": {
         "CMAKE_BUILD_TYPE": "Release"
       }
+    },
+    {
+      "name": "macos-debug",
+      "inherits": "base",
+      "displayName": "macOS Debug",
+      "description": "Debug build for macOS.",
+      "condition": {
+        "type": "equals",
+        "lhs": "${hostSystemName}",
+        "rhs": "Darwin"
+      },
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug"
+      }
+    },
+    {
+      "name": "macos-release",
+      "inherits": "base",
+      "displayName": "macOS Release",
+      "description": "Optimized macOS build.",
+      "condition": {
+        "type": "equals",
+        "lhs": "${hostSystemName}",
+        "rhs": "Darwin"
+      },
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release"
+      }
     }
   ],
   "buildPresets": [
@@ -104,6 +132,14 @@
     {
       "name": "windows-msvc-release",
       "configurePreset": "windows-msvc-release"
+    },
+    {
+      "name": "macos-debug",
+      "configurePreset": "macos-debug"
+    },
+    {
+      "name": "macos-release",
+      "configurePreset": "macos-release"
     }
   ],
   "testPresets": [
@@ -138,6 +174,20 @@
     {
       "name": "windows-msvc-release",
       "configurePreset": "windows-msvc-release",
+      "output": {
+        "outputOnFailure": true
+      }
+    },
+    {
+      "name": "macos-debug",
+      "configurePreset": "macos-debug",
+      "output": {
+        "outputOnFailure": true
+      }
+    },
+    {
+      "name": "macos-release",
+      "configurePreset": "macos-release",
       "output": {
         "outputOnFailure": true
       }

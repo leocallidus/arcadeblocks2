@@ -1,5 +1,6 @@
 # Build directories and generated CMake files
 build/
+dist/
 out/
 linux-debug/
 linux-release/
@@ -29,6 +30,11 @@ compile_commands.json
 *.obj
 *.o
 *.d
+*.AppImage
+*.deb
+*.rpm
+*.pkg.tar.zst
+*.dmg
 ArcadeBlocksII
 arcadeblocks2_foundation_tests
 

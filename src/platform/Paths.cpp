@@ -47,11 +47,19 @@ std::optional<std::filesystem::path> findAssetsDirectory(const std::filesystem::
     const auto current = absoluteWeakly(std::filesystem::current_path());
     candidates.push_back(current / "assets");
     candidates.push_back(current / "arcadeblocks2" / "assets");
+    candidates.push_back(current / "share" / "arcadeblocks2" / "assets");
+    candidates.push_back(current / "share" / "arcadeblocks2");
 
     auto cursor = absoluteWeakly(executablePath).parent_path();
     for (int depth = 0; depth < 8 && !cursor.empty(); ++depth) {
         candidates.push_back(cursor / "assets");
         candidates.push_back(cursor / "arcadeblocks2" / "assets");
+        candidates.push_back(cursor / "share" / "arcadeblocks2" / "assets");
+        candidates.push_back(cursor / "share" / "arcadeblocks2");
+        candidates.push_back(cursor / "share" / "ArcadeBlocksII" / "assets");
+        candidates.push_back(cursor / "share" / "ArcadeBlocksII");
+        candidates.push_back(cursor / "Resources" / "assets");
+        candidates.push_back(cursor / "Resources");
         cursor = cursor.parent_path();
     }
 

@@ -30,6 +30,7 @@ if(ARCADEBLOCKS_USE_SYSTEM_DEPS)
 else()
     find_package(SDL3 3.4.10 CONFIG QUIET)
     if(NOT SDL3_FOUND)
+        set(SDL_INSTALL OFF CACHE BOOL "" FORCE)
         FetchContent_Declare(
             SDL3
             GIT_REPOSITORY https://github.com/libsdl-org/SDL.git
@@ -41,6 +42,7 @@ else()
 
     find_package(SDL3_image 3.4.4 CONFIG QUIET)
     if(NOT SDL3_image_FOUND)
+        set(SDLIMAGE_INSTALL OFF CACHE BOOL "" FORCE)
         set(SDLIMAGE_AVIF OFF CACHE BOOL "" FORCE)
         set(SDLIMAGE_JXL OFF CACHE BOOL "" FORCE)
         set(SDLIMAGE_TIF OFF CACHE BOOL "" FORCE)
@@ -81,6 +83,7 @@ else()
 
     find_package(SDL3_ttf 3.2.2 CONFIG QUIET)
     if(NOT SDL3_ttf_FOUND)
+        set(SDLTTF_INSTALL OFF CACHE BOOL "" FORCE)
         set(SDLTTF_SAMPLES OFF CACHE BOOL "" FORCE)
         set(SDLTTF_TESTS OFF CACHE BOOL "" FORCE)
         FetchContent_Declare(
@@ -94,6 +97,7 @@ else()
 
     find_package(nlohmann_json 3.12.0 CONFIG QUIET)
     if(NOT nlohmann_json_FOUND)
+        set(JSON_Install OFF CACHE BOOL "" FORCE)
         FetchContent_Declare(
             nlohmann_json
             GIT_REPOSITORY https://github.com/nlohmann/json.git
@@ -105,21 +109,25 @@ else()
 
     find_package(box2d 3.1.1 CONFIG QUIET)
     if(NOT box2d_FOUND)
+        set(BOX2D_INSTALL OFF CACHE BOOL "" FORCE)
+        set(BOX2D_SAMPLES OFF CACHE BOOL "" FORCE)
+        set(BOX2D_DOCS OFF CACHE BOOL "" FORCE)
+        set(BOX2D_PROFILE OFF CACHE BOOL "" FORCE)
+        set(BOX2D_VALIDATE OFF CACHE BOOL "" FORCE)
         FetchContent_Declare(
             box2d
             GIT_REPOSITORY https://github.com/erincatto/box2d.git
             GIT_TAG v3.1.1
             GIT_SHALLOW TRUE
         )
-        set(BOX2D_SAMPLES OFF CACHE BOOL "" FORCE)
-        set(BOX2D_DOCS OFF CACHE BOOL "" FORCE)
-        set(BOX2D_PROFILE OFF CACHE BOOL "" FORCE)
-        set(BOX2D_VALIDATE OFF CACHE BOOL "" FORCE)
         FetchContent_MakeAvailable(box2d)
     endif()
 
     find_package(Catch2 3.9.1 CONFIG QUIET)
     if(NOT Catch2_FOUND)
+        set(CATCH_INSTALL_DOCS OFF CACHE BOOL "" FORCE)
+        set(CATCH_INSTALL_HELPERS OFF CACHE BOOL "" FORCE)
+        set(CATCH_ENABLE_WERROR OFF CACHE BOOL "" FORCE)
         FetchContent_Declare(
             Catch2
             GIT_REPOSITORY https://github.com/catchorg/Catch2.git
@@ -386,3 +394,56 @@ if(BUILD_TESTING)
             WILL_FAIL TRUE
     )
 endif()
+
+include(GNUInstallDirs)
+
+install(TARGETS ArcadeBlocksII
+    RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
+    BUNDLE DESTINATION .
+)
+
+install(DIRECTORY assets/
+    DESTINATION ${CMAKE_INSTALL_DATADIR}/arcadeblocks2/assets
+)
+
+if(UNIX AND NOT APPLE)
+    install(FILES tools/packaging/linux/arcadeblocks2.desktop
+        DESTINATION ${CMAKE_INSTALL_DATADIR}/applications
+    )
+    install(FILES assets/sprites/favicon-192.png
+        DESTINATION ${CMAKE_INSTALL_DATADIR}/icons/hicolor/192x192/apps
+        RENAME arcadeblocks2.png
+    )
+    install(FILES assets/sprites/favicon-32.png
+        DESTINATION ${CMAKE_INSTALL_DATADIR}/icons/hicolor/32x32/apps
+        RENAME arcadeblocks2.png
+    )
+    install(FILES assets/sprites/favicon-192.png
+        DESTINATION ${CMAKE_INSTALL_DATADIR}/pixmaps
+        RENAME arcadeblocks2.png
+    )
+endif()
+
+set(CPACK_PACKAGE_NAME "arcadeblocks2")
+set(CPACK_PACKAGE_VENDOR "leocallidus")
+set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "Native C++ foundation for Arcade Blocks II")
+set(CPACK_PACKAGE_VERSION "${PROJECT_VERSION}")
+set(CPACK_PACKAGE_VERSION_MAJOR "${PROJECT_VERSION_MAJOR}")
+set(CPACK_PACKAGE_VERSION_MINOR "${PROJECT_VERSION_MINOR}")
+set(CPACK_PACKAGE_VERSION_PATCH "${PROJECT_VERSION_PATCH}")
+set(CPACK_PACKAGE_CONTACT "leoalekseev27@gmail.com")
+set(CPACK_RESOURCE_FILE_LICENSE "${CMAKE_CURRENT_SOURCE_DIR}/README.md")
+set(CPACK_PACKAGE_HOMEPAGE_URL "https://github.com/leocallidus/arcadeblocks2")
+
+set(CPACK_DEBIAN_PACKAGE_MAINTAINER "leocallidus <leoalekseev27@gmail.com>")
+set(CPACK_DEBIAN_PACKAGE_SECTION "games")
+set(CPACK_DEBIAN_PACKAGE_SHLIBDEPS ON)
+set(CPACK_DEBIAN_FILE_NAME "arcadeblocks2_${PROJECT_VERSION}_amd64.deb")
+
+set(CPACK_RPM_PACKAGE_LICENSE "Proprietary")
+set(CPACK_RPM_PACKAGE_GROUP "Amusements/Games")
+set(CPACK_RPM_PACKAGE_AUTOREQPROV ON)
+set(CPACK_RPM_FILE_NAME "arcadeblocks2-${PROJECT_VERSION}-1.x86_64.rpm")
+
+include(CPack)
+
